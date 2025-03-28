@@ -1,0 +1,90 @@
+2025-03-28 10:20:23,269 - INFO - Current time: 1743137423.2693186
+2025-03-28 10:20:23,271 - INFO - Token expiration time: 1743147045.3954916
+2025-03-28 10:20:23,272 - INFO - Token expiration time: 1743147045.3954916
+2025-03-28 10:20:23,273 - INFO - performing random action
+2025-03-28 10:20:23,274 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-28 10:20:23,274 - DEBUG - Scrolling page 3 times.
+2025-03-28 10:20:23,275 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:20:25,148 - DEBUG - Page scrolled.
+2025-03-28 10:20:27,150 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:20:29,159 - DEBUG - Page scrolled.
+2025-03-28 10:20:31,161 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:20:32,928 - DEBUG - Page scrolled.
+2025-03-28 10:20:34,930 - DEBUG - Random scrolls complete.
+2025-03-28 10:20:34,932 - DEBUG - Scrolling page 2 times.
+2025-03-28 10:20:34,934 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:20:36,415 - DEBUG - Page scrolled.
+2025-03-28 10:20:38,418 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:20:39,491 - DEBUG - Page scrolled.
+2025-03-28 10:20:41,493 - DEBUG - Random scrolls complete.
+2025-03-28 10:20:49,282 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/graphic-design.169/
+2025-03-28 10:20:52,723 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/graphic-design-can-anybody-tell-me-what-is-the-name-of-the-effect-in-this-video.1611360/
+2025-03-28 10:20:52,724 - INFO - Profile PhantomRoot: Restoring window...
+2025-03-28 10:20:54,725 - INFO - performing random action
+2025-03-28 10:21:12,490 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/graphic-design-can-anybody-tell-me-what-is-the-name-of-the-effect-in-this-video.1611360/
+2025-03-28 10:21:12,493 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/graphic-design-can-anybody-tell-me-what-is-the-name-of-the-effect-in-this-video.1611360/' to visited threads file 'Thread_links.txt'.
+2025-03-28 10:21:12,560 - INFO - Extracted thread title: Graphic Design - Can anybody tell me what is the name of the effect in this Video
+2025-03-28 10:21:12,561 - DEBUG - Scrolling page 2 times.
+2025-03-28 10:21:12,562 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:21:13,718 - DEBUG - Page scrolled.
+2025-03-28 10:21:15,721 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:21:17,685 - DEBUG - Page scrolled.
+2025-03-28 10:21:19,687 - DEBUG - Random scrolls complete.
+2025-03-28 10:21:22,294 - DEBUG - Scrolling page 2 times.
+2025-03-28 10:21:22,296 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:21:24,069 - DEBUG - Page scrolled.
+2025-03-28 10:21:27,071 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:21:28,382 - DEBUG - Page scrolled.
+2025-03-28 10:21:31,384 - DEBUG - Random scrolls complete.
+2025-03-28 10:21:31,427 - DEBUG - Found 5 like buttons.
+2025-03-28 10:21:34,429 - INFO - Attempting to like 3 posts. There are 5 available.
+2025-03-28 10:21:35,310 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-28 10:21:35,320 - INFO - Like button clicked successfully using JavaScript.
+2025-03-28 10:21:35,321 - DEBUG - Liked post number 1 of 3.
+2025-03-28 10:21:40,932 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-28 10:21:40,944 - INFO - Like button clicked successfully using JavaScript.
+2025-03-28 10:21:40,945 - DEBUG - Liked post number 2 of 3.
+2025-03-28 10:21:46,426 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-28 10:21:46,449 - INFO - Like button clicked successfully using JavaScript.
+2025-03-28 10:21:46,451 - DEBUG - Liked post number 3 of 3.
+2025-03-28 10:21:51,108 - INFO - Liked 3 posts successfully.
+2025-03-28 10:21:51,112 - INFO - Liked 3 posts successfully.
+2025-03-28 10:21:53,941 - INFO - Profile PhantomRoot: Restoring window...
+2025-03-28 10:21:55,946 - INFO - performing random action
+2025-03-28 10:21:55,948 - DEBUG - Scrolling page 3 times.
+2025-03-28 10:21:55,949 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:21:57,624 - DEBUG - Page scrolled.
+2025-03-28 10:22:00,627 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:22:02,565 - DEBUG - Page scrolled.
+2025-03-28 10:22:05,567 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:22:07,341 - DEBUG - Page scrolled.
+2025-03-28 10:22:10,343 - DEBUG - Random scrolls complete.
+2025-03-28 10:22:12,875 - DEBUG - Total comments in the thread: 6
+2025-03-28 10:23:14,765 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Graphic Design - Can anybody tell me what is the name of the effect in this Video.txt
+2025-03-28 10:23:16,781 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-28 10:23:16,843 - DEBUG - Extracted main post content: In this video, from 00:00 to 00:05 secs of the video there is a scrolling effect between two images. I want to know what that effect is called. If you know please let me know. Thank you.
+2025-03-28 10:23:20,082 - INFO - Successfully generated comments using Gemini API.
+2025-03-28 10:23:20,086 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-28 10:23:22,094 - INFO - performing random action
+2025-03-28 10:23:22,097 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 10:23:22,099 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 10:23:22,112 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 10:23:22,150 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 10:23:22,156 - DEBUG - Text box scrolled into view
+2025-03-28 10:23:23,093 - DEBUG - Initializing actionchains
+2025-03-28 10:23:23,112 - DEBUG - Post reply Element location: {'x': 1231, 'y': 3106}, size: {'height': 21, 'width': 68}
+2025-03-28 10:23:23,113 - DEBUG - Target click coordinates: (1265, 3116)
+2025-03-28 10:23:33,508 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-28 10:23:33,509 - DEBUG - Moving mouse to text box element.
+2025-03-28 10:23:33,510 - DEBUG - Clicking on the text box.
+2025-03-28 10:23:33,512 - DEBUG - Sending keys with content: Could be a simple parallax effect or maybe a Ken Burns effect if it's slowly zooming too. Hard to say without seeing it!
+
+2025-03-28 10:23:39,065 - DEBUG - Clicking on post reply button.
+2025-03-28 10:23:50,012 - DEBUG - Performed Actionchains
+2025-03-28 10:23:50,012 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-28 10:23:54,014 - INFO - Comment posted successfully.
+2025-03-28 10:23:54,016 - INFO - Task Completed!!
+2025-03-28 10:24:01,489 - INFO - Navigated back to the homepage.
+2025-03-28 10:24:04,456 - INFO - Attempting to clear memory and resources.
+2025-03-28 10:24:04,486 - INFO - Garbage collection completed.
+2025-03-28 10:24:04,486 - INFO - Waiting for 1000 seconds before next execution.

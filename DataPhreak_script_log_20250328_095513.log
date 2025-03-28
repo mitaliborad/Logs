@@ -1,0 +1,101 @@
+2025-03-28 09:55:13,782 - INFO - Current time: 1743135913.78291
+2025-03-28 09:55:13,783 - INFO - Token expiration time: 1743146707.8133519
+2025-03-28 09:55:13,784 - INFO - Token expiration time: 1743146707.8133519
+2025-03-28 09:55:13,784 - INFO - performing random action
+2025-03-28 09:55:13,785 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-28 09:55:13,786 - DEBUG - Scrolling page 3 times.
+2025-03-28 09:55:13,786 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 09:55:22,523 - DEBUG - Page scrolled.
+2025-03-28 09:55:24,524 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 09:55:25,694 - DEBUG - Page scrolled.
+2025-03-28 09:55:27,697 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 09:55:29,119 - DEBUG - Page scrolled.
+2025-03-28 09:55:31,120 - DEBUG - Random scrolls complete.
+2025-03-28 09:55:31,121 - DEBUG - Scrolling page 3 times.
+2025-03-28 09:55:31,122 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 09:55:32,740 - DEBUG - Page scrolled.
+2025-03-28 09:55:34,742 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 09:55:36,578 - DEBUG - Page scrolled.
+2025-03-28 09:55:38,580 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 09:55:40,447 - DEBUG - Page scrolled.
+2025-03-28 09:55:42,449 - DEBUG - Random scrolls complete.
+2025-03-28 09:55:48,248 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/weibo.216/
+2025-03-28 09:55:51,810 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/low-reach-poor-engagement-on-wechat-lives.1515640/
+2025-03-28 09:55:51,811 - INFO - Profile DataPhreak: Pausing for 40.40 seconds...
+2025-03-28 09:56:32,209 - INFO - Profile DataPhreak: Resuming...
+2025-03-28 09:56:32,212 - INFO - performing random action
+2025-03-28 09:56:43,093 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/low-reach-poor-engagement-on-wechat-lives.1515640/
+2025-03-28 09:56:43,096 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/low-reach-poor-engagement-on-wechat-lives.1515640/' to visited threads file 'Thread_links.txt'.
+2025-03-28 09:56:43,136 - INFO - Extracted thread title: Low reach & poor engagement on WeChat lives
+2025-03-28 09:56:43,137 - DEBUG - Scrolling page 3 times.
+2025-03-28 09:56:43,137 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 09:56:44,705 - DEBUG - Page scrolled.
+2025-03-28 09:56:46,708 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 09:56:47,872 - DEBUG - Page scrolled.
+2025-03-28 09:56:49,874 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 09:56:51,429 - DEBUG - Page scrolled.
+2025-03-28 09:56:53,433 - DEBUG - Random scrolls complete.
+2025-03-28 09:56:56,345 - DEBUG - Scrolling page 2 times.
+2025-03-28 09:56:56,348 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 09:56:57,476 - DEBUG - Page scrolled.
+2025-03-28 09:57:00,478 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 09:57:01,664 - DEBUG - Page scrolled.
+2025-03-28 09:57:04,667 - DEBUG - Random scrolls complete.
+2025-03-28 09:57:04,690 - DEBUG - Found 16 like buttons.
+2025-03-28 09:57:07,691 - INFO - Attempting to like 2 posts. There are 16 available.
+2025-03-28 09:57:08,579 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-28 09:57:08,593 - INFO - Like button clicked successfully using JavaScript.
+2025-03-28 09:57:08,594 - DEBUG - Liked post number 1 of 2.
+2025-03-28 09:57:14,104 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-28 09:57:14,120 - INFO - Like button clicked successfully using JavaScript.
+2025-03-28 09:57:14,120 - DEBUG - Liked post number 2 of 2.
+2025-03-28 09:57:18,164 - INFO - Liked 2 posts successfully.
+2025-03-28 09:57:18,167 - INFO - Liked 2 posts successfully.
+2025-03-28 09:57:20,322 - INFO - performing random action
+2025-03-28 09:57:20,325 - DEBUG - Scrolling page 7 times.
+2025-03-28 09:57:20,327 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 09:57:21,586 - DEBUG - Page scrolled.
+2025-03-28 09:57:24,589 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 09:57:26,107 - DEBUG - Page scrolled.
+2025-03-28 09:57:29,109 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 09:57:30,850 - DEBUG - Page scrolled.
+2025-03-28 09:57:33,853 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 09:57:35,534 - DEBUG - Page scrolled.
+2025-03-28 09:57:38,536 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 09:57:40,453 - DEBUG - Page scrolled.
+2025-03-28 09:57:43,456 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 09:57:45,297 - DEBUG - Page scrolled.
+2025-03-28 09:57:48,299 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 09:57:49,565 - DEBUG - Page scrolled.
+2025-03-28 09:57:52,567 - DEBUG - Random scrolls complete.
+2025-03-28 09:57:54,977 - DEBUG - Total comments in the thread: 16
+2025-03-28 09:59:21,047 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Low reach & poor engagement on WeChat lives.txt
+2025-03-28 09:59:23,790 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-28 09:59:23,823 - DEBUG - Extracted main post content: I work with an OnlyFans model, and her engagement on TikTok lives is great, consistently hitting 5k views throughout the live, however on WeChat the engagement is terrible rarely hitting 100+ views with poor conversion, does it pick up the more you use it? Can anyone direct me to information that would be useful to read? I don’t feel that she is the issue or her content, and it would be great to utilise another platform for growth,
+
+Thanks for reading!
+2025-03-28 09:59:27,995 - INFO - Successfully generated comments using Gemini API.
+2025-03-28 09:59:27,997 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-28 09:59:30,677 - INFO - performing random action
+2025-03-28 09:59:30,681 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 09:59:30,682 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 09:59:30,701 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 09:59:30,750 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 09:59:30,756 - DEBUG - Text box scrolled into view
+2025-03-28 09:59:31,404 - DEBUG - Initializing actionchains
+2025-03-28 09:59:31,456 - DEBUG - Post reply Element location: {'x': 1231, 'y': 5291}, size: {'height': 21, 'width': 68}
+2025-03-28 09:59:31,457 - DEBUG - Target click coordinates: (1265, 5301)
+2025-03-28 09:59:46,960 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-28 09:59:46,962 - DEBUG - Moving mouse to text box element.
+2025-03-28 09:59:46,963 - DEBUG - Clicking on the text box.
+2025-03-28 09:59:46,973 - DEBUG - Sending keys with content: WeChat's a whole different beast than TikTok; maybe try tailoring the content specifically for that platform’s audience, like behind-the-scenes stuff or Q\&As. Have you checked if WeChat has specific content guidelines that might be affecting visibility?
+
+2025-03-28 09:59:52,911 - DEBUG - Clicking on post reply button.
+2025-03-28 10:00:04,176 - DEBUG - Performed Actionchains
+2025-03-28 10:00:04,177 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-28 10:00:08,178 - INFO - Comment posted successfully.
+2025-03-28 10:00:08,179 - INFO - Task Completed!!
+2025-03-28 10:00:15,323 - INFO - Navigated back to the homepage.
+2025-03-28 10:00:17,618 - INFO - Attempting to clear memory and resources.
+2025-03-28 10:00:17,647 - INFO - Garbage collection completed.
+2025-03-28 10:00:17,648 - INFO - Waiting for 1000 seconds before next execution.

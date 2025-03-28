@@ -1,0 +1,118 @@
+2025-03-28 11:23:56,382 - INFO - Current time: 1743141236.38285
+2025-03-28 11:23:56,385 - INFO - Token expiration time: 1743147045.3954916
+2025-03-28 11:23:56,388 - INFO - Token expiration time: 1743147045.3954916
+2025-03-28 11:23:56,390 - INFO - performing random action
+2025-03-28 11:23:56,393 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-28 11:23:56,396 - DEBUG - Scrolling page 4 times.
+2025-03-28 11:23:56,397 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:23:58,236 - DEBUG - Page scrolled.
+2025-03-28 11:24:00,238 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:24:01,609 - DEBUG - Page scrolled.
+2025-03-28 11:24:03,611 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:24:05,317 - DEBUG - Page scrolled.
+2025-03-28 11:24:07,319 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:24:08,694 - DEBUG - Page scrolled.
+2025-03-28 11:24:10,696 - DEBUG - Random scrolls complete.
+2025-03-28 11:24:10,698 - DEBUG - Scrolling page 2 times.
+2025-03-28 11:24:10,700 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:24:11,960 - DEBUG - Page scrolled.
+2025-03-28 11:24:13,962 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:24:15,258 - DEBUG - Page scrolled.
+2025-03-28 11:24:17,260 - DEBUG - Random scrolls complete.
+2025-03-28 11:24:28,205 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/general-programming-chat.128/
+2025-03-28 11:24:31,478 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/when-to-use-single-quotes-in-if-statement-for-numbers-or-do-i.1689705/unread
+2025-03-28 11:24:31,479 - INFO - Profile PhantomRoot: Opening default URL: https://www.google.com
+2025-03-28 11:24:41,288 - INFO - Profile PhantomRoot: Pausing for 47.75 seconds...
+2025-03-28 11:25:29,044 - INFO - Profile PhantomRoot: Resuming...
+2025-03-28 11:25:29,076 - INFO - Profile PhantomRoot: Switched back to original tab.
+2025-03-28 11:25:29,077 - INFO - performing random action
+2025-03-28 11:25:38,904 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/when-to-use-single-quotes-in-if-statement-for-numbers-or-do-i.1689705/unread
+2025-03-28 11:25:38,907 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/when-to-use-single-quotes-in-if-statement-for-numbers-or-do-i.1689705/unread' to visited threads file 'Thread_links.txt'.
+2025-03-28 11:25:38,943 - INFO - Extracted thread title: When to use single quotes in if statement == for numbers or do i
+2025-03-28 11:25:38,944 - DEBUG - Scrolling page 2 times.
+2025-03-28 11:25:38,944 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:25:40,607 - DEBUG - Page scrolled.
+2025-03-28 11:25:42,610 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:25:44,244 - DEBUG - Page scrolled.
+2025-03-28 11:25:46,246 - DEBUG - Random scrolls complete.
+2025-03-28 11:25:48,828 - DEBUG - Scrolling page 1 times.
+2025-03-28 11:25:48,830 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:25:50,700 - DEBUG - Page scrolled.
+2025-03-28 11:25:53,702 - DEBUG - Random scrolls complete.
+2025-03-28 11:25:53,732 - DEBUG - Found 4 like buttons.
+2025-03-28 11:25:56,733 - INFO - Attempting to like 2 posts. There are 4 available.
+2025-03-28 11:25:57,314 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-28 11:25:57,325 - INFO - Like button clicked successfully using JavaScript.
+2025-03-28 11:25:57,326 - DEBUG - Liked post number 1 of 2.
+2025-03-28 11:26:02,994 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-28 11:26:03,013 - INFO - Like button clicked successfully using JavaScript.
+2025-03-28 11:26:03,016 - DEBUG - Liked post number 2 of 2.
+2025-03-28 11:26:07,748 - INFO - Liked 2 posts successfully.
+2025-03-28 11:26:07,750 - INFO - Liked 2 posts successfully.
+2025-03-28 11:26:10,521 - INFO - performing random action
+2025-03-28 11:26:10,524 - DEBUG - Scrolling page 5 times.
+2025-03-28 11:26:10,525 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:26:12,059 - DEBUG - Page scrolled.
+2025-03-28 11:26:15,061 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:26:16,566 - DEBUG - Page scrolled.
+2025-03-28 11:26:19,569 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:26:20,619 - DEBUG - Page scrolled.
+2025-03-28 11:26:23,621 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:26:25,606 - DEBUG - Page scrolled.
+2025-03-28 11:26:28,608 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:26:29,854 - DEBUG - Page scrolled.
+2025-03-28 11:26:32,856 - DEBUG - Random scrolls complete.
+2025-03-28 11:26:35,396 - DEBUG - Total comments in the thread: 4
+2025-03-28 11:26:56,245 - INFO - Post content extracted and saved to Thread-Details/Thread Content\When to use single quotes in if statement == for numbers or do i.txt
+2025-03-28 11:26:58,829 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-28 11:26:58,862 - DEBUG - Extracted main post content: I have a question, I can't recall, but when using if statements. I know when using == towards letters you have to use single quotes. For example if(variable == 'dog'){ this is true}
+
+However, are numbers different. I think this code below would execute to true if the $starcard variable matched the number or do I need to put the number into single quotes?
+
+Clearly, I am going to test it, but just making sure to avoid any issues.
+
+if($strcard == 533248){
+will be true?
+}else{}
+2025-03-28 11:27:02,255 - INFO - Successfully generated comments using Gemini API.
+2025-03-28 11:27:02,259 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-28 11:27:04,610 - INFO - Profile PhantomRoot: Opening default URL: https://www.google.com
+2025-03-28 11:27:10,814 - INFO - Profile PhantomRoot: Pausing for 49.39 seconds...
+2025-03-28 11:28:00,205 - INFO - Profile PhantomRoot: Resuming...
+2025-03-28 11:28:00,225 - INFO - Profile PhantomRoot: Switched back to original tab.
+2025-03-28 11:28:00,228 - INFO - performing random action
+2025-03-28 11:28:00,229 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 11:28:00,230 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 11:28:00,245 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 11:28:00,283 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 11:28:00,289 - DEBUG - Text box scrolled into view
+2025-03-28 11:28:01,057 - DEBUG - Initializing actionchains
+2025-03-28 11:28:01,103 - DEBUG - Post reply Element location: {'x': 1231, 'y': 2547}, size: {'height': 21, 'width': 68}
+2025-03-28 11:28:01,103 - DEBUG - Target click coordinates: (1265, 2557)
+2025-03-28 11:28:10,538 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-28 11:28:10,540 - DEBUG - Moving mouse to text box element.
+2025-03-28 11:28:10,542 - DEBUG - Clicking on the text box.
+2025-03-28 11:28:10,545 - DEBUG - Sending keys with content: Yep, numbers are different; you don't need the single quotes there.
+
+2025-03-28 11:28:16,079 - DEBUG - Clicking on post reply button.
+2025-03-28 11:28:26,861 - DEBUG - Performed Actionchains
+2025-03-28 11:28:26,861 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-28 11:28:30,862 - INFO - Comment posted successfully.
+2025-03-28 11:28:30,865 - INFO - Task Completed!!
+2025-03-28 11:28:36,522 - INFO - Navigated back to the homepage.
+2025-03-28 11:28:38,915 - INFO - Attempting to clear memory and resources.
+2025-03-28 11:28:38,952 - INFO - Garbage collection completed.
+2025-03-28 11:28:38,953 - INFO - Waiting for 1000 seconds before next execution.
+2025-03-28 11:45:18,954 - INFO - Automation has reached the time limit. Stopping execution.
+2025-03-28 11:45:18,956 - INFO - Stopping browser for profile: PhantomRoot...
+2025-03-28 11:45:18,959 - INFO - Refreshing token before stopping profile...
+2025-03-28 11:45:18,961 - INFO - Refreshing token for PhantomRoot...
+2025-03-28 11:45:19,991 - INFO - Received expires_in from MultiLogin: 10800
+2025-03-28 11:45:19,994 - INFO - Calculated token expiration time: 1743153319.994709
+2025-03-28 11:45:19,997 - INFO - Profile PhantomRoot: Successfully logged in.
+2025-03-28 11:45:19,999 - INFO - Token refreshed successfully before stopping.
+2025-03-28 11:45:20,002 - INFO - Profile PhantomRoot: Attempting to stop (Attempt 1/3)...
+2025-03-28 11:45:20,011 - INFO - Profile PhantomRoot: Browser closed successfully in 0.01 seconds.
+2025-03-28 11:45:23,029 - INFO - Profile PhantomRoot: API call took 3.02 seconds.
+2025-03-28 11:45:23,030 - INFO - Profile PhantomRoot: Stopped successfully.
+2025-03-28 11:45:23,031 - INFO - Browser stopped successfully for profile: PhantomRoot.

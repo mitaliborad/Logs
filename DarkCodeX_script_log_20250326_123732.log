@@ -1,0 +1,13 @@
+2025-03-26 12:37:32,521 - INFO - Automation has reached the time limit. Stopping execution.
+2025-03-26 12:37:32,521 - INFO - Stopping browser for profile: DarkCodeX...
+2025-03-26 12:37:32,522 - INFO - Refreshing token before stopping profile...
+2025-03-26 12:37:32,522 - INFO - Refreshing token for DarkCodeX...
+2025-03-26 12:37:33,278 - INFO - Received expires_in from MultiLogin: 7200
+2025-03-26 12:37:33,279 - INFO - Calculated token expiration time: 1742980053.2796445
+2025-03-26 12:37:33,280 - INFO - Profile DarkCodeX: Successfully logged in.
+2025-03-26 12:37:33,281 - INFO - Token refreshed successfully before stopping.
+2025-03-26 12:37:33,282 - INFO - Profile DarkCodeX: Attempting to stop (Attempt 1/3)...
+2025-03-26 12:37:33,285 - INFO - Profile DarkCodeX: Browser closed successfully in 0.00 seconds.
+2025-03-26 12:37:36,771 - INFO - Profile DarkCodeX: API call took 3.49 seconds.
+2025-03-26 12:37:36,774 - INFO - Profile DarkCodeX: Stopped successfully.
+2025-03-26 12:37:36,777 - INFO - Browser stopped successfully for profile: DarkCodeX.

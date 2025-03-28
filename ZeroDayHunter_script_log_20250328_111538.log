@@ -1,0 +1,113 @@
+2025-03-28 11:15:38,963 - INFO - Current time: 1743140738.9636147
+2025-03-28 11:15:38,966 - INFO - Token expiration time: 1743147581.5060587
+2025-03-28 11:15:38,968 - INFO - Token expiration time: 1743147581.5060587
+2025-03-28 11:15:38,971 - INFO - Profile ZeroDayHunter: Minimizing window...
+2025-03-28 11:15:38,979 - INFO - Profile ZeroDayHunter: Window minimized. Pausing for 20.22 seconds...
+2025-03-28 11:15:59,201 - INFO - Profile ZeroDayHunter: Resuming after minimize...
+2025-03-28 11:15:59,204 - INFO - performing random action
+2025-03-28 11:15:59,207 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-28 11:15:59,210 - DEBUG - Scrolling page 2 times.
+2025-03-28 11:15:59,212 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:16:00,862 - DEBUG - Page scrolled.
+2025-03-28 11:16:02,864 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:16:04,537 - DEBUG - Page scrolled.
+2025-03-28 11:16:06,550 - DEBUG - Random scrolls complete.
+2025-03-28 11:16:06,550 - DEBUG - Scrolling page 4 times.
+2025-03-28 11:16:06,551 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:16:08,542 - DEBUG - Page scrolled.
+2025-03-28 11:16:10,544 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:16:12,549 - DEBUG - Page scrolled.
+2025-03-28 11:16:14,552 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:16:16,353 - DEBUG - Page scrolled.
+2025-03-28 11:16:18,355 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:16:19,556 - DEBUG - Page scrolled.
+2025-03-28 11:16:21,558 - DEBUG - Random scrolls complete.
+2025-03-28 11:16:31,784 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/local-seo.209/
+2025-03-28 11:16:35,131 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/why-my-verified-google-my-business-profile-is-not-showing-in-google.1692155/unread
+2025-03-28 11:16:35,131 - INFO - performing random action
+2025-03-28 11:16:43,101 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/why-my-verified-google-my-business-profile-is-not-showing-in-google.1692155/unread
+2025-03-28 11:16:43,102 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/why-my-verified-google-my-business-profile-is-not-showing-in-google.1692155/unread' to visited threads file 'Thread_links.txt'.
+2025-03-28 11:16:43,128 - INFO - Extracted thread title: Why my verified Google my business profile is not showing in Google
+2025-03-28 11:16:43,129 - DEBUG - Scrolling page 3 times.
+2025-03-28 11:16:43,129 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:16:44,506 - DEBUG - Page scrolled.
+2025-03-28 11:16:46,508 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:16:47,665 - DEBUG - Page scrolled.
+2025-03-28 11:16:49,667 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:16:50,949 - DEBUG - Page scrolled.
+2025-03-28 11:16:52,951 - DEBUG - Random scrolls complete.
+2025-03-28 11:16:55,529 - DEBUG - Scrolling page 4 times.
+2025-03-28 11:16:55,530 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:16:56,771 - DEBUG - Page scrolled.
+2025-03-28 11:16:59,774 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:17:01,410 - DEBUG - Page scrolled.
+2025-03-28 11:17:04,412 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:17:06,247 - DEBUG - Page scrolled.
+2025-03-28 11:17:09,249 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:17:11,113 - DEBUG - Page scrolled.
+2025-03-28 11:17:14,115 - DEBUG - Random scrolls complete.
+2025-03-28 11:17:14,150 - DEBUG - Found 6 like buttons.
+2025-03-28 11:17:17,151 - INFO - Attempting to like 1 posts. There are 6 available.
+2025-03-28 11:17:17,862 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-28 11:17:17,885 - INFO - Like button clicked successfully using JavaScript.
+2025-03-28 11:17:17,886 - DEBUG - Liked post number 1 of 1.
+2025-03-28 11:17:22,460 - INFO - Liked 1 posts successfully.
+2025-03-28 11:17:22,463 - INFO - Liked 1 posts successfully.
+2025-03-28 11:17:24,901 - INFO - performing random action
+2025-03-28 11:17:24,904 - DEBUG - Scrolling page 4 times.
+2025-03-28 11:17:24,906 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:17:26,017 - DEBUG - Page scrolled.
+2025-03-28 11:17:29,019 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:17:30,272 - DEBUG - Page scrolled.
+2025-03-28 11:17:33,274 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:17:35,169 - DEBUG - Page scrolled.
+2025-03-28 11:17:38,171 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:17:39,682 - DEBUG - Page scrolled.
+2025-03-28 11:17:42,684 - DEBUG - Random scrolls complete.
+2025-03-28 11:17:45,027 - DEBUG - Total comments in the thread: 6
+2025-03-28 11:18:05,938 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Why my verified Google my business profile is not showing in Google.txt
+2025-03-28 11:18:08,150 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-28 11:18:08,189 - DEBUG - Extracted main post content: I created a Google My Business profile 3 days ago, and it was automatically verified. However, the profile still isn’t showing up on Google Search or Maps. Is this normal, or is there something I need to do to make it visible? How long does it usually take for a newly verified profile to appear?
+
+Any advice would be appreciated!
+2025-03-28 11:18:13,414 - INFO - Successfully generated comments using Gemini API.
+2025-03-28 11:18:13,417 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-28 11:18:15,499 - INFO - Profile ZeroDayHunter: Minimizing window...
+2025-03-28 11:18:15,504 - INFO - Profile ZeroDayHunter: Window minimized. Pausing for 25.03 seconds...
+2025-03-28 11:18:40,533 - INFO - Profile ZeroDayHunter: Resuming after minimize...
+2025-03-28 11:18:40,536 - INFO - performing random action
+2025-03-28 11:18:40,538 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 11:18:40,540 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 11:18:40,570 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 11:18:40,607 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 11:18:40,613 - DEBUG - Text box scrolled into view
+2025-03-28 11:18:41,308 - DEBUG - Initializing actionchains
+2025-03-28 11:18:41,355 - DEBUG - Post reply Element location: {'x': 1231, 'y': 2898}, size: {'height': 21, 'width': 68}
+2025-03-28 11:18:41,356 - DEBUG - Target click coordinates: (1265, 2908)
+2025-03-28 11:18:50,817 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-28 11:18:50,819 - DEBUG - Moving mouse to text box element.
+2025-03-28 11:18:50,820 - DEBUG - Clicking on the text box.
+2025-03-28 11:18:50,822 - DEBUG - Sending keys with content: Sometimes it can take a week or two, but check your profile for any pending edits or policy violations; those can hold things up.
+
+2025-03-28 11:18:56,420 - DEBUG - Clicking on post reply button.
+2025-03-28 11:19:07,447 - DEBUG - Performed Actionchains
+2025-03-28 11:19:07,448 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-28 11:19:11,450 - INFO - Comment posted successfully.
+2025-03-28 11:19:11,453 - INFO - Task Completed!!
+2025-03-28 11:19:18,119 - INFO - Navigated back to the homepage.
+2025-03-28 11:19:20,494 - INFO - Attempting to clear memory and resources.
+2025-03-28 11:19:20,519 - INFO - Garbage collection completed.
+2025-03-28 11:19:20,520 - INFO - Waiting for 1000 seconds before next execution.
+2025-03-28 11:36:00,521 - INFO - Automation has reached the time limit. Stopping execution.
+2025-03-28 11:36:00,524 - INFO - Stopping browser for profile: ZeroDayHunter...
+2025-03-28 11:36:00,526 - INFO - Refreshing token before stopping profile...
+2025-03-28 11:36:00,529 - INFO - Refreshing token for ZeroDayHunter...
+2025-03-28 11:36:01,510 - INFO - Received expires_in from MultiLogin: 10800
+2025-03-28 11:36:01,511 - INFO - Calculated token expiration time: 1743152761.511728
+2025-03-28 11:36:01,512 - INFO - Profile ZeroDayHunter: Successfully logged in.
+2025-03-28 11:36:01,514 - INFO - Token refreshed successfully before stopping.
+2025-03-28 11:36:01,514 - INFO - Profile ZeroDayHunter: Attempting to stop (Attempt 1/3)...
+2025-03-28 11:36:01,517 - INFO - Profile ZeroDayHunter: Browser closed successfully in 0.00 seconds.
+2025-03-28 11:36:05,386 - INFO - Profile ZeroDayHunter: API call took 3.87 seconds.
+2025-03-28 11:36:05,387 - INFO - Profile ZeroDayHunter: Stopped successfully.
+2025-03-28 11:36:05,388 - INFO - Browser stopped successfully for profile: ZeroDayHunter.

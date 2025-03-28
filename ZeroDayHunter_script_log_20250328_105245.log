@@ -1,0 +1,121 @@
+2025-03-28 10:52:45,396 - INFO - Current time: 1743139365.3963275
+2025-03-28 10:52:45,399 - INFO - Token expiration time: 1743147581.5060587
+2025-03-28 10:52:45,401 - INFO - Token expiration time: 1743147581.5060587
+2025-03-28 10:52:45,404 - INFO - Profile ZeroDayHunter: Opening default URL: https://www.google.com
+2025-03-28 10:53:06,381 - INFO - Profile ZeroDayHunter: Pausing for 32.71 seconds...
+2025-03-28 10:53:39,094 - INFO - Profile ZeroDayHunter: Resuming...
+2025-03-28 10:53:39,123 - INFO - Profile ZeroDayHunter: Switched back to original tab.
+2025-03-28 10:53:39,125 - INFO - performing random action
+2025-03-28 10:53:39,127 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-28 10:53:39,129 - DEBUG - Scrolling page 4 times.
+2025-03-28 10:53:39,129 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:53:40,944 - DEBUG - Page scrolled.
+2025-03-28 10:53:42,947 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:53:44,127 - DEBUG - Page scrolled.
+2025-03-28 10:53:46,130 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:53:47,839 - DEBUG - Page scrolled.
+2025-03-28 10:53:49,840 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:53:51,694 - DEBUG - Page scrolled.
+2025-03-28 10:53:53,696 - DEBUG - Random scrolls complete.
+2025-03-28 10:53:53,697 - DEBUG - Scrolling page 2 times.
+2025-03-28 10:53:53,699 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:53:55,232 - DEBUG - Page scrolled.
+2025-03-28 10:53:57,234 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:53:58,377 - DEBUG - Page scrolled.
+2025-03-28 10:54:00,378 - DEBUG - Random scrolls complete.
+2025-03-28 10:54:15,951 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/blogging.3/
+2025-03-28 10:54:19,726 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/new-to-blogspot-give-me-guidence.1692732/unread
+2025-03-28 10:54:19,727 - INFO - Profile ZeroDayHunter: Restoring window...
+2025-03-28 10:54:21,728 - INFO - performing random action
+2025-03-28 10:54:30,674 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/new-to-blogspot-give-me-guidence.1692732/unread
+2025-03-28 10:54:30,679 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/new-to-blogspot-give-me-guidence.1692732/unread' to visited threads file 'Thread_links.txt'.
+2025-03-28 10:54:30,780 - INFO - Extracted thread title: New to blogspot,give me guidence
+2025-03-28 10:54:30,781 - DEBUG - Scrolling page 4 times.
+2025-03-28 10:54:30,782 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:54:32,623 - DEBUG - Page scrolled.
+2025-03-28 10:54:34,625 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:54:36,627 - DEBUG - Page scrolled.
+2025-03-28 10:54:38,631 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:54:40,128 - DEBUG - Page scrolled.
+2025-03-28 10:54:42,132 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:54:43,370 - DEBUG - Page scrolled.
+2025-03-28 10:54:45,376 - DEBUG - Random scrolls complete.
+2025-03-28 10:54:48,288 - DEBUG - Scrolling page 4 times.
+2025-03-28 10:54:48,290 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:54:49,522 - DEBUG - Page scrolled.
+2025-03-28 10:54:52,526 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:54:54,071 - DEBUG - Page scrolled.
+2025-03-28 10:54:57,074 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:54:58,861 - DEBUG - Page scrolled.
+2025-03-28 10:55:01,863 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:55:03,542 - DEBUG - Page scrolled.
+2025-03-28 10:55:06,545 - DEBUG - Random scrolls complete.
+2025-03-28 10:55:06,609 - DEBUG - Found 12 like buttons.
+2025-03-28 10:55:09,614 - INFO - Attempting to like 4 posts. There are 12 available.
+2025-03-28 10:55:10,428 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-28 10:55:10,488 - INFO - Like button clicked successfully using JavaScript.
+2025-03-28 10:55:10,490 - DEBUG - Liked post number 1 of 4.
+2025-03-28 10:55:16,344 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-28 10:55:16,375 - INFO - Like button clicked successfully using JavaScript.
+2025-03-28 10:55:16,378 - DEBUG - Liked post number 2 of 4.
+2025-03-28 10:55:21,372 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-28 10:55:21,396 - INFO - Like button clicked successfully using JavaScript.
+2025-03-28 10:55:21,398 - DEBUG - Liked post number 3 of 4.
+2025-03-28 10:55:26,190 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-28 10:55:26,214 - INFO - Like button clicked successfully using JavaScript.
+2025-03-28 10:55:26,222 - DEBUG - Liked post number 4 of 4.
+2025-03-28 10:55:30,903 - INFO - Liked 4 posts successfully.
+2025-03-28 10:55:30,905 - INFO - Liked 4 posts successfully.
+2025-03-28 10:55:33,335 - INFO - Profile ZeroDayHunter: Pausing for 37.80 seconds...
+2025-03-28 10:56:11,143 - INFO - Profile ZeroDayHunter: Resuming...
+2025-03-28 10:56:11,144 - INFO - performing random action
+2025-03-28 10:56:11,145 - DEBUG - Scrolling page 6 times.
+2025-03-28 10:56:11,145 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:56:12,335 - DEBUG - Page scrolled.
+2025-03-28 10:56:15,346 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:56:17,125 - DEBUG - Page scrolled.
+2025-03-28 10:56:20,129 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:56:21,307 - DEBUG - Page scrolled.
+2025-03-28 10:56:24,310 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:56:26,024 - DEBUG - Page scrolled.
+2025-03-28 10:56:29,028 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:56:30,287 - DEBUG - Page scrolled.
+2025-03-28 10:56:33,289 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:56:34,783 - DEBUG - Page scrolled.
+2025-03-28 10:56:37,788 - DEBUG - Random scrolls complete.
+2025-03-28 10:56:40,484 - DEBUG - Total comments in the thread: 12
+2025-03-28 10:58:03,329 - INFO - Post content extracted and saved to Thread-Details/Thread Content\New to blogspot,give me guidence.txt
+2025-03-28 10:58:05,479 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-28 10:58:05,517 - DEBUG - Extracted main post content: I am mostly wordpress user,there also I use basic plugins like related posts ,adsense and cache
+
+now I moved to blogspot
+
+I have blog where I put job posting
+nothing fancy m,text matter with job location,description and email id
+
+what extra setting I should do in blogspot/
+2025-03-28 10:58:10,872 - INFO - Successfully generated comments using Gemini API.
+2025-03-28 10:58:10,873 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-28 10:58:13,827 - INFO - performing random action
+2025-03-28 10:58:13,829 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 10:58:13,831 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 10:58:13,885 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 10:58:13,970 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 10:58:13,983 - DEBUG - Text box scrolled into view
+2025-03-28 10:58:14,592 - DEBUG - Initializing actionchains
+2025-03-28 10:58:14,686 - DEBUG - Post reply Element location: {'x': 1231, 'y': 4744}, size: {'height': 21, 'width': 68}
+2025-03-28 10:58:14,687 - DEBUG - Target click coordinates: (1265, 4754)
+2025-03-28 10:58:28,601 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-28 10:58:28,602 - DEBUG - Moving mouse to text box element.
+2025-03-28 10:58:28,603 - DEBUG - Clicking on the text box.
+2025-03-28 10:58:28,605 - DEBUG - Sending keys with content: Honestly, Blogspot's pretty barebones, but have you looked into using labels effectively for job categories and locations? Could help with organization and maybe even SEO down the line.
+
+2025-03-28 10:58:33,683 - DEBUG - Clicking on post reply button.
+2025-03-28 10:58:44,794 - DEBUG - Performed Actionchains
+2025-03-28 10:58:44,795 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-28 10:58:48,797 - INFO - Comment posted successfully.
+2025-03-28 10:58:48,799 - INFO - Task Completed!!
+2025-03-28 10:58:56,480 - INFO - Navigated back to the homepage.
+2025-03-28 10:58:58,933 - INFO - Attempting to clear memory and resources.
+2025-03-28 10:58:58,960 - INFO - Garbage collection completed.
+2025-03-28 10:58:58,961 - INFO - Waiting for 1000 seconds before next execution.

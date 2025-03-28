@@ -1,0 +1,183 @@
+2025-03-28 11:24:20,928 - INFO - Current time: 1743141260.9282541
+2025-03-28 11:24:20,931 - INFO - Token expiration time: 1743146878.5403397
+2025-03-28 11:24:20,933 - INFO - Token expiration time: 1743146878.5403397
+2025-03-28 11:24:20,936 - INFO - performing random action
+2025-03-28 11:24:20,939 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-28 11:24:20,941 - DEBUG - Scrolling page 2 times.
+2025-03-28 11:24:20,943 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:24:22,133 - DEBUG - Page scrolled.
+2025-03-28 11:24:24,135 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:24:25,882 - DEBUG - Page scrolled.
+2025-03-28 11:24:27,884 - DEBUG - Random scrolls complete.
+2025-03-28 11:24:27,887 - DEBUG - Scrolling page 3 times.
+2025-03-28 11:24:27,888 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:24:29,362 - DEBUG - Page scrolled.
+2025-03-28 11:24:31,363 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:24:33,185 - DEBUG - Page scrolled.
+2025-03-28 11:24:35,187 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:24:36,771 - DEBUG - Page scrolled.
+2025-03-28 11:24:38,773 - DEBUG - Random scrolls complete.
+2025-03-28 11:24:48,586 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/general-social-chat.32/
+2025-03-28 11:24:52,251 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/how-to-create-infinite-content-for-youtube-tiktok-and-instagram-faceless.1686069/unread
+2025-03-28 11:24:52,252 - INFO - Profile PixelPirate99: Opening default URL: https://www.google.com
+2025-03-28 11:24:57,819 - INFO - Profile PixelPirate99: Pausing for 32.99 seconds...
+2025-03-28 11:25:30,812 - INFO - Profile PixelPirate99: Resuming...
+2025-03-28 11:25:30,823 - INFO - Profile PixelPirate99: Switched back to original tab.
+2025-03-28 11:25:30,825 - INFO - performing random action
+2025-03-28 11:25:52,870 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/how-to-create-infinite-content-for-youtube-tiktok-and-instagram-faceless.1686069/unread
+2025-03-28 11:25:52,873 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/how-to-create-infinite-content-for-youtube-tiktok-and-instagram-faceless.1686069/unread' to visited threads file 'Thread_links.txt'.
+2025-03-28 11:25:52,919 - INFO - Extracted thread title: How to Create Infinite Content for YouTube, TikTok, and Instagram (Faceless)
+2025-03-28 11:25:52,920 - DEBUG - Scrolling page 3 times.
+2025-03-28 11:25:52,920 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:25:54,316 - DEBUG - Page scrolled.
+2025-03-28 11:25:56,319 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:25:57,820 - DEBUG - Page scrolled.
+2025-03-28 11:25:59,822 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:26:01,673 - DEBUG - Page scrolled.
+2025-03-28 11:26:03,675 - DEBUG - Random scrolls complete.
+2025-03-28 11:26:06,032 - DEBUG - Scrolling page 1 times.
+2025-03-28 11:26:06,034 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:26:08,024 - DEBUG - Page scrolled.
+2025-03-28 11:26:11,027 - DEBUG - Random scrolls complete.
+2025-03-28 11:26:11,052 - DEBUG - Found 4 like buttons.
+2025-03-28 11:26:14,053 - INFO - Attempting to like 1 posts. There are 4 available.
+2025-03-28 11:26:14,722 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-28 11:26:14,744 - INFO - Like button clicked successfully using JavaScript.
+2025-03-28 11:26:14,745 - DEBUG - Liked post number 1 of 1.
+2025-03-28 11:26:18,913 - INFO - Liked 1 posts successfully.
+2025-03-28 11:26:18,916 - INFO - Liked 1 posts successfully.
+2025-03-28 11:26:21,521 - INFO - Profile PixelPirate99: Opening random website: https://www.teejh.com/
+2025-03-28 11:26:24,264 - INFO - Profile PixelPirate99: Pausing for 32.10 seconds...
+2025-03-28 11:26:56,370 - INFO - Profile PixelPirate99: Resuming...
+2025-03-28 11:26:56,381 - INFO - Profile PixelPirate99: Switched back to original tab.
+2025-03-28 11:26:56,384 - INFO - performing random action
+2025-03-28 11:26:56,386 - DEBUG - Scrolling page 3 times.
+2025-03-28 11:26:56,388 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:26:58,137 - DEBUG - Page scrolled.
+2025-03-28 11:27:01,140 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:27:03,077 - DEBUG - Page scrolled.
+2025-03-28 11:27:06,079 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:27:08,097 - DEBUG - Page scrolled.
+2025-03-28 11:27:11,099 - DEBUG - Random scrolls complete.
+2025-03-28 11:27:14,101 - DEBUG - Total comments in the thread: 4
+2025-03-28 11:27:45,383 - INFO - Post content extracted and saved to Thread-Details/Thread Content\How to Create Infinite Content for YouTube, TikTok, and Instagram (Faceless).txt
+2025-03-28 11:27:47,958 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-28 11:27:47,996 - DEBUG - Extracted main post content: If you want to create unlimited videos for social media without showing your face, follow this step-by-step method:
+
+
+
+1. Choose an Underrated Niche
+Before you start, find a niche with low competition but high viral potential. To do this:
+
+- Go to Google Trends and search for trending topics.
+- Search on YouTube to see if there are already many videos on the topic. If not, it might be a great opportunity.
+- Check trending videos on TikTok and Instagram Reels to find high-engagement content.
+
+
+
+2. Download High-Performing Videos in the Niche
+Once you find a promising niche, download popular videos for analysis:
+
+- Use sites like SnapTik, SSYouTube, SaveFrom.net, Y2Mate, etc.
+- Download short videos (under 2 minutes) with high retention rates.
+
+
+
+3. Transcribe the Videos
+To understand their structure, transcribe the videos using tools like:
+
+- Otter AI
+- Sonix AI
+- Transkriptor
+- CapCut (auto subtitles feature)
+
+
+
+4. Generate a Better Script with ChatGPT
+Now that you have the transcription, paste the text into ChatGPT and ask:
+
+> "Rewrite this script in a more engaging and dynamic way while keeping the same idea but making it even better."
+
+Make manual adjustments if necessary to ensure it sounds natural and well-structured.
+
+
+
+5. Create a Digital Avatar (Faceless)
+To generate a unique digital face, use Ideogram AI with a prompt like:
+
+> "Create a realistic avatar of a young motivational speaker with a neutral background."
+
+Download the generated image.
+
+
+
+6. Animate the Avatar with AI
+Now, use the Dream Face app to bring your avatar to life:
+
+1. Select "Image to Video".
+2. Upload your avatar image.
+3. Choose a natural facial movement style.
+
+
+
+7. Add a Natural AI Voice Over
+To generate a professional voiceover, use one of these tools:
+- Dream Face
+- ElevenLabs
+- PlayHT
+- Speechify
+
+Copy and paste your script into the text-to-speech tool and download the generated audio.
+
+
+
+8. Edit and Assemble the Final Video using CapCut, Adobe Premiere Rush, or any other video editor:
+
+1. Import the animated avatar video from Dream Face.
+2. Enable auto subtitles for better engagement.
+3. Export the video in vertical format (1080x1920) for TikTok and Reels, or horizontal (1920x1080) for YouTube.
+
+
+
+9. Publish and Repeat the Process
+Now upload your video to YouTube Shorts, TikTok, and Instagram Reels, and repeat the process to create unlimited content!
+
+This method allows you to create engaging videos without showing your face while taking advantage of viral trends.
+2025-03-28 11:27:51,270 - INFO - Successfully generated comments using Gemini API.
+2025-03-28 11:27:51,272 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-28 11:27:53,411 - INFO - performing random action
+2025-03-28 11:27:53,414 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 11:27:53,416 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 11:27:53,443 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 11:27:53,479 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 11:27:53,485 - DEBUG - Text box scrolled into view
+2025-03-28 11:27:54,078 - DEBUG - Initializing actionchains
+2025-03-28 11:27:54,131 - DEBUG - Post reply Element location: {'x': 1231, 'y': 3727}, size: {'height': 21, 'width': 68}
+2025-03-28 11:27:54,131 - DEBUG - Target click coordinates: (1265, 3737)
+2025-03-28 11:28:05,541 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-28 11:28:05,542 - DEBUG - Moving mouse to text box element.
+2025-03-28 11:28:05,542 - DEBUG - Clicking on the text box.
+2025-03-28 11:28:05,543 - DEBUG - Sending keys with content: Interesting breakdown, but how do you make sure the ChatGPT rewrite doesn't sound too...robotic?
+
+2025-03-28 11:28:11,302 - DEBUG - Clicking on post reply button.
+2025-03-28 11:28:22,009 - DEBUG - Performed Actionchains
+2025-03-28 11:28:22,009 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-28 11:28:26,011 - INFO - Comment posted successfully.
+2025-03-28 11:28:26,013 - INFO - Task Completed!!
+2025-03-28 11:28:30,737 - INFO - Navigated back to the homepage.
+2025-03-28 11:28:33,358 - INFO - Attempting to clear memory and resources.
+2025-03-28 11:28:33,400 - INFO - Garbage collection completed.
+2025-03-28 11:28:33,401 - INFO - Waiting for 1000 seconds before next execution.
+2025-03-28 11:45:13,402 - INFO - Automation has reached the time limit. Stopping execution.
+2025-03-28 11:45:13,406 - INFO - Stopping browser for profile: PixelPirate99...
+2025-03-28 11:45:13,408 - INFO - Refreshing token before stopping profile...
+2025-03-28 11:45:13,412 - INFO - Refreshing token for PixelPirate99...
+2025-03-28 11:45:14,350 - INFO - Received expires_in from MultiLogin: 10800
+2025-03-28 11:45:14,353 - INFO - Calculated token expiration time: 1743153314.3529751
+2025-03-28 11:45:14,355 - INFO - Profile PixelPirate99: Successfully logged in.
+2025-03-28 11:45:14,358 - INFO - Token refreshed successfully before stopping.
+2025-03-28 11:45:14,360 - INFO - Profile PixelPirate99: Attempting to stop (Attempt 1/3)...
+2025-03-28 11:45:14,364 - INFO - Profile PixelPirate99: Browser closed successfully in 0.00 seconds.
+2025-03-28 11:45:17,428 - INFO - Profile PixelPirate99: API call took 3.06 seconds.
+2025-03-28 11:45:17,430 - INFO - Profile PixelPirate99: Stopped successfully.
+2025-03-28 11:45:17,434 - INFO - Browser stopped successfully for profile: PixelPirate99.

@@ -1,0 +1,146 @@
+2025-03-28 10:28:45,024 - INFO - Current time: 1743137925.024293
+2025-03-28 10:28:45,027 - INFO - Token expiration time: 1743147479.3538666
+2025-03-28 10:28:45,029 - INFO - Token expiration time: 1743147479.3538666
+2025-03-28 10:28:45,032 - INFO - performing random action
+2025-03-28 10:28:45,034 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-28 10:28:45,036 - DEBUG - Scrolling page 4 times.
+2025-03-28 10:28:45,038 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:28:46,441 - DEBUG - Page scrolled.
+2025-03-28 10:28:48,443 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:28:49,601 - DEBUG - Page scrolled.
+2025-03-28 10:28:51,603 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:28:52,810 - DEBUG - Page scrolled.
+2025-03-28 10:28:54,812 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:28:56,621 - DEBUG - Page scrolled.
+2025-03-28 10:28:58,624 - DEBUG - Random scrolls complete.
+2025-03-28 10:28:58,626 - DEBUG - Scrolling page 4 times.
+2025-03-28 10:28:58,627 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:29:00,579 - DEBUG - Page scrolled.
+2025-03-28 10:29:02,580 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:29:04,125 - DEBUG - Page scrolled.
+2025-03-28 10:29:06,126 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:29:07,355 - DEBUG - Page scrolled.
+2025-03-28 10:29:09,357 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:29:11,303 - DEBUG - Page scrolled.
+2025-03-28 10:29:13,305 - DEBUG - Random scrolls complete.
+2025-03-28 10:29:23,155 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/link-building.108/
+2025-03-28 10:29:26,836 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/alternatives-to-medium.1541955/unread
+2025-03-28 10:29:26,837 - INFO - Profile Emaxx: Pausing for 40.15 seconds...
+2025-03-28 10:30:06,986 - INFO - Profile Emaxx: Resuming...
+2025-03-28 10:30:06,988 - INFO - performing random action
+2025-03-28 10:30:23,991 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/alternatives-to-medium.1541955/unread
+2025-03-28 10:30:23,995 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/alternatives-to-medium.1541955/unread' to visited threads file 'Thread_links.txt'.
+2025-03-28 10:30:24,067 - INFO - Extracted thread title: Alternatives to Medium
+2025-03-28 10:30:24,068 - DEBUG - Scrolling page 2 times.
+2025-03-28 10:30:24,069 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:30:25,891 - DEBUG - Page scrolled.
+2025-03-28 10:30:27,893 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:30:29,635 - DEBUG - Page scrolled.
+2025-03-28 10:30:31,638 - DEBUG - Random scrolls complete.
+2025-03-28 10:30:34,622 - DEBUG - Scrolling page 4 times.
+2025-03-28 10:30:34,624 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:30:35,861 - DEBUG - Page scrolled.
+2025-03-28 10:30:38,861 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:30:40,342 - DEBUG - Page scrolled.
+2025-03-28 10:30:43,344 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:30:44,579 - DEBUG - Page scrolled.
+2025-03-28 10:30:47,582 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:30:48,739 - DEBUG - Page scrolled.
+2025-03-28 10:30:51,741 - DEBUG - Random scrolls complete.
+2025-03-28 10:30:51,796 - DEBUG - Found 16 like buttons.
+2025-03-28 10:30:54,797 - INFO - Attempting to like 4 posts. There are 16 available.
+2025-03-28 10:30:55,557 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-28 10:30:55,579 - INFO - Like button clicked successfully using JavaScript.
+2025-03-28 10:30:55,580 - DEBUG - Liked post number 1 of 4.
+2025-03-28 10:31:00,963 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-28 10:31:00,970 - INFO - Like button clicked successfully using JavaScript.
+2025-03-28 10:31:00,971 - DEBUG - Liked post number 2 of 4.
+2025-03-28 10:31:06,412 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-28 10:31:06,434 - INFO - Like button clicked successfully using JavaScript.
+2025-03-28 10:31:06,436 - DEBUG - Liked post number 3 of 4.
+2025-03-28 10:31:11,931 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-28 10:31:11,952 - INFO - Like button clicked successfully using JavaScript.
+2025-03-28 10:31:11,954 - DEBUG - Liked post number 4 of 4.
+2025-03-28 10:31:16,902 - INFO - Liked 4 posts successfully.
+2025-03-28 10:31:16,905 - INFO - Liked 4 posts successfully.
+2025-03-28 10:31:19,419 - INFO - Profile Emaxx: Opening default URL: https://www.google.com
+2025-03-28 10:31:24,128 - INFO - Profile Emaxx: Pausing for 39.96 seconds...
+2025-03-28 10:32:04,093 - INFO - Profile Emaxx: Resuming...
+2025-03-28 10:32:04,135 - INFO - Profile Emaxx: Switched back to original tab.
+2025-03-28 10:32:04,135 - INFO - performing random action
+2025-03-28 10:32:04,137 - DEBUG - Scrolling page 4 times.
+2025-03-28 10:32:04,138 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:32:05,394 - DEBUG - Page scrolled.
+2025-03-28 10:32:08,396 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:32:09,673 - DEBUG - Page scrolled.
+2025-03-28 10:32:12,675 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:32:14,575 - DEBUG - Page scrolled.
+2025-03-28 10:32:17,578 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:32:19,171 - DEBUG - Page scrolled.
+2025-03-28 10:32:22,173 - DEBUG - Random scrolls complete.
+2025-03-28 10:32:35,527 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Alternatives to Medium.txt
+2025-03-28 10:32:38,194 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-28 10:32:48,710 - WARNING - Could not extract main post content. Error: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7E23F0C45+27221]
+	(No symbol) [0x00007FF7E2356F30]
+	(No symbol) [0x00007FF7E21D5ADA]
+	(No symbol) [0x00007FF7E222FAD7]
+	(No symbol) [0x00007FF7E222FD0C]
+	(No symbol) [0x00007FF7E2283817]
+	(No symbol) [0x00007FF7E2257CDF]
+	(No symbol) [0x00007FF7E22804E3]
+	(No symbol) [0x00007FF7E2257A73]
+	(No symbol) [0x00007FF7E2220750]
+	(No symbol) [0x00007FF7E2221A03]
+	GetHandleVerifier [0x00007FF7E2756E2D+3591229]
+	GetHandleVerifier [0x00007FF7E276E45A+3687018]
+	GetHandleVerifier [0x00007FF7E2763323+3641651]
+	GetHandleVerifier [0x00007FF7E24BB6BA+857290]
+	(No symbol) [0x00007FF7E236230F]
+	(No symbol) [0x00007FF7E235E304]
+	(No symbol) [0x00007FF7E235E4A6]
+	(No symbol) [0x00007FF7E234D469]
+	BaseThreadInitThunk [0x00007FFA29D07374+20]
+	RtlUserThreadStart [0x00007FFA2B79CC91+33]
+Traceback (most recent call last):
+  File "F:\Forum-Automation-Tool\blackhatworld_functions.py", line 273, in extract_main_post_content
+    main_post_element = WebDriverWait(driver, 10).until(
+        EC.presence_of_element_located(main_post_locator)
+    )
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\support\wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7E23F0C45+27221]
+	(No symbol) [0x00007FF7E2356F30]
+	(No symbol) [0x00007FF7E21D5ADA]
+	(No symbol) [0x00007FF7E222FAD7]
+	(No symbol) [0x00007FF7E222FD0C]
+	(No symbol) [0x00007FF7E2283817]
+	(No symbol) [0x00007FF7E2257CDF]
+	(No symbol) [0x00007FF7E22804E3]
+	(No symbol) [0x00007FF7E2257A73]
+	(No symbol) [0x00007FF7E2220750]
+	(No symbol) [0x00007FF7E2221A03]
+	GetHandleVerifier [0x00007FF7E2756E2D+3591229]
+	GetHandleVerifier [0x00007FF7E276E45A+3687018]
+	GetHandleVerifier [0x00007FF7E2763323+3641651]
+	GetHandleVerifier [0x00007FF7E24BB6BA+857290]
+	(No symbol) [0x00007FF7E236230F]
+	(No symbol) [0x00007FF7E235E304]
+	(No symbol) [0x00007FF7E235E4A6]
+	(No symbol) [0x00007FF7E234D469]
+	BaseThreadInitThunk [0x00007FFA29D07374+20]
+	RtlUserThreadStart [0x00007FFA2B79CC91+33]
+
+2025-03-28 10:32:50,746 - ERROR - Thread content file 'Thread-Details/API Comments\Alternatives to Medium_Click farms are risky and a headache. Could you se.txt' not found.
+2025-03-28 10:32:53,199 - INFO - Profile Emaxx: Pausing for 40.04 seconds...
+2025-03-28 10:33:33,245 - INFO - Profile Emaxx: Resuming...
+2025-03-28 10:33:33,248 - INFO - performing random action
+2025-03-28 10:33:33,251 - WARNING - No comment available to post.
+2025-03-28 10:33:33,253 - INFO - Task Completed!!
+2025-03-28 10:33:42,933 - INFO - Navigated back to the homepage.
+2025-03-28 10:33:45,704 - INFO - Attempting to clear memory and resources.
+2025-03-28 10:33:45,735 - INFO - Garbage collection completed.
+2025-03-28 10:33:45,736 - INFO - Waiting for 1000 seconds before next execution.

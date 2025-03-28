@@ -1,0 +1,97 @@
+2025-03-28 11:02:30,400 - INFO - Current time: 1743139950.3999515
+2025-03-28 11:02:30,402 - INFO - Token expiration time: 1743147045.3954916
+2025-03-28 11:02:30,405 - INFO - Token expiration time: 1743147045.3954916
+2025-03-28 11:02:30,408 - INFO - Profile PhantomRoot: Minimizing window...
+2025-03-28 11:02:30,412 - INFO - Profile PhantomRoot: Window minimized. Pausing for 29.84 seconds...
+2025-03-28 11:03:00,257 - INFO - Profile PhantomRoot: Resuming after minimize...
+2025-03-28 11:03:00,260 - INFO - performing random action
+2025-03-28 11:03:00,263 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-28 11:03:00,265 - DEBUG - Scrolling page 4 times.
+2025-03-28 11:03:00,268 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:03:01,559 - DEBUG - Page scrolled.
+2025-03-28 11:03:03,560 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:03:04,825 - DEBUG - Page scrolled.
+2025-03-28 11:03:06,828 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:03:08,636 - DEBUG - Page scrolled.
+2025-03-28 11:03:10,638 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:03:12,221 - DEBUG - Page scrolled.
+2025-03-28 11:03:14,224 - DEBUG - Random scrolls complete.
+2025-03-28 11:03:14,226 - DEBUG - Scrolling page 4 times.
+2025-03-28 11:03:14,228 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:03:15,662 - DEBUG - Page scrolled.
+2025-03-28 11:03:17,667 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:03:19,152 - DEBUG - Page scrolled.
+2025-03-28 11:03:21,153 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:03:22,398 - DEBUG - Page scrolled.
+2025-03-28 11:03:24,399 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:03:25,678 - DEBUG - Page scrolled.
+2025-03-28 11:03:27,680 - DEBUG - Random scrolls complete.
+2025-03-28 11:03:36,654 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/black-hat-seo.28/
+2025-03-28 11:03:40,507 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/how-to-use-catchall-emails-for-gsa.1698132/unread
+2025-03-28 11:03:40,508 - INFO - performing random action
+2025-03-28 11:03:50,971 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/how-to-use-catchall-emails-for-gsa.1698132/unread
+2025-03-28 11:03:50,974 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/how-to-use-catchall-emails-for-gsa.1698132/unread' to visited threads file 'Thread_links.txt'.
+2025-03-28 11:03:51,043 - INFO - Extracted thread title: How to use catchall emails for GSA
+2025-03-28 11:03:51,044 - DEBUG - Scrolling page 2 times.
+2025-03-28 11:03:51,045 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:03:52,989 - DEBUG - Page scrolled.
+2025-03-28 11:03:54,990 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:03:56,810 - DEBUG - Page scrolled.
+2025-03-28 11:03:58,812 - DEBUG - Random scrolls complete.
+2025-03-28 11:04:01,367 - DEBUG - Scrolling page 1 times.
+2025-03-28 11:04:01,369 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:04:02,848 - DEBUG - Page scrolled.
+2025-03-28 11:04:05,851 - DEBUG - Random scrolls complete.
+2025-03-28 11:04:05,871 - DEBUG - Found 11 like buttons.
+2025-03-28 11:04:08,872 - INFO - Attempting to like 2 posts. There are 11 available.
+2025-03-28 11:04:09,530 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-28 11:04:09,561 - INFO - Like button clicked successfully using JavaScript.
+2025-03-28 11:04:09,563 - DEBUG - Liked post number 1 of 2.
+2025-03-28 11:04:15,172 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-28 11:04:15,180 - INFO - Like button clicked successfully using JavaScript.
+2025-03-28 11:04:15,181 - DEBUG - Liked post number 2 of 2.
+2025-03-28 11:04:19,616 - INFO - Liked 2 posts successfully.
+2025-03-28 11:04:19,618 - INFO - Liked 2 posts successfully.
+2025-03-28 11:04:22,177 - INFO - Profile PhantomRoot: Restoring window...
+2025-03-28 11:04:24,183 - INFO - performing random action
+2025-03-28 11:04:24,186 - DEBUG - Scrolling page 5 times.
+2025-03-28 11:04:24,188 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:04:25,580 - DEBUG - Page scrolled.
+2025-03-28 11:04:28,583 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:04:30,178 - DEBUG - Page scrolled.
+2025-03-28 11:04:33,180 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:04:34,489 - DEBUG - Page scrolled.
+2025-03-28 11:04:37,492 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:04:38,740 - DEBUG - Page scrolled.
+2025-03-28 11:04:41,742 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:04:43,416 - DEBUG - Page scrolled.
+2025-03-28 11:04:46,418 - DEBUG - Random scrolls complete.
+2025-03-28 11:04:48,718 - DEBUG - Total comments in the thread: 11
+2025-03-28 11:06:23,639 - INFO - Post content extracted and saved to Thread-Details/Thread Content\How to use catchall emails for GSA.txt
+2025-03-28 11:06:25,894 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-28 11:06:25,945 - DEBUG - Extracted main post content: Hello guys i made a catchall email with Zoho for GSA but I don't know how to use it.
+2025-03-28 11:06:31,346 - INFO - Successfully generated comments using Gemini API.
+2025-03-28 11:06:31,351 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-28 11:06:33,717 - INFO - performing random action
+2025-03-28 11:06:33,720 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 11:06:33,721 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 11:06:33,756 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 11:06:33,795 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 11:06:33,801 - DEBUG - Text box scrolled into view
+2025-03-28 11:06:34,405 - DEBUG - Initializing actionchains
+2025-03-28 11:06:34,453 - DEBUG - Post reply Element location: {'x': 1231, 'y': 3838}, size: {'height': 21, 'width': 68}
+2025-03-28 11:06:34,454 - DEBUG - Target click coordinates: (1265, 3848)
+2025-03-28 11:06:46,071 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-28 11:06:46,073 - DEBUG - Moving mouse to text box element.
+2025-03-28 11:06:46,076 - DEBUG - Clicking on the text box.
+2025-03-28 11:06:46,079 - DEBUG - Sending keys with content: Forget GSA for a sec – are you clear on how catch-all emails actually *work* in Zoho first? Might be worth testing that independently.
+
+2025-03-28 11:06:51,696 - DEBUG - Clicking on post reply button.
+2025-03-28 11:07:02,605 - DEBUG - Performed Actionchains
+2025-03-28 11:07:02,606 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-28 11:07:06,607 - INFO - Comment posted successfully.
+2025-03-28 11:07:06,610 - INFO - Task Completed!!
+2025-03-28 11:07:13,844 - INFO - Navigated back to the homepage.
+2025-03-28 11:07:16,347 - INFO - Attempting to clear memory and resources.
+2025-03-28 11:07:16,379 - INFO - Garbage collection completed.
+2025-03-28 11:07:16,380 - INFO - Waiting for 1000 seconds before next execution.

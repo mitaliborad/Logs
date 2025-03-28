@@ -1,0 +1,107 @@
+2025-03-28 10:46:54,054 - INFO - Current time: 1743139014.0542874
+2025-03-28 10:46:54,057 - INFO - Token expiration time: 1743147310.866111
+2025-03-28 10:46:54,059 - INFO - Token expiration time: 1743147310.866111
+2025-03-28 10:46:54,062 - INFO - performing random action
+2025-03-28 10:46:54,065 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-28 10:46:54,069 - DEBUG - Scrolling page 2 times.
+2025-03-28 10:46:54,070 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:46:55,406 - DEBUG - Page scrolled.
+2025-03-28 10:46:57,408 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:46:59,302 - DEBUG - Page scrolled.
+2025-03-28 10:47:01,304 - DEBUG - Random scrolls complete.
+2025-03-28 10:47:01,306 - DEBUG - Scrolling page 3 times.
+2025-03-28 10:47:01,307 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:47:02,374 - DEBUG - Page scrolled.
+2025-03-28 10:47:04,377 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:47:06,386 - DEBUG - Page scrolled.
+2025-03-28 10:47:08,388 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:47:09,584 - DEBUG - Page scrolled.
+2025-03-28 10:47:11,586 - DEBUG - Random scrolls complete.
+2025-03-28 10:47:24,418 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/x-formerly-twitter.210/
+2025-03-28 10:47:28,107 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/trouble-with-x-algorithm.1698647/unread
+2025-03-28 10:47:28,108 - INFO - performing random action
+2025-03-28 10:47:35,883 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/trouble-with-x-algorithm.1698647/unread
+2025-03-28 10:47:35,886 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/trouble-with-x-algorithm.1698647/unread' to visited threads file 'Thread_links.txt'.
+2025-03-28 10:47:35,928 - INFO - Extracted thread title: TROUBLE WITH X ALGORITHM
+2025-03-28 10:47:35,929 - DEBUG - Scrolling page 3 times.
+2025-03-28 10:47:35,930 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:47:37,511 - DEBUG - Page scrolled.
+2025-03-28 10:47:39,513 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:47:41,416 - DEBUG - Page scrolled.
+2025-03-28 10:47:43,417 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:47:45,433 - DEBUG - Page scrolled.
+2025-03-28 10:47:47,436 - DEBUG - Random scrolls complete.
+2025-03-28 10:47:50,096 - DEBUG - Scrolling page 2 times.
+2025-03-28 10:47:50,097 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:47:51,616 - DEBUG - Page scrolled.
+2025-03-28 10:47:54,617 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:47:56,028 - DEBUG - Page scrolled.
+2025-03-28 10:47:59,029 - DEBUG - Random scrolls complete.
+2025-03-28 10:47:59,070 - DEBUG - Found 2 like buttons.
+2025-03-28 10:48:02,072 - INFO - Attempting to like 2 posts. There are 2 available.
+2025-03-28 10:48:02,960 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-28 10:48:02,983 - INFO - Like button clicked successfully using JavaScript.
+2025-03-28 10:48:02,984 - DEBUG - Liked post number 1 of 2.
+2025-03-28 10:48:08,295 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-28 10:48:08,315 - INFO - Like button clicked successfully using JavaScript.
+2025-03-28 10:48:08,317 - DEBUG - Liked post number 2 of 2.
+2025-03-28 10:48:12,472 - INFO - Liked 2 posts successfully.
+2025-03-28 10:48:12,474 - INFO - Liked 2 posts successfully.
+2025-03-28 10:48:15,164 - INFO - Profile NullBytee: Opening random website: https://www.teejh.com/
+2025-03-28 10:48:21,662 - INFO - Profile NullBytee: Pausing for 43.04 seconds...
+2025-03-28 10:49:04,704 - INFO - Profile NullBytee: Resuming...
+2025-03-28 10:49:04,716 - INFO - Profile NullBytee: Switched back to original tab.
+2025-03-28 10:49:04,718 - INFO - performing random action
+2025-03-28 10:49:04,720 - DEBUG - Scrolling page 3 times.
+2025-03-28 10:49:04,722 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:49:06,097 - DEBUG - Page scrolled.
+2025-03-28 10:49:09,099 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:49:10,935 - DEBUG - Page scrolled.
+2025-03-28 10:49:13,938 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:49:15,733 - DEBUG - Page scrolled.
+2025-03-28 10:49:18,734 - DEBUG - Random scrolls complete.
+2025-03-28 10:49:21,581 - DEBUG - Total comments in the thread: 2
+2025-03-28 10:49:21,729 - INFO - Post content extracted and saved to Thread-Details/Thread Content\TROUBLE WITH X ALGORITHM.txt
+2025-03-28 10:49:23,864 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-28 10:49:23,903 - DEBUG - Extracted main post content: Hi, I'm just starting on making my own X account. The account itself is already blue checked verified and was on since October 2023. I've been doing lots of post, 12 post a day. But I still didn't get the result I wanted, I only got 50 followers. And for you who's asking what Cluster am I on, I want to be a memecoin Shiller, not the Dev, more like the ones who promote it.
+
+I've searched on the internet, it seems like X algorithm is to make the user scroll and stay as long as possible because they make revenue from the ads.
+
+I've learnt some things in X also, also the recent changes on it where Replies will boost a post more than a retweet, I also learnt that by engaging with an influencer, my post will be able to get to their audience if they follow me. And lastly, I also researched that X algorithm will make a prediction on how engaging a content would be ( especially on entertainments ) ranking it and putting it on the user's for you page.
+
+However, I couldn't shake off this weird feeling. I don't think that's all it takes, it's more like a community carried social media. By that I meant only if you have connections with big influencers constantly then you can be popular. Or.. even worse, one person has multiple large influencers account on the same cluster, boosting one another account, since usually a tweet getting raid replied within the hour of the tweet was posted, will explode, especially if it's replied by blue-checked ones.
+
+I've saw that most of the large influencers in my cluster (shilling memecoins cluster(not actually putting any money on it)) has their account since 2018-2020, but they have more than 40k-120k+ post. Only some have below 20k, but never lower than 15k
+
+Imagine posting 12 times a day (2 post per hour) to even reach 60k it would take one almost 14 years of posting consistently non-stop. Especially I heard that there's a new algo that prevents the same user from looking at their small influencer (like me) posts multiple times in a row.
+
+So whats y'all opinion? Am I on the right track based on your guys experience. Or is there any tips or any secret behind those big influencers, if there's a big influencer here. Which I believe yes there is. Any tips will help lmao
+2025-03-28 10:49:29,100 - INFO - Successfully generated comments using Gemini API.
+2025-03-28 10:49:29,105 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-28 10:49:31,658 - INFO - Profile NullBytee: Opening default URL: https://www.google.com
+2025-03-28 10:49:37,178 - INFO - Profile NullBytee: Pausing for 35.59 seconds...
+2025-03-28 10:50:12,767 - INFO - Profile NullBytee: Resuming...
+2025-03-28 10:50:12,778 - INFO - Profile NullBytee: Switched back to original tab.
+2025-03-28 10:50:12,780 - INFO - performing random action
+2025-03-28 10:50:12,783 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 10:50:12,785 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 10:50:12,816 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 10:50:12,855 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 10:50:12,862 - DEBUG - Text box scrolled into view
+2025-03-28 10:50:13,578 - DEBUG - Initializing actionchains
+2025-03-28 10:50:13,610 - DEBUG - Post reply Element location: {'x': 1231, 'y': 2134}, size: {'height': 21, 'width': 68}
+2025-03-28 10:50:13,610 - DEBUG - Target click coordinates: (1265, 2144)
+2025-03-28 10:50:21,554 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-28 10:50:21,555 - DEBUG - Moving mouse to text box element.
+2025-03-28 10:50:21,557 - DEBUG - Clicking on the text box.
+2025-03-28 10:50:21,560 - DEBUG - Sending keys with content: Honestly, 12 posts a day is probably hurting you more than helping. Try focusing on quality convos with a few key accounts instead.
+
+2025-03-28 10:50:26,992 - DEBUG - Clicking on post reply button.
+2025-03-28 10:50:37,928 - DEBUG - Performed Actionchains
+2025-03-28 10:50:37,930 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-28 10:50:41,932 - INFO - Comment posted successfully.
+2025-03-28 10:50:41,934 - INFO - Task Completed!!
+2025-03-28 10:50:51,218 - INFO - Navigated back to the homepage.
+2025-03-28 10:50:53,327 - INFO - Attempting to clear memory and resources.
+2025-03-28 10:50:53,354 - INFO - Garbage collection completed.
+2025-03-28 10:50:53,355 - INFO - Waiting for 1000 seconds before next execution.

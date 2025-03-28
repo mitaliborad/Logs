@@ -1,0 +1,112 @@
+2025-03-28 11:03:01,489 - INFO - Current time: 1743139981.489404
+2025-03-28 11:03:01,492 - INFO - Token expiration time: 1743146878.5403397
+2025-03-28 11:03:01,494 - INFO - Token expiration time: 1743146878.5403397
+2025-03-28 11:03:01,497 - INFO - Profile PixelPirate99: Restoring window...
+2025-03-28 11:03:03,502 - INFO - performing random action
+2025-03-28 11:03:03,505 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-28 11:03:03,508 - DEBUG - Scrolling page 3 times.
+2025-03-28 11:03:03,510 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:03:05,159 - DEBUG - Page scrolled.
+2025-03-28 11:03:07,163 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:03:09,104 - DEBUG - Page scrolled.
+2025-03-28 11:03:11,106 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:03:12,256 - DEBUG - Page scrolled.
+2025-03-28 11:03:14,259 - DEBUG - Random scrolls complete.
+2025-03-28 11:03:14,261 - DEBUG - Scrolling page 4 times.
+2025-03-28 11:03:14,263 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:03:16,096 - DEBUG - Page scrolled.
+2025-03-28 11:03:18,099 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:03:20,015 - DEBUG - Page scrolled.
+2025-03-28 11:03:22,016 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:03:23,329 - DEBUG - Page scrolled.
+2025-03-28 11:03:25,332 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:03:26,888 - DEBUG - Page scrolled.
+2025-03-28 11:03:28,890 - DEBUG - Random scrolls complete.
+2025-03-28 11:03:37,188 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/reddit.301/
+2025-03-28 11:03:40,739 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/what-does-you-have-been-blocked-due-to-network-policy-imply.1698390/unread
+2025-03-28 11:03:40,740 - INFO - performing random action
+2025-03-28 11:03:50,818 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/what-does-you-have-been-blocked-due-to-network-policy-imply.1698390/unread
+2025-03-28 11:03:50,823 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/what-does-you-have-been-blocked-due-to-network-policy-imply.1698390/unread' to visited threads file 'Thread_links.txt'.
+2025-03-28 11:03:50,850 - INFO - Extracted thread title: What does 'You have been blocked due to network policy' imply
+2025-03-28 11:03:50,851 - DEBUG - Scrolling page 4 times.
+2025-03-28 11:03:50,852 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:03:52,040 - DEBUG - Page scrolled.
+2025-03-28 11:03:54,042 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:03:55,168 - DEBUG - Page scrolled.
+2025-03-28 11:03:57,171 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:03:58,976 - DEBUG - Page scrolled.
+2025-03-28 11:04:00,978 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:04:02,450 - DEBUG - Page scrolled.
+2025-03-28 11:04:04,453 - DEBUG - Random scrolls complete.
+2025-03-28 11:04:06,719 - DEBUG - Scrolling page 4 times.
+2025-03-28 11:04:06,719 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:04:08,406 - DEBUG - Page scrolled.
+2025-03-28 11:04:11,408 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:04:13,251 - DEBUG - Page scrolled.
+2025-03-28 11:04:16,253 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:04:17,359 - DEBUG - Page scrolled.
+2025-03-28 11:04:20,361 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:04:22,213 - DEBUG - Page scrolled.
+2025-03-28 11:04:25,215 - DEBUG - Random scrolls complete.
+2025-03-28 11:04:25,230 - DEBUG - Found 11 like buttons.
+2025-03-28 11:04:28,231 - INFO - Attempting to like 4 posts. There are 11 available.
+2025-03-28 11:04:28,919 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-28 11:04:28,953 - INFO - Like button clicked successfully using JavaScript.
+2025-03-28 11:04:28,955 - DEBUG - Liked post number 1 of 4.
+2025-03-28 11:04:33,795 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-28 11:04:33,815 - INFO - Like button clicked successfully using JavaScript.
+2025-03-28 11:04:33,817 - DEBUG - Liked post number 2 of 4.
+2025-03-28 11:04:38,694 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-28 11:04:38,713 - INFO - Like button clicked successfully using JavaScript.
+2025-03-28 11:04:38,716 - DEBUG - Liked post number 3 of 4.
+2025-03-28 11:04:44,351 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-28 11:04:44,371 - INFO - Like button clicked successfully using JavaScript.
+2025-03-28 11:04:44,374 - DEBUG - Liked post number 4 of 4.
+2025-03-28 11:04:48,825 - INFO - Liked 4 posts successfully.
+2025-03-28 11:04:48,826 - INFO - Liked 4 posts successfully.
+2025-03-28 11:04:51,439 - INFO - performing random action
+2025-03-28 11:04:51,441 - DEBUG - Scrolling page 4 times.
+2025-03-28 11:04:51,443 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:04:52,695 - DEBUG - Page scrolled.
+2025-03-28 11:04:55,697 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:04:57,492 - DEBUG - Page scrolled.
+2025-03-28 11:05:00,494 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:05:02,299 - DEBUG - Page scrolled.
+2025-03-28 11:05:05,300 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:05:06,930 - DEBUG - Page scrolled.
+2025-03-28 11:05:09,932 - DEBUG - Random scrolls complete.
+2025-03-28 11:05:12,249 - DEBUG - Total comments in the thread: 11
+2025-03-28 11:06:26,267 - INFO - Post content extracted and saved to Thread-Details/Thread Content\What does 'You have been blocked due to network policy' imply.txt
+2025-03-28 11:06:29,085 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-28 11:06:29,138 - DEBUG - Extracted main post content: I had 6 accounts, all on the same IP that got permanently banned. Now, when I'm using an anti detect browser with paid Proxy IPs, I get the 'You have been blocked due to network policy' message on Reddit. It then prompts me to sign up, after which I can access Reddit.
+
+Does this mean they know I'm using a proxy or do they know accounts from my actual IP were permanent banned?
+2025-03-28 11:06:34,175 - INFO - Successfully generated comments using Gemini API.
+2025-03-28 11:06:34,179 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-28 11:06:36,515 - INFO - Profile PixelPirate99: Opening default URL: https://www.google.com
+2025-03-28 11:06:41,178 - INFO - Profile PixelPirate99: Pausing for 30.56 seconds...
+2025-03-28 11:07:11,744 - INFO - Profile PixelPirate99: Resuming...
+2025-03-28 11:07:11,756 - INFO - Profile PixelPirate99: Switched back to original tab.
+2025-03-28 11:07:11,758 - INFO - performing random action
+2025-03-28 11:07:11,760 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 11:07:11,762 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 11:07:11,796 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 11:07:11,836 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 11:07:11,843 - DEBUG - Text box scrolled into view
+2025-03-28 11:07:12,737 - DEBUG - Initializing actionchains
+2025-03-28 11:07:12,796 - DEBUG - Post reply Element location: {'x': 1231, 'y': 3744}, size: {'height': 21, 'width': 68}
+2025-03-28 11:07:12,797 - DEBUG - Target click coordinates: (1265, 3754)
+2025-03-28 11:07:24,093 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-28 11:07:24,095 - DEBUG - Moving mouse to text box element.
+2025-03-28 11:07:24,097 - DEBUG - Clicking on the text box.
+2025-03-28 11:07:24,100 - DEBUG - Sending keys with content: Honestly, it sounds like they've flagged your original IP and are now extra sensitive to anything coming from it, even through a proxy. Have you tried using residential proxies instead of datacenter ones?
+
+2025-03-28 11:07:29,245 - DEBUG - Clicking on post reply button.
+2025-03-28 11:07:30,615 - DEBUG - Performed Actionchains
+2025-03-28 11:07:30,616 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-28 11:07:34,618 - INFO - Comment posted successfully.
+2025-03-28 11:07:34,620 - INFO - Task Completed!!
+2025-03-28 11:07:38,613 - INFO - Navigated back to the homepage.
+2025-03-28 11:07:40,887 - INFO - Attempting to clear memory and resources.
+2025-03-28 11:07:40,924 - INFO - Garbage collection completed.
+2025-03-28 11:07:40,925 - INFO - Waiting for 1000 seconds before next execution.

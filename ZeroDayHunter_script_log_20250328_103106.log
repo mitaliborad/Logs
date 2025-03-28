@@ -1,0 +1,102 @@
+2025-03-28 10:31:06,751 - INFO - Current time: 1743138066.7519424
+2025-03-28 10:31:06,753 - INFO - Token expiration time: 1743147581.5060587
+2025-03-28 10:31:06,753 - INFO - Token expiration time: 1743147581.5060587
+2025-03-28 10:31:06,754 - INFO - performing random action
+2025-03-28 10:31:06,755 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-28 10:31:06,756 - DEBUG - Scrolling page 4 times.
+2025-03-28 10:31:06,756 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:31:07,960 - DEBUG - Page scrolled.
+2025-03-28 10:31:09,963 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:31:11,494 - DEBUG - Page scrolled.
+2025-03-28 10:31:13,496 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:31:15,230 - DEBUG - Page scrolled.
+2025-03-28 10:31:17,232 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:31:19,049 - DEBUG - Page scrolled.
+2025-03-28 10:31:21,051 - DEBUG - Random scrolls complete.
+2025-03-28 10:31:21,052 - DEBUG - Scrolling page 4 times.
+2025-03-28 10:31:21,053 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:31:22,767 - DEBUG - Page scrolled.
+2025-03-28 10:31:24,769 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:31:26,201 - DEBUG - Page scrolled.
+2025-03-28 10:31:28,204 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:31:30,132 - DEBUG - Page scrolled.
+2025-03-28 10:31:32,134 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:31:33,215 - DEBUG - Page scrolled.
+2025-03-28 10:31:35,217 - DEBUG - Random scrolls complete.
+2025-03-28 10:31:44,772 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/cloaking-and-content-generators.2/
+2025-03-28 10:31:48,289 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/cloaking-who-knows-how-to-hide-a-site-from-a-certain-diapason-of-ip.1672023/unread
+2025-03-28 10:31:48,290 - INFO - Profile ZeroDayHunter: Minimizing window...
+2025-03-28 10:31:48,291 - INFO - Profile ZeroDayHunter: Window minimized. Pausing for 29.50 seconds...
+2025-03-28 10:32:17,792 - INFO - Profile ZeroDayHunter: Resuming after minimize...
+2025-03-28 10:32:17,795 - INFO - performing random action
+2025-03-28 10:32:25,943 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/cloaking-who-knows-how-to-hide-a-site-from-a-certain-diapason-of-ip.1672023/unread
+2025-03-28 10:32:25,947 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/cloaking-who-knows-how-to-hide-a-site-from-a-certain-diapason-of-ip.1672023/unread' to visited threads file 'Thread_links.txt'.
+2025-03-28 10:32:26,009 - INFO - Extracted thread title: Cloaking - who knows how to hide a site from a certain diapason of ip
+2025-03-28 10:32:26,010 - DEBUG - Scrolling page 2 times.
+2025-03-28 10:32:26,011 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:32:27,486 - DEBUG - Page scrolled.
+2025-03-28 10:32:29,488 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:32:31,476 - DEBUG - Page scrolled.
+2025-03-28 10:32:33,478 - DEBUG - Random scrolls complete.
+2025-03-28 10:32:35,811 - DEBUG - Scrolling page 2 times.
+2025-03-28 10:32:35,813 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:32:37,733 - DEBUG - Page scrolled.
+2025-03-28 10:32:40,735 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:32:42,547 - DEBUG - Page scrolled.
+2025-03-28 10:32:45,549 - DEBUG - Random scrolls complete.
+2025-03-28 10:32:45,585 - DEBUG - Found 8 like buttons.
+2025-03-28 10:32:48,587 - INFO - Attempting to like 1 posts. There are 8 available.
+2025-03-28 10:32:49,386 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-28 10:32:49,410 - INFO - Like button clicked successfully using JavaScript.
+2025-03-28 10:32:49,411 - DEBUG - Liked post number 1 of 1.
+2025-03-28 10:32:53,891 - INFO - Liked 1 posts successfully.
+2025-03-28 10:32:53,893 - INFO - Liked 1 posts successfully.
+2025-03-28 10:32:56,013 - INFO - Profile ZeroDayHunter: Minimizing window...
+2025-03-28 10:32:56,018 - INFO - Profile ZeroDayHunter: Window minimized. Pausing for 25.25 seconds...
+2025-03-28 10:33:21,272 - INFO - Profile ZeroDayHunter: Resuming after minimize...
+2025-03-28 10:33:21,275 - INFO - performing random action
+2025-03-28 10:33:21,277 - DEBUG - Scrolling page 4 times.
+2025-03-28 10:33:21,279 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:33:23,288 - DEBUG - Page scrolled.
+2025-03-28 10:33:26,291 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:33:27,984 - DEBUG - Page scrolled.
+2025-03-28 10:33:30,986 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:33:32,311 - DEBUG - Page scrolled.
+2025-03-28 10:33:35,312 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:33:37,236 - DEBUG - Page scrolled.
+2025-03-28 10:33:40,239 - DEBUG - Random scrolls complete.
+2025-03-28 10:33:42,803 - DEBUG - Total comments in the thread: 8
+2025-03-28 10:34:44,502 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Cloaking - who knows how to hide a site from a certain diapason of ip.txt
+2025-03-28 10:34:47,303 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-28 10:34:47,334 - DEBUG - Extracted main post content: Hey, everybody!
+My competitor uses one of the cloaca varieties. He is able to hide his site from certain ip or fingerprint diapasons.
+Only real users with real ip and fingerprints can access the site. You can't access the site from virtual servers, even if they appear to be human, you can't access it from the ip of government services, you can't access it from all the ip's I bought.
+Who knows how he was able to do this? I can't post the site here as it would violate the rules, sorry for this inconvenience....
+2025-03-28 10:34:50,926 - INFO - Successfully generated comments using Gemini API.
+2025-03-28 10:34:50,929 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-28 10:34:53,832 - INFO - Profile ZeroDayHunter: Minimizing window...
+2025-03-28 10:34:53,838 - INFO - Profile ZeroDayHunter: Window minimized. Pausing for 24.78 seconds...
+2025-03-28 10:35:18,625 - INFO - Profile ZeroDayHunter: Resuming after minimize...
+2025-03-28 10:35:18,628 - INFO - performing random action
+2025-03-28 10:35:18,630 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 10:35:18,632 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 10:35:18,663 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 10:35:18,700 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 10:35:18,708 - DEBUG - Text box scrolled into view
+2025-03-28 10:35:19,648 - DEBUG - Initializing actionchains
+2025-03-28 10:35:19,667 - DEBUG - Post reply Element location: {'x': 1231, 'y': 3396}, size: {'height': 21, 'width': 68}
+2025-03-28 10:35:19,668 - DEBUG - Target click coordinates: (1265, 3406)
+2025-03-28 10:35:30,965 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-28 10:35:30,967 - DEBUG - Moving mouse to text box element.
+2025-03-28 10:35:30,969 - DEBUG - Clicking on the text box.
+2025-03-28 10:35:30,973 - DEBUG - Sending keys with content: He's probably using a bot detection service that goes beyond simple IP blocking; things like device fingerprinting and behavioral analysis are pretty common now. Have you tried rotating residential proxies with unique user agents?
+
+2025-03-28 10:35:36,551 - DEBUG - Clicking on post reply button.
+2025-03-28 10:35:47,631 - DEBUG - Performed Actionchains
+2025-03-28 10:35:47,631 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-28 10:35:51,633 - INFO - Comment posted successfully.
+2025-03-28 10:35:51,635 - INFO - Task Completed!!
+2025-03-28 10:36:02,707 - INFO - Navigated back to the homepage.
+2025-03-28 10:36:05,350 - INFO - Attempting to clear memory and resources.
+2025-03-28 10:36:05,392 - INFO - Garbage collection completed.
+2025-03-28 10:36:05,393 - INFO - Waiting for 1000 seconds before next execution.

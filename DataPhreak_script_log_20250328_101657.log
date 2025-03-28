@@ -1,0 +1,99 @@
+2025-03-28 10:16:57,650 - INFO - Current time: 1743137217.6504414
+2025-03-28 10:16:57,651 - INFO - Token expiration time: 1743146707.8133519
+2025-03-28 10:16:57,652 - INFO - Token expiration time: 1743146707.8133519
+2025-03-28 10:16:57,653 - INFO - performing random action
+2025-03-28 10:16:57,654 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-28 10:16:57,654 - DEBUG - Scrolling page 4 times.
+2025-03-28 10:16:57,655 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:16:58,864 - DEBUG - Page scrolled.
+2025-03-28 10:17:00,866 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:17:02,759 - DEBUG - Page scrolled.
+2025-03-28 10:17:04,761 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:17:06,147 - DEBUG - Page scrolled.
+2025-03-28 10:17:08,149 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:17:09,315 - DEBUG - Page scrolled.
+2025-03-28 10:17:11,318 - DEBUG - Random scrolls complete.
+2025-03-28 10:17:11,319 - DEBUG - Scrolling page 4 times.
+2025-03-28 10:17:11,321 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:17:12,743 - DEBUG - Page scrolled.
+2025-03-28 10:17:14,745 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:17:15,894 - DEBUG - Page scrolled.
+2025-03-28 10:17:17,896 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:17:19,815 - DEBUG - Page scrolled.
+2025-03-28 10:17:21,817 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:17:23,103 - DEBUG - Page scrolled.
+2025-03-28 10:17:25,105 - DEBUG - Random scrolls complete.
+2025-03-28 10:17:38,930 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/video-production.170/
+2025-03-28 10:17:42,450 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/ai-to-create-cgi-video-ads.1610956/
+2025-03-28 10:17:42,450 - INFO - performing random action
+2025-03-28 10:17:49,231 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/ai-to-create-cgi-video-ads.1610956/
+2025-03-28 10:17:49,234 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/ai-to-create-cgi-video-ads.1610956/' to visited threads file 'Thread_links.txt'.
+2025-03-28 10:17:49,276 - INFO - Extracted thread title: AI to create CGI video Ads
+2025-03-28 10:17:49,277 - DEBUG - Scrolling page 3 times.
+2025-03-28 10:17:49,278 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:17:50,413 - DEBUG - Page scrolled.
+2025-03-28 10:17:52,415 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:17:54,223 - DEBUG - Page scrolled.
+2025-03-28 10:17:56,224 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:17:57,331 - DEBUG - Page scrolled.
+2025-03-28 10:17:59,333 - DEBUG - Random scrolls complete.
+2025-03-28 10:18:01,721 - DEBUG - Scrolling page 2 times.
+2025-03-28 10:18:01,722 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:18:03,194 - DEBUG - Page scrolled.
+2025-03-28 10:18:06,197 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:18:07,273 - DEBUG - Page scrolled.
+2025-03-28 10:18:10,276 - DEBUG - Random scrolls complete.
+2025-03-28 10:18:10,290 - DEBUG - Found 2 like buttons.
+2025-03-28 10:18:13,291 - INFO - Attempting to like 1 posts. There are 2 available.
+2025-03-28 10:18:13,975 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-28 10:18:13,998 - INFO - Like button clicked successfully using JavaScript.
+2025-03-28 10:18:13,999 - DEBUG - Liked post number 1 of 1.
+2025-03-28 10:18:18,711 - INFO - Liked 1 posts successfully.
+2025-03-28 10:18:18,714 - INFO - Liked 1 posts successfully.
+2025-03-28 10:18:21,079 - INFO - Profile DataPhreak: Restoring window...
+2025-03-28 10:18:23,084 - INFO - performing random action
+2025-03-28 10:18:23,086 - DEBUG - Scrolling page 6 times.
+2025-03-28 10:18:23,088 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:18:24,552 - DEBUG - Page scrolled.
+2025-03-28 10:18:27,556 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:18:29,419 - DEBUG - Page scrolled.
+2025-03-28 10:18:32,424 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:18:34,268 - DEBUG - Page scrolled.
+2025-03-28 10:18:37,273 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:18:38,673 - DEBUG - Page scrolled.
+2025-03-28 10:18:41,675 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:18:42,763 - DEBUG - Page scrolled.
+2025-03-28 10:18:45,764 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:18:47,422 - DEBUG - Page scrolled.
+2025-03-28 10:18:50,425 - DEBUG - Random scrolls complete.
+2025-03-28 10:18:53,481 - DEBUG - Total comments in the thread: 2
+2025-03-28 10:19:03,785 - INFO - Post content extracted and saved to Thread-Details/Thread Content\AI to create CGI video Ads.txt
+2025-03-28 10:19:06,606 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-28 10:19:06,688 - DEBUG - Extracted main post content: Does any one know AI that can create CGI ads viral video with same quality as that of one made by blender ?
+2025-03-28 10:19:11,900 - INFO - Successfully generated comments using Gemini API.
+2025-03-28 10:19:11,906 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-28 10:19:14,168 - INFO - Profile DataPhreak: Pausing for 41.85 seconds...
+2025-03-28 10:19:56,022 - INFO - Profile DataPhreak: Resuming...
+2025-03-28 10:19:56,025 - INFO - performing random action
+2025-03-28 10:19:56,027 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 10:19:56,029 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 10:19:56,051 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 10:19:56,088 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 10:19:56,094 - DEBUG - Text box scrolled into view
+2025-03-28 10:19:56,916 - DEBUG - Initializing actionchains
+2025-03-28 10:19:56,933 - DEBUG - Post reply Element location: {'x': 1231, 'y': 1530}, size: {'height': 21, 'width': 68}
+2025-03-28 10:19:56,934 - DEBUG - Target click coordinates: (1265, 1540)
+2025-03-28 10:20:04,205 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-28 10:20:04,207 - DEBUG - Moving mouse to text box element.
+2025-03-28 10:20:04,209 - DEBUG - Clicking on the text box.
+2025-03-28 10:20:04,212 - DEBUG - Sending keys with content: Honestly, you're probably better off sticking with Blender for now if quality is your top priority. AI's getting there, but it's not quite one-to-one yet, you know?
+
+2025-03-28 10:20:09,613 - DEBUG - Clicking on post reply button.
+2025-03-28 10:20:20,581 - DEBUG - Performed Actionchains
+2025-03-28 10:20:20,581 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-28 10:20:24,583 - INFO - Comment posted successfully.
+2025-03-28 10:20:24,586 - INFO - Task Completed!!
+2025-03-28 10:20:32,870 - INFO - Navigated back to the homepage.
+2025-03-28 10:20:35,713 - INFO - Attempting to clear memory and resources.
+2025-03-28 10:20:35,749 - INFO - Garbage collection completed.
+2025-03-28 10:20:35,750 - INFO - Waiting for 1000 seconds before next execution.

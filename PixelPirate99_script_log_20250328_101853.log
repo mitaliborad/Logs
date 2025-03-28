@@ -1,0 +1,113 @@
+2025-03-28 10:18:53,460 - INFO - Current time: 1743137333.4606183
+2025-03-28 10:18:53,461 - INFO - Token expiration time: 1743146878.5403397
+2025-03-28 10:18:53,462 - INFO - Token expiration time: 1743146878.5403397
+2025-03-28 10:18:53,463 - INFO - performing random action
+2025-03-28 10:18:53,464 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-28 10:18:53,464 - DEBUG - Scrolling page 3 times.
+2025-03-28 10:18:53,465 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:18:55,411 - DEBUG - Page scrolled.
+2025-03-28 10:18:57,413 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:18:59,021 - DEBUG - Page scrolled.
+2025-03-28 10:19:01,023 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:19:02,595 - DEBUG - Page scrolled.
+2025-03-28 10:19:04,597 - DEBUG - Random scrolls complete.
+2025-03-28 10:19:04,599 - DEBUG - Scrolling page 4 times.
+2025-03-28 10:19:04,601 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:19:06,590 - DEBUG - Page scrolled.
+2025-03-28 10:19:08,592 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:19:10,004 - DEBUG - Page scrolled.
+2025-03-28 10:19:12,007 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:19:13,842 - DEBUG - Page scrolled.
+2025-03-28 10:19:15,845 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:19:17,393 - DEBUG - Page scrolled.
+2025-03-28 10:19:19,399 - DEBUG - Random scrolls complete.
+2025-03-28 10:19:29,072 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/instagram.215/
+2025-03-28 10:19:33,285 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/new-phone-and-new-instagram-account-getting-low-views-and-no-followers.1699211/unread
+2025-03-28 10:19:33,286 - INFO - Profile PixelPirate99: Minimizing window...
+2025-03-28 10:19:33,287 - INFO - Profile PixelPirate99: Window minimized. Pausing for 27.08 seconds...
+2025-03-28 10:20:00,370 - INFO - Profile PixelPirate99: Resuming after minimize...
+2025-03-28 10:20:00,373 - INFO - performing random action
+2025-03-28 10:20:10,026 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/new-phone-and-new-instagram-account-getting-low-views-and-no-followers.1699211/unread
+2025-03-28 10:20:10,030 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/new-phone-and-new-instagram-account-getting-low-views-and-no-followers.1699211/unread' to visited threads file 'Thread_links.txt'.
+2025-03-28 10:20:10,067 - INFO - Extracted thread title: New phone and new Instagram account getting low views and no followers
+2025-03-28 10:20:10,068 - DEBUG - Scrolling page 3 times.
+2025-03-28 10:20:10,069 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:20:11,367 - DEBUG - Page scrolled.
+2025-03-28 10:20:13,369 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:20:15,075 - DEBUG - Page scrolled.
+2025-03-28 10:20:17,076 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:20:19,054 - DEBUG - Page scrolled.
+2025-03-28 10:20:21,057 - DEBUG - Random scrolls complete.
+2025-03-28 10:20:23,623 - DEBUG - Scrolling page 3 times.
+2025-03-28 10:20:23,625 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:20:25,552 - DEBUG - Page scrolled.
+2025-03-28 10:20:28,554 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:20:30,298 - DEBUG - Page scrolled.
+2025-03-28 10:20:33,301 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:20:34,532 - DEBUG - Page scrolled.
+2025-03-28 10:20:37,534 - DEBUG - Random scrolls complete.
+2025-03-28 10:20:37,579 - DEBUG - Found 4 like buttons.
+2025-03-28 10:20:40,581 - INFO - Attempting to like 2 posts. There are 4 available.
+2025-03-28 10:20:41,403 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-28 10:20:41,431 - INFO - Like button clicked successfully using JavaScript.
+2025-03-28 10:20:41,433 - DEBUG - Liked post number 1 of 2.
+2025-03-28 10:20:46,686 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-28 10:20:46,707 - INFO - Like button clicked successfully using JavaScript.
+2025-03-28 10:20:46,709 - DEBUG - Liked post number 2 of 2.
+2025-03-28 10:20:50,907 - INFO - Liked 2 posts successfully.
+2025-03-28 10:20:50,908 - INFO - Liked 2 posts successfully.
+2025-03-28 10:20:53,216 - INFO - performing random action
+2025-03-28 10:20:53,219 - DEBUG - Scrolling page 5 times.
+2025-03-28 10:20:53,221 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:20:55,041 - DEBUG - Page scrolled.
+2025-03-28 10:20:58,044 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:20:59,905 - DEBUG - Page scrolled.
+2025-03-28 10:21:02,907 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:21:04,865 - DEBUG - Page scrolled.
+2025-03-28 10:21:07,868 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:21:09,058 - DEBUG - Page scrolled.
+2025-03-28 10:21:12,060 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:21:13,569 - DEBUG - Page scrolled.
+2025-03-28 10:21:16,571 - DEBUG - Random scrolls complete.
+2025-03-28 10:21:19,204 - DEBUG - Total comments in the thread: 4
+2025-03-28 10:21:39,518 - INFO - Post content extracted and saved to Thread-Details/Thread Content\New phone and new Instagram account getting low views and no followers.txt
+2025-03-28 10:21:42,235 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-28 10:21:42,282 - DEBUG - Extracted main post content: I had 4 Instagram accounts on my rooted Note 9 I had Spectrum Internet, I later deleted 4 accounts and keeping 2. After creating another account via custom ROM on my Note 9 the account was suspended, I stopped. On Nov 2024, I already switched ISP Frontier Internet and I brought the Galaxy S24 Ultra, I made a new Gmail and Instagram account with Frontier WiFi, but it was suspended. Despite appealing, the app claimed "WIFI issues" during verification, though my connection was fine.
+
+So I used a aged Gmail account and used mobile data US Mobile to sign up and I was able to make a new Instagram account. I was busy with life and I did view a few reels, but I it left sitting there and when I used Instagram I used mobile data and not wifi.
+
+So recently I decided to use WIFI instead and I started reposting videos from TikTok each time I would download a video I would delete the metadata with adarsus.com. I would use capcut mobile to edit the videos. I have 17 posts the views are 0, 21, 9, 30, 5, 123, 6, 108, 27, 171, 253, 214, 157, 247, 168, 156, 44 views.
+
+Is my account shadow banned or something, I seen a lot of crazy videos that get thousands or millions of views on the explore page. Is it because when I made the account I got suspended and I made a new account using mobile data and then used WIFI? I even followed 20 people on my niche one day and few days later followed other accounts in total I have 39 following and only 3 followers. I'm dropshipping.
+
+My other question if I buy a aged instagram account from here on marketplace and use a aged Gmail account to replace the one the account comes with via wifi will it be the same thing?
+I also brought a new phone the Xiaomi Redmi Note 14 5G and will come in a few days. Should I sign up using a aged gmail account when signing to instagram using wifi or should I buy a aged instagram from marketplace and use that?
+2025-03-28 10:21:47,735 - INFO - Successfully generated comments using Gemini API.
+2025-03-28 10:21:47,739 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-28 10:21:49,931 - INFO - Profile PixelPirate99: Opening default URL: https://www.google.com
+2025-03-28 10:21:56,463 - INFO - Profile PixelPirate99: Pausing for 35.58 seconds...
+2025-03-28 10:22:32,045 - INFO - Profile PixelPirate99: Resuming...
+2025-03-28 10:22:32,059 - INFO - Profile PixelPirate99: Switched back to original tab.
+2025-03-28 10:22:32,060 - INFO - performing random action
+2025-03-28 10:22:32,060 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 10:22:32,061 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 10:22:32,075 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 10:22:32,114 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 10:22:32,120 - DEBUG - Text box scrolled into view
+2025-03-28 10:22:32,870 - DEBUG - Initializing actionchains
+2025-03-28 10:22:32,915 - DEBUG - Post reply Element location: {'x': 1231, 'y': 2787}, size: {'height': 21, 'width': 68}
+2025-03-28 10:22:32,915 - DEBUG - Target click coordinates: (1265, 2797)
+2025-03-28 10:22:42,703 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-28 10:22:42,706 - DEBUG - Moving mouse to text box element.
+2025-03-28 10:22:42,708 - DEBUG - Clicking on the text box.
+2025-03-28 10:22:42,713 - DEBUG - Sending keys with content: Sounds like IG's got you flagged for suspicious activity, and yeah, switching to WiFi after creating the account on mobile data probably didn't help. Before buying an aged account, try a different strategy, maybe lay low on the posting for a week and just engage with content.
+
+2025-03-28 10:22:48,246 - DEBUG - Clicking on post reply button.
+2025-03-28 10:22:59,543 - DEBUG - Performed Actionchains
+2025-03-28 10:22:59,544 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-28 10:23:03,546 - INFO - Comment posted successfully.
+2025-03-28 10:23:03,550 - INFO - Task Completed!!
+2025-03-28 10:23:11,127 - INFO - Navigated back to the homepage.
+2025-03-28 10:23:13,955 - INFO - Attempting to clear memory and resources.
+2025-03-28 10:23:13,998 - INFO - Garbage collection completed.
+2025-03-28 10:23:13,999 - INFO - Waiting for 1000 seconds before next execution.

@@ -1,0 +1,107 @@
+2025-03-28 10:37:15,753 - INFO - Current time: 1743138435.7529895
+2025-03-28 10:37:15,754 - INFO - Token expiration time: 1743146707.8133519
+2025-03-28 10:37:15,754 - INFO - Token expiration time: 1743146707.8133519
+2025-03-28 10:37:15,755 - INFO - performing random action
+2025-03-28 10:37:15,756 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-28 10:37:15,757 - DEBUG - Scrolling page 2 times.
+2025-03-28 10:37:15,757 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:37:17,644 - DEBUG - Page scrolled.
+2025-03-28 10:37:19,647 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:37:20,860 - DEBUG - Page scrolled.
+2025-03-28 10:37:22,863 - DEBUG - Random scrolls complete.
+2025-03-28 10:37:22,866 - DEBUG - Scrolling page 3 times.
+2025-03-28 10:37:22,867 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:37:24,217 - DEBUG - Page scrolled.
+2025-03-28 10:37:26,219 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:37:27,262 - DEBUG - Page scrolled.
+2025-03-28 10:37:29,265 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:37:30,950 - DEBUG - Page scrolled.
+2025-03-28 10:37:32,952 - DEBUG - Random scrolls complete.
+2025-03-28 10:37:46,115 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/business-tax-advice.96/
+2025-03-28 10:37:49,785 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/paypal-we-stopped-your-payment-to-keep-you-safe-paypal-scam-warning.1694243/unread
+2025-03-28 10:37:49,785 - INFO - performing random action
+2025-03-28 10:37:58,118 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/paypal-we-stopped-your-payment-to-keep-you-safe-paypal-scam-warning.1694243/unread
+2025-03-28 10:37:58,122 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/paypal-we-stopped-your-payment-to-keep-you-safe-paypal-scam-warning.1694243/unread' to visited threads file 'Thread_links.txt'.
+2025-03-28 10:37:58,152 - INFO - Extracted thread title: PayPal  We stopped your payment to keep you safe. PayPal scam warning
+2025-03-28 10:37:58,153 - DEBUG - Scrolling page 4 times.
+2025-03-28 10:37:58,153 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:37:59,691 - DEBUG - Page scrolled.
+2025-03-28 10:38:01,693 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:38:03,413 - DEBUG - Page scrolled.
+2025-03-28 10:38:05,415 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:38:06,548 - DEBUG - Page scrolled.
+2025-03-28 10:38:08,551 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:38:10,162 - DEBUG - Page scrolled.
+2025-03-28 10:38:12,165 - DEBUG - Random scrolls complete.
+2025-03-28 10:38:14,476 - DEBUG - Scrolling page 2 times.
+2025-03-28 10:38:14,478 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:38:15,537 - DEBUG - Page scrolled.
+2025-03-28 10:38:18,539 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:38:20,279 - DEBUG - Page scrolled.
+2025-03-28 10:38:23,281 - DEBUG - Random scrolls complete.
+2025-03-28 10:38:23,304 - DEBUG - Found 7 like buttons.
+2025-03-28 10:38:26,305 - INFO - Attempting to like 4 posts. There are 7 available.
+2025-03-28 10:38:27,196 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-28 10:38:27,210 - INFO - Like button clicked successfully using JavaScript.
+2025-03-28 10:38:27,211 - DEBUG - Liked post number 1 of 4.
+2025-03-28 10:38:32,085 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-28 10:38:32,097 - INFO - Like button clicked successfully using JavaScript.
+2025-03-28 10:38:32,098 - DEBUG - Liked post number 2 of 4.
+2025-03-28 10:38:37,914 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-28 10:38:37,934 - INFO - Like button clicked successfully using JavaScript.
+2025-03-28 10:38:37,937 - DEBUG - Liked post number 3 of 4.
+2025-03-28 10:38:43,123 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-28 10:38:43,144 - INFO - Like button clicked successfully using JavaScript.
+2025-03-28 10:38:43,146 - DEBUG - Liked post number 4 of 4.
+2025-03-28 10:38:48,094 - INFO - Liked 4 posts successfully.
+2025-03-28 10:38:48,097 - INFO - Liked 4 posts successfully.
+2025-03-28 10:38:50,344 - INFO - performing random action
+2025-03-28 10:38:50,346 - DEBUG - Scrolling page 6 times.
+2025-03-28 10:38:50,348 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:38:52,107 - DEBUG - Page scrolled.
+2025-03-28 10:38:55,109 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:38:56,183 - DEBUG - Page scrolled.
+2025-03-28 10:38:59,185 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:39:01,056 - DEBUG - Page scrolled.
+2025-03-28 10:39:04,058 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:39:05,254 - DEBUG - Page scrolled.
+2025-03-28 10:39:08,256 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:39:09,799 - DEBUG - Page scrolled.
+2025-03-28 10:39:12,802 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:39:14,167 - DEBUG - Page scrolled.
+2025-03-28 10:39:17,169 - DEBUG - Random scrolls complete.
+2025-03-28 10:39:20,143 - DEBUG - Total comments in the thread: 7
+2025-03-28 10:39:52,065 - INFO - Post content extracted and saved to Thread-Details/Thread Content\PayPal  We stopped your payment to keep you safe. PayPal scam warning.txt
+2025-03-28 10:39:54,380 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-28 10:39:54,411 - DEBUG - Extracted main post content: PayPal scam warning when trying to send money?
+
+Hey, so I am running a grey/black market and I mainly accept paypal Friends & Family payment, how ever paypal changed something from January 2025.
+
+I Tried creating many paypals, different IP, phone, VPS, phonenumbers. Nothing worked it always says the same thing when a person is trying to send me money.
+
+Does anyone know what could be the issue or anyone know how to bypass this stupid thing?
+2025-03-28 10:39:59,690 - INFO - Successfully generated comments using Gemini API.
+2025-03-28 10:39:59,693 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-28 10:40:02,097 - INFO - performing random action
+2025-03-28 10:40:02,100 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 10:40:02,101 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 10:40:02,131 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 10:40:02,169 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 10:40:02,175 - DEBUG - Text box scrolled into view
+2025-03-28 10:40:03,127 - DEBUG - Initializing actionchains
+2025-03-28 10:40:03,145 - DEBUG - Post reply Element location: {'x': 1231, 'y': 3073}, size: {'height': 21, 'width': 68}
+2025-03-28 10:40:03,145 - DEBUG - Target click coordinates: (1265, 3083)
+2025-03-28 10:40:13,483 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-28 10:40:13,485 - DEBUG - Moving mouse to text box element.
+2025-03-28 10:40:13,487 - DEBUG - Clicking on the text box.
+2025-03-28 10:40:13,489 - DEBUG - Sending keys with content: Dude, that's rough. Maybe try crypto? Less hassle, more anonymous.
+
+2025-03-28 10:40:18,629 - DEBUG - Clicking on post reply button.
+2025-03-28 10:40:29,418 - DEBUG - Performed Actionchains
+2025-03-28 10:40:29,419 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-28 10:40:33,420 - INFO - Comment posted successfully.
+2025-03-28 10:40:33,423 - INFO - Task Completed!!
+2025-03-28 10:40:40,086 - INFO - Navigated back to the homepage.
+2025-03-28 10:40:42,100 - INFO - Attempting to clear memory and resources.
+2025-03-28 10:40:42,129 - INFO - Garbage collection completed.
+2025-03-28 10:40:42,129 - INFO - Waiting for 1000 seconds before next execution.

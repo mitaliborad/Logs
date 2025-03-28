@@ -1,0 +1,104 @@
+2025-03-28 10:24:40,902 - INFO - Current time: 1743137680.9025424
+2025-03-28 10:24:40,905 - INFO - Token expiration time: 1743147225.212598
+2025-03-28 10:24:40,908 - INFO - Token expiration time: 1743147225.212598
+2025-03-28 10:24:40,911 - INFO - performing random action
+2025-03-28 10:24:40,914 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-28 10:24:40,916 - DEBUG - Scrolling page 3 times.
+2025-03-28 10:24:40,918 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:24:42,709 - DEBUG - Page scrolled.
+2025-03-28 10:24:44,712 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:24:46,273 - DEBUG - Page scrolled.
+2025-03-28 10:24:48,276 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:24:49,383 - DEBUG - Page scrolled.
+2025-03-28 10:24:51,385 - DEBUG - Random scrolls complete.
+2025-03-28 10:24:51,388 - DEBUG - Scrolling page 4 times.
+2025-03-28 10:24:51,389 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:24:53,143 - DEBUG - Page scrolled.
+2025-03-28 10:24:55,144 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:24:56,328 - DEBUG - Page scrolled.
+2025-03-28 10:24:58,330 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:24:59,599 - DEBUG - Page scrolled.
+2025-03-28 10:25:01,600 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:25:02,659 - DEBUG - Page scrolled.
+2025-03-28 10:25:04,661 - DEBUG - Random scrolls complete.
+2025-03-28 10:25:15,881 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/pinterest.211/
+2025-03-28 10:25:19,330 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/is-pinterest-still-active.1644379/unread
+2025-03-28 10:25:19,330 - INFO - performing random action
+2025-03-28 10:25:29,628 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/is-pinterest-still-active.1644379/unread
+2025-03-28 10:25:29,629 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/is-pinterest-still-active.1644379/unread' to visited threads file 'Thread_links.txt'.
+2025-03-28 10:25:29,656 - INFO - Extracted thread title: Is Pinterest still active
+2025-03-28 10:25:29,657 - DEBUG - Scrolling page 4 times.
+2025-03-28 10:25:29,657 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:25:31,476 - DEBUG - Page scrolled.
+2025-03-28 10:25:33,478 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:25:35,057 - DEBUG - Page scrolled.
+2025-03-28 10:25:37,059 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:25:38,595 - DEBUG - Page scrolled.
+2025-03-28 10:25:40,596 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:25:42,554 - DEBUG - Page scrolled.
+2025-03-28 10:25:44,556 - DEBUG - Random scrolls complete.
+2025-03-28 10:25:46,799 - DEBUG - Scrolling page 3 times.
+2025-03-28 10:25:46,801 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:25:47,986 - DEBUG - Page scrolled.
+2025-03-28 10:25:50,989 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:25:52,579 - DEBUG - Page scrolled.
+2025-03-28 10:25:55,581 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:25:57,416 - DEBUG - Page scrolled.
+2025-03-28 10:26:00,418 - DEBUG - Random scrolls complete.
+2025-03-28 10:26:00,437 - DEBUG - Found 20 like buttons.
+2025-03-28 10:26:03,439 - INFO - Attempting to like 3 posts. There are 20 available.
+2025-03-28 10:26:04,222 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-28 10:26:04,244 - INFO - Like button clicked successfully using JavaScript.
+2025-03-28 10:26:04,245 - DEBUG - Liked post number 1 of 3.
+2025-03-28 10:26:08,929 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-28 10:26:08,949 - INFO - Like button clicked successfully using JavaScript.
+2025-03-28 10:26:08,950 - DEBUG - Liked post number 2 of 3.
+2025-03-28 10:26:14,452 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-28 10:26:14,462 - INFO - Like button clicked successfully using JavaScript.
+2025-03-28 10:26:14,462 - DEBUG - Liked post number 3 of 3.
+2025-03-28 10:26:18,781 - INFO - Liked 3 posts successfully.
+2025-03-28 10:26:18,785 - INFO - Liked 3 posts successfully.
+2025-03-28 10:26:21,624 - INFO - performing random action
+2025-03-28 10:26:21,628 - DEBUG - Scrolling page 4 times.
+2025-03-28 10:26:21,629 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:26:23,485 - DEBUG - Page scrolled.
+2025-03-28 10:26:26,487 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:26:27,537 - DEBUG - Page scrolled.
+2025-03-28 10:26:30,540 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:26:31,768 - DEBUG - Page scrolled.
+2025-03-28 10:26:34,770 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:26:36,567 - DEBUG - Page scrolled.
+2025-03-28 10:26:39,569 - DEBUG - Random scrolls complete.
+2025-03-28 10:26:42,008 - DEBUG - Total comments in the thread: 20
+2025-03-28 10:29:19,687 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Is Pinterest still active.txt
+2025-03-28 10:29:22,210 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-28 10:29:22,246 - DEBUG - Extracted main post content: Who uses Pinterest and for what
+2025-03-28 10:29:26,278 - INFO - Successfully generated comments using Gemini API.
+2025-03-28 10:29:26,279 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-28 10:29:28,724 - INFO - Profile BinaryGhost: Opening random website: https://github.com/
+2025-03-28 10:29:44,014 - INFO - Profile BinaryGhost: Pausing for 48.75 seconds...
+2025-03-28 10:30:32,766 - INFO - Profile BinaryGhost: Resuming...
+2025-03-28 10:30:32,796 - INFO - Profile BinaryGhost: Switched back to original tab.
+2025-03-28 10:30:32,797 - INFO - performing random action
+2025-03-28 10:30:32,797 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 10:30:32,798 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 10:30:32,872 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 10:30:32,922 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 10:30:32,929 - DEBUG - Text box scrolled into view
+2025-03-28 10:30:33,775 - DEBUG - Initializing actionchains
+2025-03-28 10:30:33,807 - DEBUG - Post reply Element location: {'x': 1231, 'y': 6229}, size: {'height': 21, 'width': 68}
+2025-03-28 10:30:33,808 - DEBUG - Target click coordinates: (1265, 6239)
+2025-03-28 10:30:50,717 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-28 10:30:50,722 - DEBUG - Moving mouse to text box element.
+2025-03-28 10:30:50,725 - DEBUG - Clicking on the text box.
+2025-03-28 10:30:50,729 - DEBUG - Sending keys with content: Honestly, I mostly use it to save recipes and home decor ideas; it's a total black hole, but beats endless scrolling on other platforms. Have you tried it for anything business-related?
+
+2025-03-28 10:30:56,217 - DEBUG - Clicking on post reply button.
+2025-03-28 10:30:57,607 - DEBUG - Performed Actionchains
+2025-03-28 10:30:57,608 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-28 10:31:01,608 - INFO - Comment posted successfully.
+2025-03-28 10:31:01,611 - INFO - Task Completed!!
+2025-03-28 10:31:04,929 - INFO - Navigated back to the homepage.
+2025-03-28 10:31:07,292 - INFO - Attempting to clear memory and resources.
+2025-03-28 10:31:07,321 - INFO - Garbage collection completed.
+2025-03-28 10:31:07,322 - INFO - Waiting for 1000 seconds before next execution.

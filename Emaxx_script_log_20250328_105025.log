@@ -1,0 +1,102 @@
+2025-03-28 10:50:25,738 - INFO - Current time: 1743139225.7387996
+2025-03-28 10:50:25,741 - INFO - Token expiration time: 1743147479.3538666
+2025-03-28 10:50:25,744 - INFO - Token expiration time: 1743147479.3538666
+2025-03-28 10:50:25,746 - INFO - performing random action
+2025-03-28 10:50:25,749 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-28 10:50:25,751 - DEBUG - Scrolling page 2 times.
+2025-03-28 10:50:25,753 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:50:27,497 - DEBUG - Page scrolled.
+2025-03-28 10:50:29,499 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:50:31,048 - DEBUG - Page scrolled.
+2025-03-28 10:50:33,049 - DEBUG - Random scrolls complete.
+2025-03-28 10:50:33,052 - DEBUG - Scrolling page 2 times.
+2025-03-28 10:50:33,053 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:50:34,871 - DEBUG - Page scrolled.
+2025-03-28 10:50:36,874 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:50:38,391 - DEBUG - Page scrolled.
+2025-03-28 10:50:40,394 - DEBUG - Random scrolls complete.
+2025-03-28 10:50:52,381 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/white-hat-seo.30/
+2025-03-28 10:50:56,515 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/does-ai-humanizer-tools-works-how-it-affect-seo-content.1699660/unread
+2025-03-28 10:50:56,516 - INFO - performing random action
+2025-03-28 10:51:06,615 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/does-ai-humanizer-tools-works-how-it-affect-seo-content.1699660/unread
+2025-03-28 10:51:06,616 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/does-ai-humanizer-tools-works-how-it-affect-seo-content.1699660/unread' to visited threads file 'Thread_links.txt'.
+2025-03-28 10:51:06,646 - INFO - Extracted thread title: Does AI Humanizer Tools Works How It Affect SEO Content
+2025-03-28 10:51:06,647 - DEBUG - Scrolling page 4 times.
+2025-03-28 10:51:06,648 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:51:08,419 - DEBUG - Page scrolled.
+2025-03-28 10:51:10,420 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:51:12,395 - DEBUG - Page scrolled.
+2025-03-28 10:51:14,397 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:51:16,100 - DEBUG - Page scrolled.
+2025-03-28 10:51:18,101 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:51:19,388 - DEBUG - Page scrolled.
+2025-03-28 10:51:21,389 - DEBUG - Random scrolls complete.
+2025-03-28 10:51:23,701 - DEBUG - Scrolling page 4 times.
+2025-03-28 10:51:23,703 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:51:25,365 - DEBUG - Page scrolled.
+2025-03-28 10:51:28,368 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:51:29,864 - DEBUG - Page scrolled.
+2025-03-28 10:51:32,866 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:51:34,676 - DEBUG - Page scrolled.
+2025-03-28 10:51:37,678 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:51:39,655 - DEBUG - Page scrolled.
+2025-03-28 10:51:42,658 - DEBUG - Random scrolls complete.
+2025-03-28 10:51:42,676 - DEBUG - Found 3 like buttons.
+2025-03-28 10:51:45,677 - INFO - Attempting to like 3 posts. There are 3 available.
+2025-03-28 10:51:46,225 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-28 10:51:46,237 - INFO - Like button clicked successfully using JavaScript.
+2025-03-28 10:51:46,238 - DEBUG - Liked post number 1 of 3.
+2025-03-28 10:51:51,273 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-28 10:51:51,293 - INFO - Like button clicked successfully using JavaScript.
+2025-03-28 10:51:51,295 - DEBUG - Liked post number 2 of 3.
+2025-03-28 10:51:56,446 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-28 10:51:56,464 - INFO - Like button clicked successfully using JavaScript.
+2025-03-28 10:51:56,467 - DEBUG - Liked post number 3 of 3.
+2025-03-28 10:52:01,351 - INFO - Liked 3 posts successfully.
+2025-03-28 10:52:01,354 - INFO - Liked 3 posts successfully.
+2025-03-28 10:52:03,419 - INFO - performing random action
+2025-03-28 10:52:03,420 - DEBUG - Scrolling page 6 times.
+2025-03-28 10:52:03,421 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:52:04,770 - DEBUG - Page scrolled.
+2025-03-28 10:52:07,773 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:52:08,829 - DEBUG - Page scrolled.
+2025-03-28 10:52:11,832 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:52:13,709 - DEBUG - Page scrolled.
+2025-03-28 10:52:16,711 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:52:18,389 - DEBUG - Page scrolled.
+2025-03-28 10:52:21,391 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:52:22,703 - DEBUG - Page scrolled.
+2025-03-28 10:52:25,705 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:52:26,910 - DEBUG - Page scrolled.
+2025-03-28 10:52:29,913 - DEBUG - Random scrolls complete.
+2025-03-28 10:52:32,800 - DEBUG - Total comments in the thread: 3
+2025-03-28 10:52:33,016 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Does AI Humanizer Tools Works How It Affect SEO Content.txt
+2025-03-28 10:52:35,908 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-28 10:52:35,947 - DEBUG - Extracted main post content: Do search engines like Google penalize content that has been "humanized" by AI tools?
+How does AI-humanized content compare to original, manually written content in terms of engagement and ranking?
+Have you tested any AI humanizer tools? If so, what were your results?
+2025-03-28 10:52:41,206 - INFO - Successfully generated comments using Gemini API.
+2025-03-28 10:52:41,209 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-28 10:52:43,938 - INFO - performing random action
+2025-03-28 10:52:43,941 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 10:52:43,942 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 10:52:43,974 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 10:52:44,010 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 10:52:44,016 - DEBUG - Text box scrolled into view
+2025-03-28 10:52:44,928 - DEBUG - Initializing actionchains
+2025-03-28 10:52:44,948 - DEBUG - Post reply Element location: {'x': 1231, 'y': 1827}, size: {'height': 21, 'width': 68}
+2025-03-28 10:52:44,948 - DEBUG - Target click coordinates: (1265, 1837)
+2025-03-28 10:52:52,663 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-28 10:52:52,665 - DEBUG - Moving mouse to text box element.
+2025-03-28 10:52:52,667 - DEBUG - Clicking on the text box.
+2025-03-28 10:52:52,670 - DEBUG - Sending keys with content: I've actually seen some decent ranking with "humanized" AI content, but engagement still felt a bit flat compared to stuff I wrote myself. Have you tried A/B testing different versions to see what resonates with your audience?
+
+2025-03-28 10:52:58,207 - DEBUG - Clicking on post reply button.
+2025-03-28 10:53:09,291 - DEBUG - Performed Actionchains
+2025-03-28 10:53:09,292 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-28 10:53:13,293 - INFO - Comment posted successfully.
+2025-03-28 10:53:13,296 - INFO - Task Completed!!
+2025-03-28 10:53:21,040 - INFO - Navigated back to the homepage.
+2025-03-28 10:53:23,208 - INFO - Attempting to clear memory and resources.
+2025-03-28 10:53:23,233 - INFO - Garbage collection completed.
+2025-03-28 10:53:23,234 - INFO - Waiting for 1000 seconds before next execution.

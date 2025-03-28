@@ -1,0 +1,116 @@
+2025-03-28 10:08:11,102 - INFO - Current time: 1743136691.1024356
+2025-03-28 10:08:11,103 - INFO - Token expiration time: 1743147479.3538666
+2025-03-28 10:08:11,104 - INFO - Token expiration time: 1743147479.3538666
+2025-03-28 10:08:11,104 - INFO - performing random action
+2025-03-28 10:08:11,105 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-28 10:08:11,106 - DEBUG - Scrolling page 2 times.
+2025-03-28 10:08:11,107 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:08:12,480 - DEBUG - Page scrolled.
+2025-03-28 10:08:14,483 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:08:15,646 - DEBUG - Page scrolled.
+2025-03-28 10:08:17,648 - DEBUG - Random scrolls complete.
+2025-03-28 10:08:17,651 - DEBUG - Scrolling page 4 times.
+2025-03-28 10:08:17,653 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:08:19,348 - DEBUG - Page scrolled.
+2025-03-28 10:08:21,350 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:08:22,604 - DEBUG - Page scrolled.
+2025-03-28 10:08:24,606 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:08:26,253 - DEBUG - Page scrolled.
+2025-03-28 10:08:28,256 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:08:29,700 - DEBUG - Page scrolled.
+2025-03-28 10:08:31,703 - DEBUG - Random scrolls complete.
+2025-03-28 10:08:38,207 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/cpa.50/
+2025-03-28 10:08:42,203 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/i-have-80-iphones-how-do-i-make-money-with-them.1684115/unread
+2025-03-28 10:08:42,204 - INFO - Profile Emaxx: Restoring window...
+2025-03-28 10:08:44,205 - INFO - performing random action
+2025-03-28 10:08:57,164 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/i-have-80-iphones-how-do-i-make-money-with-them.1684115/unread
+2025-03-28 10:08:57,167 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/i-have-80-iphones-how-do-i-make-money-with-them.1684115/unread' to visited threads file 'Thread_links.txt'.
+2025-03-28 10:08:57,196 - INFO - Extracted thread title: I have 80 iPhones how do I make money with them
+2025-03-28 10:08:57,197 - DEBUG - Scrolling page 4 times.
+2025-03-28 10:08:57,197 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:08:58,264 - DEBUG - Page scrolled.
+2025-03-28 10:09:00,266 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:09:02,117 - DEBUG - Page scrolled.
+2025-03-28 10:09:04,120 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:09:05,549 - DEBUG - Page scrolled.
+2025-03-28 10:09:07,550 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:09:09,408 - DEBUG - Page scrolled.
+2025-03-28 10:09:11,410 - DEBUG - Random scrolls complete.
+2025-03-28 10:09:14,312 - DEBUG - Scrolling page 1 times.
+2025-03-28 10:09:14,313 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:09:15,660 - DEBUG - Page scrolled.
+2025-03-28 10:09:18,663 - DEBUG - Random scrolls complete.
+2025-03-28 10:09:18,693 - DEBUG - Found 9 like buttons.
+2025-03-28 10:09:21,694 - INFO - Attempting to like 4 posts. There are 9 available.
+2025-03-28 10:09:22,362 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-28 10:09:22,388 - INFO - Like button clicked successfully using JavaScript.
+2025-03-28 10:09:22,388 - DEBUG - Liked post number 1 of 4.
+2025-03-28 10:09:27,331 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-28 10:09:27,351 - INFO - Like button clicked successfully using JavaScript.
+2025-03-28 10:09:27,353 - DEBUG - Liked post number 2 of 4.
+2025-03-28 10:09:32,807 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-28 10:09:32,817 - INFO - Like button clicked successfully using JavaScript.
+2025-03-28 10:09:32,818 - DEBUG - Liked post number 3 of 4.
+2025-03-28 10:09:37,643 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-28 10:09:37,662 - INFO - Like button clicked successfully using JavaScript.
+2025-03-28 10:09:37,664 - DEBUG - Liked post number 4 of 4.
+2025-03-28 10:09:42,301 - INFO - Liked 4 posts successfully.
+2025-03-28 10:09:42,303 - INFO - Liked 4 posts successfully.
+2025-03-28 10:09:45,174 - INFO - performing random action
+2025-03-28 10:09:45,177 - DEBUG - Scrolling page 7 times.
+2025-03-28 10:09:45,178 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:09:47,198 - DEBUG - Page scrolled.
+2025-03-28 10:09:50,199 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:09:51,300 - DEBUG - Page scrolled.
+2025-03-28 10:09:54,303 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:09:56,078 - DEBUG - Page scrolled.
+2025-03-28 10:09:59,079 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:10:00,565 - DEBUG - Page scrolled.
+2025-03-28 10:10:03,567 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:10:05,486 - DEBUG - Page scrolled.
+2025-03-28 10:10:08,488 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:10:10,133 - DEBUG - Page scrolled.
+2025-03-28 10:10:13,135 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:10:14,861 - DEBUG - Page scrolled.
+2025-03-28 10:10:17,864 - DEBUG - Random scrolls complete.
+2025-03-28 10:10:20,237 - DEBUG - Total comments in the thread: 9
+2025-03-28 10:11:11,369 - INFO - Post content extracted and saved to Thread-Details/Thread Content\I have 80 iPhones how do I make money with them.txt
+2025-03-28 10:11:14,053 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-28 10:11:14,084 - DEBUG - Extracted main post content: I have 80 iPhones how do I make money with them?
+
+
+I recently received 80 phones as payment from a service provider, its a long story haha
+
+I have tried selling a few and to be honest have just got complaints and ridiculous offers for them so I'd like to do a project with them.
+
+How would I use these to make money? I know a little bit of coding and quite a bit of SEO and did some research into click farms and selling high-quality traffic.
+
+Does anyone have any experience with this?
+
+
+I also live in South Africa so labour costs are relatively cheaper
+2025-03-28 10:11:19,038 - INFO - Successfully generated comments using Gemini API.
+2025-03-28 10:11:19,041 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-28 10:11:21,359 - INFO - performing random action
+2025-03-28 10:11:21,361 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 10:11:21,362 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 10:11:21,387 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 10:11:21,443 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 10:11:21,449 - DEBUG - Text box scrolled into view
+2025-03-28 10:11:22,414 - DEBUG - Initializing actionchains
+2025-03-28 10:11:22,477 - DEBUG - Post reply Element location: {'x': 1231, 'y': 3568}, size: {'height': 21, 'width': 68}
+2025-03-28 10:11:22,478 - DEBUG - Target click coordinates: (1265, 3578)
+2025-03-28 10:11:33,965 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-28 10:11:33,968 - DEBUG - Moving mouse to text box element.
+2025-03-28 10:11:33,970 - DEBUG - Clicking on the text box.
+2025-03-28 10:11:33,972 - DEBUG - Sending keys with content: Click farms are risky and a headache. Could you set them up as a repair side hustle, given the cheaper labor costs there?
+
+2025-03-28 10:11:39,543 - DEBUG - Clicking on post reply button.
+2025-03-28 10:11:50,502 - DEBUG - Performed Actionchains
+2025-03-28 10:11:50,503 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-28 10:11:54,504 - INFO - Comment posted successfully.
+2025-03-28 10:11:54,507 - INFO - Task Completed!!
+2025-03-28 10:12:02,339 - INFO - Navigated back to the homepage.
+2025-03-28 10:12:04,991 - INFO - Attempting to clear memory and resources.
+2025-03-28 10:12:05,020 - INFO - Garbage collection completed.
+2025-03-28 10:12:05,021 - INFO - Waiting for 1000 seconds before next execution.

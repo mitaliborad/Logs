@@ -1,0 +1,109 @@
+2025-03-28 10:47:47,324 - INFO - Current time: 1743139067.324647
+2025-03-28 10:47:47,327 - INFO - Token expiration time: 1743147225.212598
+2025-03-28 10:47:47,330 - INFO - Token expiration time: 1743147225.212598
+2025-03-28 10:47:47,332 - INFO - Profile BinaryGhost: Opening random website: https://www.canva.com/en_in/
+2025-03-28 10:48:15,996 - INFO - Profile BinaryGhost: Pausing for 49.64 seconds...
+2025-03-28 10:49:05,636 - INFO - Profile BinaryGhost: Resuming...
+2025-03-28 10:49:05,698 - INFO - Profile BinaryGhost: Switched back to original tab.
+2025-03-28 10:49:05,699 - INFO - performing random action
+2025-03-28 10:49:05,700 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-28 10:49:05,701 - DEBUG - Scrolling page 4 times.
+2025-03-28 10:49:05,701 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:49:06,990 - DEBUG - Page scrolled.
+2025-03-28 10:49:08,991 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:49:10,107 - DEBUG - Page scrolled.
+2025-03-28 10:49:12,109 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:49:13,904 - DEBUG - Page scrolled.
+2025-03-28 10:49:15,907 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:49:17,599 - DEBUG - Page scrolled.
+2025-03-28 10:49:19,601 - DEBUG - Random scrolls complete.
+2025-03-28 10:49:19,602 - DEBUG - Scrolling page 4 times.
+2025-03-28 10:49:19,603 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:49:21,517 - DEBUG - Page scrolled.
+2025-03-28 10:49:23,519 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:49:25,497 - DEBUG - Page scrolled.
+2025-03-28 10:49:27,499 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:49:28,614 - DEBUG - Page scrolled.
+2025-03-28 10:49:30,616 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:49:31,859 - DEBUG - Page scrolled.
+2025-03-28 10:49:33,861 - DEBUG - Random scrolls complete.
+2025-03-28 10:49:45,809 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/web-design.126/
+2025-03-28 10:49:49,092 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/need-suggestions-for-user-interface-panels-in-wordpress-for-pay-ads.1689743/unread
+2025-03-28 10:49:49,093 - INFO - performing random action
+2025-03-28 10:49:58,538 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/need-suggestions-for-user-interface-panels-in-wordpress-for-pay-ads.1689743/unread
+2025-03-28 10:49:58,541 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/need-suggestions-for-user-interface-panels-in-wordpress-for-pay-ads.1689743/unread' to visited threads file 'Thread_links.txt'.
+2025-03-28 10:49:58,583 - INFO - Extracted thread title: Need suggestions for user interface panels in WordPress for pay ads
+2025-03-28 10:49:58,584 - DEBUG - Scrolling page 2 times.
+2025-03-28 10:49:58,585 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:50:00,216 - DEBUG - Page scrolled.
+2025-03-28 10:50:02,218 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:50:03,526 - DEBUG - Page scrolled.
+2025-03-28 10:50:05,528 - DEBUG - Random scrolls complete.
+2025-03-28 10:50:07,881 - DEBUG - Scrolling page 3 times.
+2025-03-28 10:50:07,882 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:50:09,258 - DEBUG - Page scrolled.
+2025-03-28 10:50:12,260 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:50:13,701 - DEBUG - Page scrolled.
+2025-03-28 10:50:16,702 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:50:17,808 - DEBUG - Page scrolled.
+2025-03-28 10:50:20,810 - DEBUG - Random scrolls complete.
+2025-03-28 10:50:20,841 - DEBUG - Found 4 like buttons.
+2025-03-28 10:50:23,842 - INFO - Attempting to like 2 posts. There are 4 available.
+2025-03-28 10:50:24,643 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-28 10:50:24,655 - INFO - Like button clicked successfully using JavaScript.
+2025-03-28 10:50:24,656 - DEBUG - Liked post number 1 of 2.
+2025-03-28 10:50:30,180 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-28 10:50:30,199 - INFO - Like button clicked successfully using JavaScript.
+2025-03-28 10:50:30,201 - DEBUG - Liked post number 2 of 2.
+2025-03-28 10:50:34,853 - INFO - Liked 2 posts successfully.
+2025-03-28 10:50:34,856 - INFO - Liked 2 posts successfully.
+2025-03-28 10:50:36,911 - INFO - Profile BinaryGhost: Opening random website: https://letshyphen.com/
+2025-03-28 10:51:18,898 - INFO - Profile BinaryGhost: Pausing for 37.58 seconds...
+2025-03-28 10:51:56,483 - INFO - Profile BinaryGhost: Resuming...
+2025-03-28 10:51:56,507 - INFO - Profile BinaryGhost: Switched back to original tab.
+2025-03-28 10:51:56,508 - INFO - performing random action
+2025-03-28 10:51:56,509 - DEBUG - Scrolling page 3 times.
+2025-03-28 10:51:56,509 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:51:57,724 - DEBUG - Page scrolled.
+2025-03-28 10:52:00,725 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:52:01,977 - DEBUG - Page scrolled.
+2025-03-28 10:52:04,979 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:52:06,880 - DEBUG - Page scrolled.
+2025-03-28 10:52:09,883 - DEBUG - Random scrolls complete.
+2025-03-28 10:52:11,996 - DEBUG - Total comments in the thread: 4
+2025-03-28 10:52:22,745 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Need suggestions for user interface panels in WordPress for pay ads.txt
+2025-03-28 10:52:25,692 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-28 10:52:25,723 - DEBUG - Extracted main post content: Hello fellows,
+I have a website that offers ad banners that admins are allowed to ad manually and soon hopefully I will be able to put google adsense.
+However, I am planning to allow user accounts to pay for ad positions in their user panel depending on the ad positions and period of subscription, it's cost will be calculated. Including crypto payments and debit cards, eventually if it's possible to create that somewhere in user account panel.
+Is it possible to make that possible with a plugin or other shortcode with a script?
+Is anybody doing that already and share experience with a tool or a plugin, maybe a script or something else.
+I will be happy to hear.
+Sincerely,
+2025-03-28 10:52:29,751 - INFO - Successfully generated comments using Gemini API.
+2025-03-28 10:52:29,754 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-28 10:52:32,172 - INFO - Profile BinaryGhost: Pausing for 46.18 seconds...
+2025-03-28 10:53:18,358 - INFO - Profile BinaryGhost: Resuming...
+2025-03-28 10:53:18,361 - INFO - performing random action
+2025-03-28 10:53:18,363 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 10:53:18,365 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 10:53:18,404 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 10:53:18,442 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 10:53:18,448 - DEBUG - Text box scrolled into view
+2025-03-28 10:53:18,975 - DEBUG - Initializing actionchains
+2025-03-28 10:53:19,029 - DEBUG - Post reply Element location: {'x': 1231, 'y': 2116}, size: {'height': 21, 'width': 68}
+2025-03-28 10:53:19,029 - DEBUG - Target click coordinates: (1265, 2126)
+2025-03-28 10:53:26,740 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-28 10:53:26,742 - DEBUG - Moving mouse to text box element.
+2025-03-28 10:53:26,744 - DEBUG - Clicking on the text box.
+2025-03-28 10:53:26,748 - DEBUG - Sending keys with content: Honestly, a dedicated plugin is probably your best bet for handling payments and ad placement like that. Have you looked at any WordPress ad management plugins that integrate with WooCommerce or Easy Digital Downloads?
+
+2025-03-28 10:53:32,471 - DEBUG - Clicking on post reply button.
+2025-03-28 10:53:43,608 - DEBUG - Performed Actionchains
+2025-03-28 10:53:43,609 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-28 10:53:47,610 - INFO - Comment posted successfully.
+2025-03-28 10:53:47,613 - INFO - Task Completed!!
+2025-03-28 10:53:55,980 - INFO - Navigated back to the homepage.
+2025-03-28 10:53:58,775 - INFO - Attempting to clear memory and resources.
+2025-03-28 10:53:58,804 - INFO - Garbage collection completed.
+2025-03-28 10:53:58,805 - INFO - Waiting for 1000 seconds before next execution.

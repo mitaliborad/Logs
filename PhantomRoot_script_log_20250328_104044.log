@@ -1,0 +1,130 @@
+2025-03-28 10:40:44,489 - INFO - Current time: 1743138644.4896796
+2025-03-28 10:40:44,491 - INFO - Token expiration time: 1743147045.3954916
+2025-03-28 10:40:44,492 - INFO - Token expiration time: 1743147045.3954916
+2025-03-28 10:40:44,494 - INFO - performing random action
+2025-03-28 10:40:44,495 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-28 10:40:44,496 - DEBUG - Scrolling page 4 times.
+2025-03-28 10:40:44,496 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:40:45,612 - DEBUG - Page scrolled.
+2025-03-28 10:40:47,614 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:40:49,134 - DEBUG - Page scrolled.
+2025-03-28 10:40:51,136 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:40:52,901 - DEBUG - Page scrolled.
+2025-03-28 10:40:54,904 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:40:56,352 - DEBUG - Page scrolled.
+2025-03-28 10:40:58,354 - DEBUG - Random scrolls complete.
+2025-03-28 10:40:58,356 - DEBUG - Scrolling page 4 times.
+2025-03-28 10:40:58,358 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:40:59,840 - DEBUG - Page scrolled.
+2025-03-28 10:41:01,843 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:41:03,848 - DEBUG - Page scrolled.
+2025-03-28 10:41:05,849 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:41:07,480 - DEBUG - Page scrolled.
+2025-03-28 10:41:09,482 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:41:11,226 - DEBUG - Page scrolled.
+2025-03-28 10:41:13,229 - DEBUG - Random scrolls complete.
+2025-03-28 10:41:21,344 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/online-reputation-management-orm.224/
+2025-03-28 10:41:24,579 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/blacklisted-on-spamhaus.1682658/
+2025-03-28 10:41:24,580 - INFO - Profile PhantomRoot: Opening default URL: https://www.google.com
+2025-03-28 10:41:34,740 - INFO - Profile PhantomRoot: Pausing for 44.64 seconds...
+2025-03-28 10:42:19,383 - INFO - Profile PhantomRoot: Resuming...
+2025-03-28 10:42:19,406 - INFO - Profile PhantomRoot: Switched back to original tab.
+2025-03-28 10:42:19,407 - INFO - performing random action
+2025-03-28 10:42:27,077 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/blacklisted-on-spamhaus.1682658/
+2025-03-28 10:42:27,079 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/blacklisted-on-spamhaus.1682658/' to visited threads file 'Thread_links.txt'.
+2025-03-28 10:42:27,105 - INFO - Extracted thread title: Blacklisted on SpamHaus
+2025-03-28 10:42:27,106 - DEBUG - Scrolling page 4 times.
+2025-03-28 10:42:27,106 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:42:28,869 - DEBUG - Page scrolled.
+2025-03-28 10:42:30,871 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:42:32,804 - DEBUG - Page scrolled.
+2025-03-28 10:42:34,806 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:42:36,146 - DEBUG - Page scrolled.
+2025-03-28 10:42:38,149 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:42:40,046 - DEBUG - Page scrolled.
+2025-03-28 10:42:42,049 - DEBUG - Random scrolls complete.
+2025-03-28 10:42:44,218 - DEBUG - Scrolling page 4 times.
+2025-03-28 10:42:44,225 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:42:45,542 - DEBUG - Page scrolled.
+2025-03-28 10:42:48,543 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:42:50,017 - DEBUG - Page scrolled.
+2025-03-28 10:42:53,019 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:42:54,900 - DEBUG - Page scrolled.
+2025-03-28 10:42:57,903 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:42:59,534 - DEBUG - Page scrolled.
+2025-03-28 10:43:02,537 - DEBUG - Random scrolls complete.
+2025-03-28 10:43:02,576 - DEBUG - Found 6 like buttons.
+2025-03-28 10:43:05,577 - INFO - Attempting to like 2 posts. There are 6 available.
+2025-03-28 10:43:06,538 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-28 10:43:06,561 - INFO - Like button clicked successfully using JavaScript.
+2025-03-28 10:43:06,562 - DEBUG - Liked post number 1 of 2.
+2025-03-28 10:43:11,991 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-28 10:43:12,013 - INFO - Like button clicked successfully using JavaScript.
+2025-03-28 10:43:12,015 - DEBUG - Liked post number 2 of 2.
+2025-03-28 10:43:16,067 - INFO - Liked 2 posts successfully.
+2025-03-28 10:43:16,068 - INFO - Liked 2 posts successfully.
+2025-03-28 10:43:18,975 - INFO - performing random action
+2025-03-28 10:43:18,978 - DEBUG - Scrolling page 7 times.
+2025-03-28 10:43:18,980 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:43:20,272 - DEBUG - Page scrolled.
+2025-03-28 10:43:23,275 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:43:24,549 - DEBUG - Page scrolled.
+2025-03-28 10:43:27,551 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:43:29,260 - DEBUG - Page scrolled.
+2025-03-28 10:43:32,263 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:43:34,239 - DEBUG - Page scrolled.
+2025-03-28 10:43:37,241 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:43:38,873 - DEBUG - Page scrolled.
+2025-03-28 10:43:41,875 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:43:43,765 - DEBUG - Page scrolled.
+2025-03-28 10:43:46,767 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:43:47,871 - DEBUG - Page scrolled.
+2025-03-28 10:43:50,874 - DEBUG - Random scrolls complete.
+2025-03-28 10:43:53,466 - DEBUG - Total comments in the thread: 6
+2025-03-28 10:44:34,900 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Blacklisted on SpamHaus.txt
+2025-03-28 10:44:37,121 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-28 10:44:37,146 - DEBUG - Extracted main post content: Hello everyone,
+
+I hope to post in the right thread.
+
+I recently changed hosting and transfer the domain from siteground to ultrahost (a month ago). Now I just find out that my domain is DBL listing (also outgoing email are not working) and the IP is CSS Blocklist.
+
+The website is 5 years old and is keep on growing.
+
+Is there a way to find out if the IP they gave me was already in the blacklist?
+
+Any suggestion on how to get out from the blacklist? Cause spamhaus is keep replying to the ticket with the same message:
+
+Thank you for contacting Spamhaus DBL Removals,The DBL listing for ***. com is not eligible for removal at this time. We do not reveal specific factors for inclusion in the DBL as it includes many criteria.The factors which affect this domain's reputation may also change over time, so by engaging in good reputation practices it will drop out of the DBL.For more information, please see the following FAQs:https://www.spamhaus.org/faq/section/Spamhaus DBL#371For help with good reputation practices for marketing email, this FAQcan be helpful: https://www.spamhaus.org/faq/section/Marketing FAQsDBL listings expire a few days after last detection. You can always open a ticket (or update this one) to inform us when the situation has been resolved.
+
+How can I know what to fix? Is there anyone that found yourself in the same situation and got out of it?
+
+Thanks a lot as always,
+Andrea
+2025-03-28 10:44:42,249 - INFO - Successfully generated comments using Gemini API.
+2025-03-28 10:44:42,253 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-28 10:44:45,057 - INFO - Profile PhantomRoot: Pausing for 39.13 seconds...
+2025-03-28 10:45:24,187 - INFO - Profile PhantomRoot: Resuming...
+2025-03-28 10:45:24,190 - INFO - performing random action
+2025-03-28 10:45:24,192 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 10:45:24,194 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 10:45:24,229 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 10:45:24,272 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 10:45:24,278 - DEBUG - Text box scrolled into view
+2025-03-28 10:45:24,883 - DEBUG - Initializing actionchains
+2025-03-28 10:45:24,902 - DEBUG - Post reply Element location: {'x': 1231, 'y': 2973}, size: {'height': 21, 'width': 68}
+2025-03-28 10:45:24,903 - DEBUG - Target click coordinates: (1265, 2983)
+2025-03-28 10:45:34,526 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-28 10:45:34,528 - DEBUG - Moving mouse to text box element.
+2025-03-28 10:45:34,530 - DEBUG - Clicking on the text box.
+2025-03-28 10:45:34,533 - DEBUG - Sending keys with content: Ouch, that sucks! I'd check your domain's reputation with tools like VirusTotal and Google's Safe Browsing to get a broader picture, might give you a clue what Spamhaus is seeing.
+
+2025-03-28 10:45:40,319 - DEBUG - Clicking on post reply button.
+2025-03-28 10:45:41,589 - DEBUG - Performed Actionchains
+2025-03-28 10:45:41,590 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-28 10:45:45,591 - INFO - Comment posted successfully.
+2025-03-28 10:45:45,593 - INFO - Task Completed!!
+2025-03-28 10:45:48,081 - INFO - Navigated back to the homepage.
+2025-03-28 10:45:50,336 - INFO - Attempting to clear memory and resources.
+2025-03-28 10:45:50,395 - INFO - Garbage collection completed.
+2025-03-28 10:45:50,396 - INFO - Waiting for 1000 seconds before next execution.

@@ -1,0 +1,98 @@
+2025-03-28 10:03:50,195 - INFO - Current time: 1743136430.1955948
+2025-03-28 10:03:50,196 - INFO - Token expiration time: 1743147225.212598
+2025-03-28 10:03:50,196 - INFO - Token expiration time: 1743147225.212598
+2025-03-28 10:03:50,197 - INFO - Profile BinaryGhost: Restoring window...
+2025-03-28 10:03:52,199 - INFO - performing random action
+2025-03-28 10:03:52,202 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-28 10:03:52,205 - DEBUG - Scrolling page 4 times.
+2025-03-28 10:03:52,206 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:03:56,091 - DEBUG - Page scrolled.
+2025-03-28 10:03:58,093 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:03:59,943 - DEBUG - Page scrolled.
+2025-03-28 10:04:01,944 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:04:03,319 - DEBUG - Page scrolled.
+2025-03-28 10:04:05,321 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:04:06,591 - DEBUG - Page scrolled.
+2025-03-28 10:04:08,594 - DEBUG - Random scrolls complete.
+2025-03-28 10:04:08,596 - DEBUG - Scrolling page 2 times.
+2025-03-28 10:04:08,598 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:04:10,026 - DEBUG - Page scrolled.
+2025-03-28 10:04:12,029 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:04:13,622 - DEBUG - Page scrolled.
+2025-03-28 10:04:15,624 - DEBUG - Random scrolls complete.
+2025-03-28 10:04:21,819 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/reddit.301/
+2025-03-28 10:04:25,802 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/how-much-would-you-pay-for-a-reddit-account-thats-just-a-few-days-old-has-1000-post-karma-and-100-comment-karma.1699590/unread
+2025-03-28 10:04:25,803 - INFO - Profile BinaryGhost: Minimizing window...
+2025-03-28 10:04:25,804 - INFO - Profile BinaryGhost: Window minimized. Pausing for 22.72 seconds...
+2025-03-28 10:04:48,524 - INFO - Profile BinaryGhost: Resuming after minimize...
+2025-03-28 10:04:48,527 - INFO - performing random action
+2025-03-28 10:04:58,559 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/how-much-would-you-pay-for-a-reddit-account-thats-just-a-few-days-old-has-1000-post-karma-and-100-comment-karma.1699590/unread
+2025-03-28 10:04:58,561 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/how-much-would-you-pay-for-a-reddit-account-thats-just-a-few-days-old-has-1000-post-karma-and-100-comment-karma.1699590/unread' to visited threads file 'Thread_links.txt'.
+2025-03-28 10:04:58,587 - INFO - Extracted thread title: How much would you pay for a Reddit account that’s just a few days old, has 1000+ post karma, and 100+ comment karma
+2025-03-28 10:04:58,588 - DEBUG - Scrolling page 3 times.
+2025-03-28 10:04:58,588 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:05:00,209 - DEBUG - Page scrolled.
+2025-03-28 10:05:02,211 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:05:04,082 - DEBUG - Page scrolled.
+2025-03-28 10:05:06,084 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:05:07,139 - DEBUG - Page scrolled.
+2025-03-28 10:05:09,141 - DEBUG - Random scrolls complete.
+2025-03-28 10:05:11,843 - DEBUG - Scrolling page 1 times.
+2025-03-28 10:05:11,843 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:05:13,609 - DEBUG - Page scrolled.
+2025-03-28 10:05:16,611 - DEBUG - Random scrolls complete.
+2025-03-28 10:05:16,624 - DEBUG - Found 10 like buttons.
+2025-03-28 10:05:19,625 - INFO - Attempting to like 3 posts. There are 10 available.
+2025-03-28 10:05:20,486 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-28 10:05:20,519 - INFO - Like button clicked successfully using JavaScript.
+2025-03-28 10:05:20,520 - DEBUG - Liked post number 1 of 3.
+2025-03-28 10:05:26,443 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-28 10:05:26,464 - INFO - Like button clicked successfully using JavaScript.
+2025-03-28 10:05:26,466 - DEBUG - Liked post number 2 of 3.
+2025-03-28 10:05:31,783 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-28 10:05:31,804 - INFO - Like button clicked successfully using JavaScript.
+2025-03-28 10:05:31,806 - DEBUG - Liked post number 3 of 3.
+2025-03-28 10:05:35,903 - INFO - Liked 3 posts successfully.
+2025-03-28 10:05:35,906 - INFO - Liked 3 posts successfully.
+2025-03-28 10:05:38,758 - INFO - performing random action
+2025-03-28 10:05:38,761 - DEBUG - Scrolling page 5 times.
+2025-03-28 10:05:38,763 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:05:40,067 - DEBUG - Page scrolled.
+2025-03-28 10:05:43,071 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:05:44,557 - DEBUG - Page scrolled.
+2025-03-28 10:05:47,558 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:05:49,065 - DEBUG - Page scrolled.
+2025-03-28 10:05:52,067 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:05:53,343 - DEBUG - Page scrolled.
+2025-03-28 10:05:56,345 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:05:57,960 - DEBUG - Page scrolled.
+2025-03-28 10:06:00,963 - DEBUG - Random scrolls complete.
+2025-03-28 10:06:03,847 - DEBUG - Total comments in the thread: 10
+2025-03-28 10:07:05,680 - INFO - Post content extracted and saved to Thread-Details/Thread Content\How much would you pay for a Reddit account that’s just a few days old, has 1000+ post karma, and 100+ comment karma.txt
+2025-03-28 10:07:08,038 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-28 10:07:08,072 - DEBUG - Extracted main post content: I hired someone to do this for me, and they mostly just post memes and motivational quotes for the post karma while answering questions on r/AskReddit, r/RandomThoughts, r/Advice, r/NoStupidQuestions, r/CasualConversation, etc.
+2025-03-28 10:07:12,838 - INFO - Successfully generated comments using Gemini API.
+2025-03-28 10:07:12,841 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-28 10:07:15,584 - INFO - performing random action
+2025-03-28 10:07:15,585 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 10:07:15,586 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 10:07:15,598 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 10:07:15,637 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 10:07:15,643 - DEBUG - Text box scrolled into view
+2025-03-28 10:07:16,333 - DEBUG - Initializing actionchains
+2025-03-28 10:07:16,404 - DEBUG - Post reply Element location: {'x': 1231, 'y': 3611}, size: {'height': 21, 'width': 68}
+2025-03-28 10:07:16,406 - DEBUG - Target click coordinates: (1265, 3621)
+2025-03-28 10:07:27,512 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-28 10:07:27,514 - DEBUG - Moving mouse to text box element.
+2025-03-28 10:07:27,525 - DEBUG - Clicking on the text box.
+2025-03-28 10:07:27,528 - DEBUG - Sending keys with content: Sounds like you hired a professional time-waster; what specific results were you expecting, and did you make that crystal clear upfront?
+
+2025-03-28 10:07:33,040 - DEBUG - Clicking on post reply button.
+2025-03-28 10:07:43,990 - DEBUG - Performed Actionchains
+2025-03-28 10:07:43,991 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-28 10:07:47,992 - INFO - Comment posted successfully.
+2025-03-28 10:07:47,995 - INFO - Task Completed!!
+2025-03-28 10:07:58,523 - INFO - Navigated back to the homepage.
+2025-03-28 10:08:00,874 - INFO - Attempting to clear memory and resources.
+2025-03-28 10:08:00,899 - INFO - Garbage collection completed.
+2025-03-28 10:08:00,900 - INFO - Waiting for 1000 seconds before next execution.

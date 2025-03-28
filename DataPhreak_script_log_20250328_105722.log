@@ -1,0 +1,101 @@
+2025-03-28 10:57:22,133 - INFO - Current time: 1743139642.1332188
+2025-03-28 10:57:22,136 - INFO - Token expiration time: 1743146707.8133519
+2025-03-28 10:57:22,138 - INFO - Token expiration time: 1743146707.8133519
+2025-03-28 10:57:22,155 - INFO - Profile DataPhreak: Opening random website: https://www.teejh.com/
+2025-03-28 10:58:08,206 - INFO - Profile DataPhreak: Pausing for 48.71 seconds...
+2025-03-28 10:58:56,921 - INFO - Profile DataPhreak: Resuming...
+2025-03-28 10:58:56,944 - INFO - Profile DataPhreak: Switched back to original tab.
+2025-03-28 10:58:56,945 - INFO - performing random action
+2025-03-28 10:58:56,946 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-28 10:58:56,947 - DEBUG - Scrolling page 2 times.
+2025-03-28 10:58:56,953 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:58:58,201 - DEBUG - Page scrolled.
+2025-03-28 10:59:00,204 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:59:01,329 - DEBUG - Page scrolled.
+2025-03-28 10:59:03,332 - DEBUG - Random scrolls complete.
+2025-03-28 10:59:03,333 - DEBUG - Scrolling page 3 times.
+2025-03-28 10:59:03,333 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:59:05,333 - DEBUG - Page scrolled.
+2025-03-28 10:59:07,335 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:59:09,353 - DEBUG - Page scrolled.
+2025-03-28 10:59:11,356 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:59:12,601 - DEBUG - Page scrolled.
+2025-03-28 10:59:14,602 - DEBUG - Random scrolls complete.
+2025-03-28 10:59:20,710 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/proxies.101/
+2025-03-28 10:59:24,499 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/why-instead-of-buying-proxies-for-views-just-buy-the-service-of-marketing-providers-provide-with-their-automated-software-managar-accounts.1699232/unread
+2025-03-28 10:59:24,500 - INFO - performing random action
+2025-03-28 10:59:34,726 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/why-instead-of-buying-proxies-for-views-just-buy-the-service-of-marketing-providers-provide-with-their-automated-software-managar-accounts.1699232/unread
+2025-03-28 10:59:34,727 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/why-instead-of-buying-proxies-for-views-just-buy-the-service-of-marketing-providers-provide-with-their-automated-software-managar-accounts.1699232/unread' to visited threads file 'Thread_links.txt'.
+2025-03-28 10:59:34,753 - INFO - Extracted thread title: www.blackhatworld.com
+2025-03-28 10:59:34,755 - DEBUG - Scrolling page 4 times.
+2025-03-28 10:59:34,755 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:59:35,765 - DEBUG - Page scrolled.
+2025-03-28 10:59:37,766 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:59:39,381 - DEBUG - Page scrolled.
+2025-03-28 10:59:41,383 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:59:42,896 - DEBUG - Page scrolled.
+2025-03-28 10:59:44,898 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:59:46,099 - DEBUG - Page scrolled.
+2025-03-28 10:59:48,101 - DEBUG - Random scrolls complete.
+2025-03-28 10:59:50,823 - DEBUG - Scrolling page 3 times.
+2025-03-28 10:59:50,824 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:59:52,232 - DEBUG - Page scrolled.
+2025-03-28 10:59:55,234 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:59:56,707 - DEBUG - Page scrolled.
+2025-03-28 10:59:59,710 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:00:00,948 - DEBUG - Page scrolled.
+2025-03-28 11:00:03,950 - DEBUG - Random scrolls complete.
+2025-03-28 11:00:03,965 - DEBUG - Found 4 like buttons.
+2025-03-28 11:00:06,966 - INFO - Attempting to like 1 posts. There are 4 available.
+2025-03-28 11:00:07,756 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-28 11:00:07,783 - INFO - Like button clicked successfully using JavaScript.
+2025-03-28 11:00:07,784 - DEBUG - Liked post number 1 of 1.
+2025-03-28 11:00:12,513 - INFO - Liked 1 posts successfully.
+2025-03-28 11:00:12,516 - INFO - Liked 1 posts successfully.
+2025-03-28 11:00:14,812 - INFO - performing random action
+2025-03-28 11:00:14,815 - DEBUG - Scrolling page 7 times.
+2025-03-28 11:00:14,817 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:00:16,391 - DEBUG - Page scrolled.
+2025-03-28 11:00:19,393 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:00:20,564 - DEBUG - Page scrolled.
+2025-03-28 11:00:23,567 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:00:25,153 - DEBUG - Page scrolled.
+2025-03-28 11:00:28,155 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:00:29,906 - DEBUG - Page scrolled.
+2025-03-28 11:00:32,909 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:00:34,534 - DEBUG - Page scrolled.
+2025-03-28 11:00:37,537 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:00:39,012 - DEBUG - Page scrolled.
+2025-03-28 11:00:42,014 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:00:43,364 - DEBUG - Page scrolled.
+2025-03-28 11:00:46,365 - DEBUG - Random scrolls complete.
+2025-03-28 11:00:48,515 - DEBUG - Total comments in the thread: 4
+2025-03-28 11:01:09,847 - INFO - Post content extracted and saved to Thread-Details/Thread Content\www.blackhatworld.com.txt
+2025-03-28 11:01:11,976 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-28 11:01:12,027 - DEBUG - Extracted main post content: Why instead of buying proxies for views just buy the service of Marketing providers provide with their automated software managar accounts.
+Why or the majority arent using premium or cheap proxies, or arent trusted...
+2025-03-28 11:01:17,034 - INFO - Successfully generated comments using Gemini API.
+2025-03-28 11:01:17,037 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-28 11:01:19,292 - INFO - performing random action
+2025-03-28 11:01:19,294 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 11:01:19,296 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 11:01:19,336 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 11:01:19,382 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 11:01:19,388 - DEBUG - Text box scrolled into view
+2025-03-28 11:01:19,893 - DEBUG - Initializing actionchains
+2025-03-28 11:01:19,938 - DEBUG - Post reply Element location: {'x': 1231, 'y': 2309}, size: {'height': 21, 'width': 68}
+2025-03-28 11:01:19,939 - DEBUG - Target click coordinates: (1265, 2319)
+2025-03-28 11:01:28,286 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-28 11:01:28,289 - DEBUG - Moving mouse to text box element.
+2025-03-28 11:01:28,291 - DEBUG - Clicking on the text box.
+2025-03-28 11:01:28,294 - DEBUG - Sending keys with content: Good point; makes you wonder if some folks just like the *idea* of controlling everything themselves, even if it's less efficient.
+
+2025-03-28 11:01:33,595 - DEBUG - Clicking on post reply button.
+2025-03-28 11:01:34,782 - DEBUG - Performed Actionchains
+2025-03-28 11:01:34,783 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-28 11:01:38,784 - INFO - Comment posted successfully.
+2025-03-28 11:01:38,786 - INFO - Task Completed!!
+2025-03-28 11:01:41,948 - INFO - Navigated back to the homepage.
+2025-03-28 11:01:44,123 - INFO - Attempting to clear memory and resources.
+2025-03-28 11:01:44,166 - INFO - Garbage collection completed.
+2025-03-28 11:01:44,167 - INFO - Waiting for 1000 seconds before next execution.

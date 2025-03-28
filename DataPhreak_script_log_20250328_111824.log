@@ -1,0 +1,115 @@
+2025-03-28 11:18:24,169 - INFO - Current time: 1743140904.169898
+2025-03-28 11:18:24,172 - INFO - Token expiration time: 1743146707.8133519
+2025-03-28 11:18:24,175 - INFO - Token expiration time: 1743146707.8133519
+2025-03-28 11:18:24,177 - INFO - performing random action
+2025-03-28 11:18:24,180 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-28 11:18:24,181 - DEBUG - Scrolling page 2 times.
+2025-03-28 11:18:24,182 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:18:25,445 - DEBUG - Page scrolled.
+2025-03-28 11:18:27,447 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:18:28,935 - DEBUG - Page scrolled.
+2025-03-28 11:18:30,936 - DEBUG - Random scrolls complete.
+2025-03-28 11:18:30,937 - DEBUG - Scrolling page 2 times.
+2025-03-28 11:18:30,938 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:18:32,295 - DEBUG - Page scrolled.
+2025-03-28 11:18:34,297 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:18:36,001 - DEBUG - Page scrolled.
+2025-03-28 11:18:38,003 - DEBUG - Random scrolls complete.
+2025-03-28 11:18:45,474 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/youtube.77/
+2025-03-28 11:18:49,645 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/can-i-use-social-traffic-for-my-youtube-channel.1698810/unread
+2025-03-28 11:18:49,646 - INFO - Profile DataPhreak: Opening random website: https://letshyphen.com/
+2025-03-28 11:19:21,763 - INFO - Profile DataPhreak: Pausing for 33.37 seconds...
+2025-03-28 11:19:55,134 - INFO - Profile DataPhreak: Resuming...
+2025-03-28 11:19:55,162 - INFO - Profile DataPhreak: Switched back to original tab.
+2025-03-28 11:19:55,163 - INFO - performing random action
+2025-03-28 11:20:04,787 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/can-i-use-social-traffic-for-my-youtube-channel.1698810/unread
+2025-03-28 11:20:04,791 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/can-i-use-social-traffic-for-my-youtube-channel.1698810/unread' to visited threads file 'Thread_links.txt'.
+2025-03-28 11:20:04,845 - INFO - Extracted thread title: Can I use social traffic for my YouTube channel
+2025-03-28 11:20:04,846 - DEBUG - Scrolling page 3 times.
+2025-03-28 11:20:04,847 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:20:06,390 - DEBUG - Page scrolled.
+2025-03-28 11:20:08,392 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:20:10,212 - DEBUG - Page scrolled.
+2025-03-28 11:20:12,214 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:20:14,077 - DEBUG - Page scrolled.
+2025-03-28 11:20:16,079 - DEBUG - Random scrolls complete.
+2025-03-28 11:20:19,068 - DEBUG - Scrolling page 3 times.
+2025-03-28 11:20:19,070 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:20:20,321 - DEBUG - Page scrolled.
+2025-03-28 11:20:23,323 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:20:24,765 - DEBUG - Page scrolled.
+2025-03-28 11:20:27,768 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:20:29,534 - DEBUG - Page scrolled.
+2025-03-28 11:20:32,537 - DEBUG - Random scrolls complete.
+2025-03-28 11:20:32,567 - DEBUG - Found 13 like buttons.
+2025-03-28 11:20:35,569 - INFO - Attempting to like 3 posts. There are 13 available.
+2025-03-28 11:20:36,575 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-28 11:20:36,603 - INFO - Like button clicked successfully using JavaScript.
+2025-03-28 11:20:36,604 - DEBUG - Liked post number 1 of 3.
+2025-03-28 11:20:42,432 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-28 11:20:42,452 - INFO - Like button clicked successfully using JavaScript.
+2025-03-28 11:20:42,454 - DEBUG - Liked post number 2 of 3.
+2025-03-28 11:20:48,284 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-28 11:20:48,304 - INFO - Like button clicked successfully using JavaScript.
+2025-03-28 11:20:48,306 - DEBUG - Liked post number 3 of 3.
+2025-03-28 11:20:53,114 - INFO - Liked 3 posts successfully.
+2025-03-28 11:20:53,117 - INFO - Liked 3 posts successfully.
+2025-03-28 11:20:55,577 - INFO - Profile DataPhreak: Pausing for 36.87 seconds...
+2025-03-28 11:21:32,453 - INFO - Profile DataPhreak: Resuming...
+2025-03-28 11:21:32,456 - INFO - performing random action
+2025-03-28 11:21:32,458 - DEBUG - Scrolling page 5 times.
+2025-03-28 11:21:32,460 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:21:34,008 - DEBUG - Page scrolled.
+2025-03-28 11:21:37,011 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:21:38,082 - DEBUG - Page scrolled.
+2025-03-28 11:21:41,084 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:21:42,106 - DEBUG - Page scrolled.
+2025-03-28 11:21:45,109 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:21:46,686 - DEBUG - Page scrolled.
+2025-03-28 11:21:49,688 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:21:51,548 - DEBUG - Page scrolled.
+2025-03-28 11:21:54,551 - DEBUG - Random scrolls complete.
+2025-03-28 11:21:56,996 - DEBUG - Total comments in the thread: 13
+2025-03-28 11:22:48,946 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Can I use social traffic for my YouTube channel.txt
+2025-03-28 11:22:51,572 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-28 11:22:51,600 - DEBUG - Extracted main post content: Getting organic traffic seems difficult for me, can I use just social traffic for my monetized YouTube channel and not have to worry about anything?
+2025-03-28 11:22:55,232 - INFO - Successfully generated comments using Gemini API.
+2025-03-28 11:22:55,236 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-28 11:22:57,549 - INFO - Profile DataPhreak: Pausing for 38.41 seconds...
+2025-03-28 11:23:35,961 - INFO - Profile DataPhreak: Resuming...
+2025-03-28 11:23:35,965 - INFO - performing random action
+2025-03-28 11:23:35,967 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 11:23:35,969 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 11:23:36,004 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 11:23:36,046 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 11:23:36,053 - DEBUG - Text box scrolled into view
+2025-03-28 11:23:36,685 - DEBUG - Initializing actionchains
+2025-03-28 11:23:36,706 - DEBUG - Post reply Element location: {'x': 1231, 'y': 4482}, size: {'height': 21, 'width': 68}
+2025-03-28 11:23:36,706 - DEBUG - Target click coordinates: (1265, 4492)
+2025-03-28 11:23:50,482 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-28 11:23:50,484 - DEBUG - Moving mouse to text box element.
+2025-03-28 11:23:50,486 - DEBUG - Clicking on the text box.
+2025-03-28 11:23:50,490 - DEBUG - Sending keys with content: Social traffic alone might work short-term, but what happens when the algorithm changes or your followers lose interest? Diversifying your traffic sources is always a safer bet, what type of content do you make?
+
+2025-03-28 11:23:56,471 - DEBUG - Clicking on post reply button.
+2025-03-28 11:24:07,638 - DEBUG - Performed Actionchains
+2025-03-28 11:24:07,639 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-28 11:24:11,641 - INFO - Comment posted successfully.
+2025-03-28 11:24:11,643 - INFO - Task Completed!!
+2025-03-28 11:24:16,950 - INFO - Navigated back to the homepage.
+2025-03-28 11:24:19,294 - INFO - Attempting to clear memory and resources.
+2025-03-28 11:24:19,323 - INFO - Garbage collection completed.
+2025-03-28 11:24:19,324 - INFO - Waiting for 1000 seconds before next execution.
+2025-03-28 11:40:59,325 - INFO - Automation has reached the time limit. Stopping execution.
+2025-03-28 11:40:59,328 - INFO - Stopping browser for profile: DataPhreak...
+2025-03-28 11:40:59,330 - INFO - Refreshing token before stopping profile...
+2025-03-28 11:40:59,334 - INFO - Refreshing token for DataPhreak...
+2025-03-28 11:41:00,542 - INFO - Received expires_in from MultiLogin: 10800
+2025-03-28 11:41:00,545 - INFO - Calculated token expiration time: 1743153060.5452287
+2025-03-28 11:41:00,547 - INFO - Profile DataPhreak: Successfully logged in.
+2025-03-28 11:41:00,550 - INFO - Token refreshed successfully before stopping.
+2025-03-28 11:41:00,552 - INFO - Profile DataPhreak: Attempting to stop (Attempt 1/3)...
+2025-03-28 11:41:00,556 - INFO - Profile DataPhreak: Browser closed successfully in 0.00 seconds.
+2025-03-28 11:41:04,407 - INFO - Profile DataPhreak: API call took 3.85 seconds.
+2025-03-28 11:41:04,410 - INFO - Profile DataPhreak: Stopped successfully.
+2025-03-28 11:41:04,413 - INFO - Browser stopped successfully for profile: DataPhreak.

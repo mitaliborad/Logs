@@ -1,0 +1,119 @@
+2025-03-28 10:05:15,842 - INFO - Current time: 1743136515.8425248
+2025-03-28 10:05:15,843 - INFO - Token expiration time: 1743147310.866111
+2025-03-28 10:05:15,843 - INFO - Token expiration time: 1743147310.866111
+2025-03-28 10:05:15,844 - INFO - performing random action
+2025-03-28 10:05:15,844 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-28 10:05:15,845 - DEBUG - Scrolling page 3 times.
+2025-03-28 10:05:15,845 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:05:20,210 - DEBUG - Page scrolled.
+2025-03-28 10:05:22,213 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:05:23,853 - DEBUG - Page scrolled.
+2025-03-28 10:05:25,855 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:05:27,228 - DEBUG - Page scrolled.
+2025-03-28 10:05:29,230 - DEBUG - Random scrolls complete.
+2025-03-28 10:05:29,232 - DEBUG - Scrolling page 3 times.
+2025-03-28 10:05:29,233 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:05:31,228 - DEBUG - Page scrolled.
+2025-03-28 10:05:33,230 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:05:34,535 - DEBUG - Page scrolled.
+2025-03-28 10:05:36,537 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:05:37,922 - DEBUG - Page scrolled.
+2025-03-28 10:05:39,925 - DEBUG - Random scrolls complete.
+2025-03-28 10:05:43,581 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/graphic-design.169/
+2025-03-28 10:05:47,146 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/list-of-all-ai-image-generators.1475321/unread
+2025-03-28 10:05:47,147 - INFO - Profile NullBytee: Opening random website: https://www.netflix.com/in/
+2025-03-28 10:05:53,563 - INFO - Profile NullBytee: Pausing for 48.58 seconds...
+2025-03-28 10:06:42,145 - INFO - Profile NullBytee: Resuming...
+2025-03-28 10:06:42,157 - INFO - Profile NullBytee: Switched back to original tab.
+2025-03-28 10:06:42,159 - INFO - performing random action
+2025-03-28 10:06:52,362 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/list-of-all-ai-image-generators.1475321/unread
+2025-03-28 10:06:52,365 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/list-of-all-ai-image-generators.1475321/unread' to visited threads file 'Thread_links.txt'.
+2025-03-28 10:06:52,429 - INFO - Extracted thread title: List of All Ai Image generators
+2025-03-28 10:06:52,430 - DEBUG - Scrolling page 2 times.
+2025-03-28 10:06:52,430 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:06:54,191 - DEBUG - Page scrolled.
+2025-03-28 10:06:56,193 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:06:57,617 - DEBUG - Page scrolled.
+2025-03-28 10:06:59,620 - DEBUG - Random scrolls complete.
+2025-03-28 10:07:02,333 - DEBUG - Scrolling page 4 times.
+2025-03-28 10:07:02,335 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:07:04,089 - DEBUG - Page scrolled.
+2025-03-28 10:07:07,090 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:07:08,422 - DEBUG - Page scrolled.
+2025-03-28 10:07:11,424 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:07:12,555 - DEBUG - Page scrolled.
+2025-03-28 10:07:15,558 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:07:16,788 - DEBUG - Page scrolled.
+2025-03-28 10:07:19,790 - DEBUG - Random scrolls complete.
+2025-03-28 10:07:19,812 - DEBUG - Found 20 like buttons.
+2025-03-28 10:07:22,813 - INFO - Attempting to like 1 posts. There are 20 available.
+2025-03-28 10:07:23,672 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-28 10:07:23,686 - INFO - Like button clicked successfully using JavaScript.
+2025-03-28 10:07:23,687 - DEBUG - Liked post number 1 of 1.
+2025-03-28 10:07:27,742 - INFO - Liked 1 posts successfully.
+2025-03-28 10:07:27,744 - INFO - Liked 1 posts successfully.
+2025-03-28 10:07:30,516 - INFO - performing random action
+2025-03-28 10:07:30,519 - DEBUG - Scrolling page 4 times.
+2025-03-28 10:07:30,521 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:07:32,407 - DEBUG - Page scrolled.
+2025-03-28 10:07:35,409 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:07:36,507 - DEBUG - Page scrolled.
+2025-03-28 10:07:39,509 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:07:41,014 - DEBUG - Page scrolled.
+2025-03-28 10:07:44,016 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:07:45,381 - DEBUG - Page scrolled.
+2025-03-28 10:07:48,383 - DEBUG - Random scrolls complete.
+2025-03-28 10:07:51,083 - DEBUG - Total comments in the thread: 20
+2025-03-28 10:09:15,752 - INFO - Post content extracted and saved to Thread-Details/Thread Content\List of All Ai Image generators.txt
+2025-03-28 10:09:17,888 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-28 10:09:17,944 - DEBUG - Extracted main post content: This a list of all Ai image generators that I found
+
+https://openai.com/dall-e-2/
+https://hotpot.ai/art-generator
+https://www.fotor.com/features/ai-image-generator/
+https://deepai.org/machine-learning-model/text2img
+https://www.craiyon.com/
+https://creator.nightcafe.studio/
+https://aiseo.ai/products/ai-image-generator.html
+https://picsart.com/ai-image-generator
+https://beta.dreamstudio.ai/dream
+https://www.midjourney.com/home/
+https://effecthouse.tiktok.com/learn/general/best-practices/generative-ai-tiktok-effect-creation/
+https://www.jasper.ai/art
+https://starryai.com/
+https://dreambooth.github.io/
+https://deepdreamgenerator.com/
+https://www.artbreeder.com/
+https://github.com/phillipi/pix2pix
+https://dream.ai/
+https://photosonic.writesonic.com/
+https://runwayml.com/
+https://www.canva.com/your-apps/text-to-image
+
+
+I will keep this thread updated
+2025-03-28 10:09:22,992 - INFO - Successfully generated comments using Gemini API.
+2025-03-28 10:09:22,995 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-28 10:09:25,545 - INFO - performing random action
+2025-03-28 10:09:25,548 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 10:09:25,550 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 10:09:25,572 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 10:09:25,609 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 10:09:25,615 - DEBUG - Text box scrolled into view
+2025-03-28 10:09:26,481 - DEBUG - Initializing actionchains
+2025-03-28 10:09:26,501 - DEBUG - Post reply Element location: {'x': 1231, 'y': 7917}, size: {'height': 21, 'width': 68}
+2025-03-28 10:09:26,502 - DEBUG - Target click coordinates: (1265, 7927)
+2025-03-28 10:09:46,489 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-28 10:09:46,491 - DEBUG - Moving mouse to text box element.
+2025-03-28 10:09:46,492 - DEBUG - Clicking on the text box.
+2025-03-28 10:09:46,494 - DEBUG - Sending keys with content: Nice list. Have you tried comparing the free-tier limitations or style consistencies across them?
+
+2025-03-28 10:09:51,781 - DEBUG - Clicking on post reply button.
+2025-03-28 10:10:02,695 - DEBUG - Performed Actionchains
+2025-03-28 10:10:02,696 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-28 10:10:06,697 - INFO - Comment posted successfully.
+2025-03-28 10:10:06,698 - INFO - Task Completed!!
+2025-03-28 10:10:13,695 - INFO - Navigated back to the homepage.
+2025-03-28 10:10:16,292 - INFO - Attempting to clear memory and resources.
+2025-03-28 10:10:16,320 - INFO - Garbage collection completed.
+2025-03-28 10:10:16,321 - INFO - Waiting for 1000 seconds before next execution.

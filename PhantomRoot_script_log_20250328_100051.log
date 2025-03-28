@@ -1,0 +1,94 @@
+2025-03-28 10:00:51,198 - INFO - Current time: 1743136251.1983721
+2025-03-28 10:00:51,199 - INFO - Token expiration time: 1743147045.3954916
+2025-03-28 10:00:51,201 - INFO - Token expiration time: 1743147045.3954916
+2025-03-28 10:00:51,202 - INFO - performing random action
+2025-03-28 10:00:51,203 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-28 10:00:51,204 - DEBUG - Scrolling page 2 times.
+2025-03-28 10:00:51,204 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:00:55,553 - DEBUG - Page scrolled.
+2025-03-28 10:00:57,555 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:00:58,739 - DEBUG - Page scrolled.
+2025-03-28 10:01:00,741 - DEBUG - Random scrolls complete.
+2025-03-28 10:01:00,744 - DEBUG - Scrolling page 2 times.
+2025-03-28 10:01:00,746 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:01:02,096 - DEBUG - Page scrolled.
+2025-03-28 10:01:04,098 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:01:05,884 - DEBUG - Page scrolled.
+2025-03-28 10:01:07,887 - DEBUG - Random scrolls complete.
+2025-03-28 10:01:11,643 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/web-hosting.94/
+2025-03-28 10:01:15,331 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/vmta-sender.1699446/unread
+2025-03-28 10:01:15,332 - INFO - Profile PhantomRoot: Minimizing window...
+2025-03-28 10:01:15,333 - INFO - Profile PhantomRoot: Window minimized. Pausing for 16.92 seconds...
+2025-03-28 10:01:32,252 - INFO - Profile PhantomRoot: Resuming after minimize...
+2025-03-28 10:01:32,255 - INFO - performing random action
+2025-03-28 10:01:40,988 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/vmta-sender.1699446/unread
+2025-03-28 10:01:40,991 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/vmta-sender.1699446/unread' to visited threads file 'Thread_links.txt'.
+2025-03-28 10:01:41,045 - INFO - Extracted thread title: Vmta sender
+2025-03-28 10:01:41,046 - DEBUG - Scrolling page 3 times.
+2025-03-28 10:01:41,046 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:01:42,466 - DEBUG - Page scrolled.
+2025-03-28 10:01:44,469 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:01:45,725 - DEBUG - Page scrolled.
+2025-03-28 10:01:47,728 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:01:49,442 - DEBUG - Page scrolled.
+2025-03-28 10:01:51,445 - DEBUG - Random scrolls complete.
+2025-03-28 10:01:53,813 - DEBUG - Scrolling page 4 times.
+2025-03-28 10:01:53,813 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:01:55,192 - DEBUG - Page scrolled.
+2025-03-28 10:01:58,194 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:01:59,556 - DEBUG - Page scrolled.
+2025-03-28 10:02:02,558 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:02:04,168 - DEBUG - Page scrolled.
+2025-03-28 10:02:07,170 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:02:08,671 - DEBUG - Page scrolled.
+2025-03-28 10:02:11,673 - DEBUG - Random scrolls complete.
+2025-03-28 10:02:11,703 - DEBUG - Found 1 like buttons.
+2025-03-28 10:02:14,704 - INFO - Attempting to like 1 posts. There are 1 available.
+2025-03-28 10:02:15,306 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-28 10:02:15,329 - INFO - Like button clicked successfully using JavaScript.
+2025-03-28 10:02:15,330 - DEBUG - Liked post number 1 of 1.
+2025-03-28 10:02:19,877 - INFO - Liked 1 posts successfully.
+2025-03-28 10:02:19,880 - INFO - Liked 1 posts successfully.
+2025-03-28 10:02:21,949 - INFO - performing random action
+2025-03-28 10:02:21,952 - DEBUG - Scrolling page 3 times.
+2025-03-28 10:02:21,954 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:02:23,124 - DEBUG - Page scrolled.
+2025-03-28 10:02:26,126 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:02:27,624 - DEBUG - Page scrolled.
+2025-03-28 10:02:30,626 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:02:31,850 - DEBUG - Page scrolled.
+2025-03-28 10:02:34,852 - DEBUG - Random scrolls complete.
+2025-03-28 10:02:37,122 - DEBUG - Total comments in the thread: 1
+2025-03-28 10:02:37,217 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Vmta sender.txt
+2025-03-28 10:02:40,095 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-28 10:02:40,133 - DEBUG - Extracted main post content: Pls someone should help me on how I can build vmta sender using a vps server.
+
+Pls help a brother
+2025-03-28 10:02:45,149 - INFO - Successfully generated comments using Gemini API.
+2025-03-28 10:02:45,153 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-28 10:02:47,468 - INFO - Profile PhantomRoot: Minimizing window...
+2025-03-28 10:02:47,470 - INFO - Profile PhantomRoot: Window minimized. Pausing for 19.74 seconds...
+2025-03-28 10:03:07,214 - INFO - Profile PhantomRoot: Resuming after minimize...
+2025-03-28 10:03:07,216 - INFO - performing random action
+2025-03-28 10:03:07,219 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 10:03:07,221 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 10:03:07,244 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 10:03:07,282 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 10:03:07,289 - DEBUG - Text box scrolled into view
+2025-03-28 10:03:07,931 - DEBUG - Initializing actionchains
+2025-03-28 10:03:07,975 - DEBUG - Post reply Element location: {'x': 1231, 'y': 1067}, size: {'height': 21, 'width': 68}
+2025-03-28 10:03:07,975 - DEBUG - Target click coordinates: (1265, 1077)
+2025-03-28 10:03:14,118 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-28 10:03:14,119 - DEBUG - Moving mouse to text box element.
+2025-03-28 10:03:14,120 - DEBUG - Clicking on the text box.
+2025-03-28 10:03:14,122 - DEBUG - Sending keys with content: Honestly, setting up a VMTA isn't for the faint of heart, but you can find some good tutorials on YouTube to get you started. Just be ready to spend some serious time troubleshooting!
+
+2025-03-28 10:03:19,408 - DEBUG - Clicking on post reply button.
+2025-03-28 10:03:30,127 - DEBUG - Performed Actionchains
+2025-03-28 10:03:30,129 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-28 10:03:34,131 - INFO - Comment posted successfully.
+2025-03-28 10:03:34,134 - INFO - Task Completed!!
+2025-03-28 10:03:40,564 - INFO - Navigated back to the homepage.
+2025-03-28 10:03:43,238 - INFO - Attempting to clear memory and resources.
+2025-03-28 10:03:43,266 - INFO - Garbage collection completed.
+2025-03-28 10:03:43,266 - INFO - Waiting for 1000 seconds before next execution.

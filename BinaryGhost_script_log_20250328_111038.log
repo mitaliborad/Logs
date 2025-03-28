@@ -1,0 +1,117 @@
+2025-03-28 11:10:38,807 - INFO - Current time: 1743140438.8074176
+2025-03-28 11:10:38,808 - INFO - Token expiration time: 1743147225.212598
+2025-03-28 11:10:38,809 - INFO - Token expiration time: 1743147225.212598
+2025-03-28 11:10:38,810 - INFO - Profile BinaryGhost: Opening default URL: https://www.google.com
+2025-03-28 11:10:48,376 - INFO - Profile BinaryGhost: Pausing for 48.49 seconds...
+2025-03-28 11:11:36,872 - INFO - Profile BinaryGhost: Resuming...
+2025-03-28 11:11:36,898 - INFO - Profile BinaryGhost: Switched back to original tab.
+2025-03-28 11:11:36,899 - INFO - performing random action
+2025-03-28 11:11:36,900 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-28 11:11:36,901 - DEBUG - Scrolling page 2 times.
+2025-03-28 11:11:36,901 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:11:38,313 - DEBUG - Page scrolled.
+2025-03-28 11:11:40,314 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:11:41,401 - DEBUG - Page scrolled.
+2025-03-28 11:11:43,403 - DEBUG - Random scrolls complete.
+2025-03-28 11:11:43,405 - DEBUG - Scrolling page 4 times.
+2025-03-28 11:11:43,407 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:11:44,481 - DEBUG - Page scrolled.
+2025-03-28 11:11:46,486 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:11:48,500 - DEBUG - Page scrolled.
+2025-03-28 11:11:50,502 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:11:52,273 - DEBUG - Page scrolled.
+2025-03-28 11:11:54,275 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:11:56,116 - DEBUG - Page scrolled.
+2025-03-28 11:11:58,118 - DEBUG - Random scrolls complete.
+2025-03-28 11:12:03,873 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/youtube.77/
+2025-03-28 11:12:07,832 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/how-much-money-youtube-shorts-pays.1699464/unread
+2025-03-28 11:12:07,833 - INFO - performing random action
+2025-03-28 11:12:15,054 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/how-much-money-youtube-shorts-pays.1699464/unread
+2025-03-28 11:12:15,058 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/how-much-money-youtube-shorts-pays.1699464/unread' to visited threads file 'Thread_links.txt'.
+2025-03-28 11:12:15,095 - INFO - Extracted thread title: How Much money YouTube shorts pays
+2025-03-28 11:12:15,096 - DEBUG - Scrolling page 3 times.
+2025-03-28 11:12:15,096 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:12:16,895 - DEBUG - Page scrolled.
+2025-03-28 11:12:18,897 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:12:20,526 - DEBUG - Page scrolled.
+2025-03-28 11:12:22,528 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:12:23,981 - DEBUG - Page scrolled.
+2025-03-28 11:12:25,984 - DEBUG - Random scrolls complete.
+2025-03-28 11:12:28,957 - DEBUG - Scrolling page 4 times.
+2025-03-28 11:12:28,959 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:12:30,508 - DEBUG - Page scrolled.
+2025-03-28 11:12:33,511 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:12:35,504 - DEBUG - Page scrolled.
+2025-03-28 11:12:38,506 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:12:39,802 - DEBUG - Page scrolled.
+2025-03-28 11:12:42,803 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:12:44,629 - DEBUG - Page scrolled.
+2025-03-28 11:12:47,631 - DEBUG - Random scrolls complete.
+2025-03-28 11:12:47,673 - DEBUG - Found 9 like buttons.
+2025-03-28 11:12:50,675 - INFO - Attempting to like 1 posts. There are 9 available.
+2025-03-28 11:12:51,313 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-28 11:12:51,345 - INFO - Like button clicked successfully using JavaScript.
+2025-03-28 11:12:51,346 - DEBUG - Liked post number 1 of 1.
+2025-03-28 11:12:55,569 - INFO - Liked 1 posts successfully.
+2025-03-28 11:12:55,570 - INFO - Liked 1 posts successfully.
+2025-03-28 11:12:58,259 - INFO - performing random action
+2025-03-28 11:12:58,260 - DEBUG - Scrolling page 6 times.
+2025-03-28 11:12:58,261 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:12:59,534 - DEBUG - Page scrolled.
+2025-03-28 11:13:02,536 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:13:03,557 - DEBUG - Page scrolled.
+2025-03-28 11:13:06,559 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:13:08,373 - DEBUG - Page scrolled.
+2025-03-28 11:13:11,376 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:13:13,258 - DEBUG - Page scrolled.
+2025-03-28 11:13:16,259 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:13:18,184 - DEBUG - Page scrolled.
+2025-03-28 11:13:21,185 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 11:13:22,458 - DEBUG - Page scrolled.
+2025-03-28 11:13:25,461 - DEBUG - Random scrolls complete.
+2025-03-28 11:13:28,295 - DEBUG - Total comments in the thread: 9
+2025-03-28 11:14:30,827 - INFO - Post content extracted and saved to Thread-Details/Thread Content\How Much money YouTube shorts pays.txt
+2025-03-28 11:14:33,287 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-28 11:14:33,313 - DEBUG - Extracted main post content: I don't want to believe what I see on YouTube about people getting $0.02 RPM on shorts.
+I would like to confirm from the bhw family,
+How much money do you make for 1,000 views on YouTube short?
+2025-03-28 11:14:37,203 - INFO - Successfully generated comments using Gemini API.
+2025-03-28 11:14:37,207 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-28 11:14:39,212 - INFO - Profile BinaryGhost: Pausing for 45.77 seconds...
+2025-03-28 11:15:24,980 - INFO - Profile BinaryGhost: Resuming...
+2025-03-28 11:15:24,983 - INFO - performing random action
+2025-03-28 11:15:24,985 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 11:15:24,987 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 11:15:25,026 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 11:15:25,072 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 11:15:25,079 - DEBUG - Text box scrolled into view
+2025-03-28 11:15:25,863 - DEBUG - Initializing actionchains
+2025-03-28 11:15:25,918 - DEBUG - Post reply Element location: {'x': 1231, 'y': 3773}, size: {'height': 21, 'width': 68}
+2025-03-28 11:15:25,918 - DEBUG - Target click coordinates: (1265, 3783)
+2025-03-28 11:15:37,726 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-28 11:15:37,729 - DEBUG - Moving mouse to text box element.
+2025-03-28 11:15:37,730 - DEBUG - Clicking on the text box.
+2025-03-28 11:15:37,733 - DEBUG - Sending keys with content: Honestly, RPMs on Shorts are all over the place, kinda like throwing darts in the dark. What niche are you in? That plays a huge role.
+
+2025-03-28 11:15:43,718 - DEBUG - Clicking on post reply button.
+2025-03-28 11:15:54,669 - DEBUG - Performed Actionchains
+2025-03-28 11:15:54,670 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-28 11:15:58,671 - INFO - Comment posted successfully.
+2025-03-28 11:15:58,674 - INFO - Task Completed!!
+2025-03-28 11:16:04,221 - INFO - Navigated back to the homepage.
+2025-03-28 11:16:06,521 - INFO - Attempting to clear memory and resources.
+2025-03-28 11:16:06,550 - INFO - Garbage collection completed.
+2025-03-28 11:16:06,552 - INFO - Waiting for 1000 seconds before next execution.
+2025-03-28 11:32:46,554 - INFO - Automation has reached the time limit. Stopping execution.
+2025-03-28 11:32:46,555 - INFO - Stopping browser for profile: BinaryGhost...
+2025-03-28 11:32:46,556 - INFO - Refreshing token before stopping profile...
+2025-03-28 11:32:46,556 - INFO - Refreshing token for BinaryGhost...
+2025-03-28 11:32:47,590 - INFO - Received expires_in from MultiLogin: 10800
+2025-03-28 11:32:47,591 - INFO - Calculated token expiration time: 1743152567.5915282
+2025-03-28 11:32:47,592 - INFO - Profile BinaryGhost: Successfully logged in.
+2025-03-28 11:32:47,593 - INFO - Token refreshed successfully before stopping.
+2025-03-28 11:32:47,593 - INFO - Profile BinaryGhost: Attempting to stop (Attempt 1/3)...
+2025-03-28 11:32:47,596 - INFO - Profile BinaryGhost: Browser closed successfully in 0.00 seconds.
+2025-03-28 11:32:51,019 - INFO - Profile BinaryGhost: API call took 3.42 seconds.
+2025-03-28 11:32:51,019 - INFO - Profile BinaryGhost: Stopped successfully.
+2025-03-28 11:32:51,020 - INFO - Browser stopped successfully for profile: BinaryGhost.

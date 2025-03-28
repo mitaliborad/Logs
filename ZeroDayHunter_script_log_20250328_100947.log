@@ -1,0 +1,101 @@
+2025-03-28 10:09:47,511 - INFO - Current time: 1743136787.5109563
+2025-03-28 10:09:47,512 - INFO - Token expiration time: 1743147581.5060587
+2025-03-28 10:09:47,513 - INFO - Token expiration time: 1743147581.5060587
+2025-03-28 10:09:47,514 - INFO - performing random action
+2025-03-28 10:09:47,515 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-28 10:09:47,516 - DEBUG - Scrolling page 4 times.
+2025-03-28 10:09:47,517 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:09:57,152 - DEBUG - Page scrolled.
+2025-03-28 10:09:59,153 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:10:00,227 - DEBUG - Page scrolled.
+2025-03-28 10:10:02,230 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:10:03,690 - DEBUG - Page scrolled.
+2025-03-28 10:10:05,692 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:10:06,768 - DEBUG - Page scrolled.
+2025-03-28 10:10:08,769 - DEBUG - Random scrolls complete.
+2025-03-28 10:10:08,771 - DEBUG - Scrolling page 3 times.
+2025-03-28 10:10:08,773 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:10:09,961 - DEBUG - Page scrolled.
+2025-03-28 10:10:11,964 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:10:13,512 - DEBUG - Page scrolled.
+2025-03-28 10:10:15,514 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:10:16,739 - DEBUG - Page scrolled.
+2025-03-28 10:10:18,741 - DEBUG - Random scrolls complete.
+2025-03-28 10:10:24,584 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/local-seo.209/
+2025-03-28 10:10:28,065 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/why-are-clients-unable-to-leave-a-review-on-my-google-business-listing.1693017/unread
+2025-03-28 10:10:28,066 - INFO - Profile ZeroDayHunter: Pausing for 43.12 seconds...
+2025-03-28 10:11:11,192 - INFO - Profile ZeroDayHunter: Resuming...
+2025-03-28 10:11:11,195 - INFO - performing random action
+2025-03-28 10:11:25,469 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/why-are-clients-unable-to-leave-a-review-on-my-google-business-listing.1693017/unread
+2025-03-28 10:11:25,472 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/why-are-clients-unable-to-leave-a-review-on-my-google-business-listing.1693017/unread' to visited threads file 'Thread_links.txt'.
+2025-03-28 10:11:25,526 - INFO - Extracted thread title: Why Are Clients Unable To Leave A Review On My Google Business Listing
+2025-03-28 10:11:25,527 - DEBUG - Scrolling page 3 times.
+2025-03-28 10:11:25,528 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:11:26,953 - DEBUG - Page scrolled.
+2025-03-28 10:11:28,955 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:11:30,617 - DEBUG - Page scrolled.
+2025-03-28 10:11:32,620 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:11:34,066 - DEBUG - Page scrolled.
+2025-03-28 10:11:36,069 - DEBUG - Random scrolls complete.
+2025-03-28 10:11:38,195 - DEBUG - Scrolling page 4 times.
+2025-03-28 10:11:38,197 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:11:40,091 - DEBUG - Page scrolled.
+2025-03-28 10:11:43,093 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:11:45,094 - DEBUG - Page scrolled.
+2025-03-28 10:11:48,095 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:11:50,002 - DEBUG - Page scrolled.
+2025-03-28 10:11:53,003 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:11:54,274 - DEBUG - Page scrolled.
+2025-03-28 10:11:57,276 - DEBUG - Random scrolls complete.
+2025-03-28 10:11:57,315 - DEBUG - Found 8 like buttons.
+2025-03-28 10:12:00,316 - INFO - Attempting to like 1 posts. There are 8 available.
+2025-03-28 10:12:01,338 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-28 10:12:01,380 - INFO - Like button clicked successfully using JavaScript.
+2025-03-28 10:12:01,381 - DEBUG - Liked post number 1 of 1.
+2025-03-28 10:12:05,430 - INFO - Liked 1 posts successfully.
+2025-03-28 10:12:05,433 - INFO - Liked 1 posts successfully.
+2025-03-28 10:12:07,835 - INFO - Profile ZeroDayHunter: Restoring window...
+2025-03-28 10:12:09,845 - INFO - performing random action
+2025-03-28 10:12:09,849 - DEBUG - Scrolling page 4 times.
+2025-03-28 10:12:09,849 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:12:10,907 - DEBUG - Page scrolled.
+2025-03-28 10:12:13,908 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:12:15,253 - DEBUG - Page scrolled.
+2025-03-28 10:12:18,255 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:12:19,600 - DEBUG - Page scrolled.
+2025-03-28 10:12:22,603 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:12:23,843 - DEBUG - Page scrolled.
+2025-03-28 10:12:26,845 - DEBUG - Random scrolls complete.
+2025-03-28 10:12:29,691 - DEBUG - Total comments in the thread: 8
+2025-03-28 10:13:31,763 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Why Are Clients Unable To Leave A Review On My Google Business Listing.txt
+2025-03-28 10:13:34,572 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-28 10:13:34,629 - DEBUG - Extracted main post content: We have multiple 100% verified listings, some are fresh with no reviews and some are old with some reviews on them.
+Clients are posting reviews on them but the reviews are not showing up.
+Does anyone have an idea why this is and how to fix?
+
+Thanks.
+2025-03-28 10:13:38,009 - INFO - Successfully generated comments using Gemini API.
+2025-03-28 10:13:38,010 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-28 10:13:40,786 - INFO - performing random action
+2025-03-28 10:13:40,789 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 10:13:40,791 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 10:13:40,833 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 10:13:40,883 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 10:13:40,889 - DEBUG - Text box scrolled into view
+2025-03-28 10:13:41,814 - DEBUG - Initializing actionchains
+2025-03-28 10:13:41,861 - DEBUG - Post reply Element location: {'x': 1231, 'y': 3383}, size: {'height': 21, 'width': 68}
+2025-03-28 10:13:41,862 - DEBUG - Target click coordinates: (1265, 3393)
+2025-03-28 10:13:53,121 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-28 10:13:53,125 - DEBUG - Moving mouse to text box element.
+2025-03-28 10:13:53,127 - DEBUG - Clicking on the text box.
+2025-03-28 10:13:53,130 - DEBUG - Sending keys with content: Are you sure they're not getting filtered as spam? Try having a friend post a review and see if *that* shows up.
+
+2025-03-28 10:13:58,626 - DEBUG - Clicking on post reply button.
+2025-03-28 10:14:09,568 - DEBUG - Performed Actionchains
+2025-03-28 10:14:09,569 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-28 10:14:13,570 - INFO - Comment posted successfully.
+2025-03-28 10:14:13,573 - INFO - Task Completed!!
+2025-03-28 10:14:24,033 - INFO - Navigated back to the homepage.
+2025-03-28 10:14:26,709 - INFO - Attempting to clear memory and resources.
+2025-03-28 10:14:26,749 - INFO - Garbage collection completed.
+2025-03-28 10:14:26,750 - INFO - Waiting for 1000 seconds before next execution.

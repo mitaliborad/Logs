@@ -1,0 +1,119 @@
+2025-03-28 10:39:54,002 - INFO - Current time: 1743138594.0021515
+2025-03-28 10:39:54,005 - INFO - Token expiration time: 1743146878.5403397
+2025-03-28 10:39:54,007 - INFO - Token expiration time: 1743146878.5403397
+2025-03-28 10:39:54,009 - INFO - Profile PixelPirate99: Opening random website: https://letshyphen.com/
+2025-03-28 10:39:59,562 - INFO - Profile PixelPirate99: Pausing for 32.01 seconds...
+2025-03-28 10:40:31,571 - INFO - Profile PixelPirate99: Resuming...
+2025-03-28 10:40:31,582 - INFO - Profile PixelPirate99: Switched back to original tab.
+2025-03-28 10:40:31,584 - INFO - performing random action
+2025-03-28 10:40:31,587 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-28 10:40:31,590 - DEBUG - Scrolling page 4 times.
+2025-03-28 10:40:31,592 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:40:32,643 - DEBUG - Page scrolled.
+2025-03-28 10:40:34,645 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:40:36,326 - DEBUG - Page scrolled.
+2025-03-28 10:40:38,329 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:40:40,225 - DEBUG - Page scrolled.
+2025-03-28 10:40:42,226 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:40:44,060 - DEBUG - Page scrolled.
+2025-03-28 10:40:46,062 - DEBUG - Random scrolls complete.
+2025-03-28 10:40:46,064 - DEBUG - Scrolling page 3 times.
+2025-03-28 10:40:46,066 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:40:47,730 - DEBUG - Page scrolled.
+2025-03-28 10:40:49,731 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:40:51,557 - DEBUG - Page scrolled.
+2025-03-28 10:40:53,559 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:40:55,042 - DEBUG - Page scrolled.
+2025-03-28 10:40:57,044 - DEBUG - Random scrolls complete.
+2025-03-28 10:41:03,502 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/youtube.77/
+2025-03-28 10:41:07,170 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/youtube-promote-is-scam.1695933/unread
+2025-03-28 10:41:07,171 - INFO - Profile PixelPirate99: Minimizing window...
+2025-03-28 10:41:07,188 - INFO - Profile PixelPirate99: Window minimized. Pausing for 27.39 seconds...
+2025-03-28 10:41:34,578 - INFO - Profile PixelPirate99: Resuming after minimize...
+2025-03-28 10:41:34,581 - INFO - performing random action
+2025-03-28 10:41:45,984 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/youtube-promote-is-scam.1695933/unread
+2025-03-28 10:41:45,987 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/youtube-promote-is-scam.1695933/unread' to visited threads file 'Thread_links.txt'.
+2025-03-28 10:41:46,029 - INFO - Extracted thread title: Youtube Promote Is Scam!
+2025-03-28 10:41:46,030 - DEBUG - Scrolling page 3 times.
+2025-03-28 10:41:46,031 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:41:47,997 - DEBUG - Page scrolled.
+2025-03-28 10:41:50,000 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:41:51,140 - DEBUG - Page scrolled.
+2025-03-28 10:41:53,142 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:41:54,422 - DEBUG - Page scrolled.
+2025-03-28 10:41:56,424 - DEBUG - Random scrolls complete.
+2025-03-28 10:41:59,408 - DEBUG - Scrolling page 4 times.
+2025-03-28 10:41:59,410 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:42:00,572 - DEBUG - Page scrolled.
+2025-03-28 10:42:03,574 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:42:04,964 - DEBUG - Page scrolled.
+2025-03-28 10:42:07,966 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:42:09,055 - DEBUG - Page scrolled.
+2025-03-28 10:42:12,056 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:42:13,911 - DEBUG - Page scrolled.
+2025-03-28 10:42:16,913 - DEBUG - Random scrolls complete.
+2025-03-28 10:42:16,945 - DEBUG - Found 20 like buttons.
+2025-03-28 10:42:19,946 - INFO - Attempting to like 2 posts. There are 20 available.
+2025-03-28 10:42:20,535 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-28 10:42:20,566 - INFO - Like button clicked successfully using JavaScript.
+2025-03-28 10:42:20,568 - DEBUG - Liked post number 1 of 2.
+2025-03-28 10:42:26,036 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-28 10:42:26,056 - INFO - Like button clicked successfully using JavaScript.
+2025-03-28 10:42:26,059 - DEBUG - Liked post number 2 of 2.
+2025-03-28 10:42:30,184 - INFO - Liked 2 posts successfully.
+2025-03-28 10:42:30,187 - INFO - Liked 2 posts successfully.
+2025-03-28 10:42:32,907 - INFO - Profile PixelPirate99: Restoring window...
+2025-03-28 10:42:34,913 - INFO - performing random action
+2025-03-28 10:42:34,914 - DEBUG - Scrolling page 6 times.
+2025-03-28 10:42:34,915 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:42:36,312 - DEBUG - Page scrolled.
+2025-03-28 10:42:39,315 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:42:41,246 - DEBUG - Page scrolled.
+2025-03-28 10:42:44,249 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:42:46,158 - DEBUG - Page scrolled.
+2025-03-28 10:42:49,160 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:42:50,437 - DEBUG - Page scrolled.
+2025-03-28 10:42:53,440 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:42:54,849 - DEBUG - Page scrolled.
+2025-03-28 10:42:57,851 - DEBUG - Scrolling page by 500 pixels.
+2025-03-28 10:42:59,012 - DEBUG - Page scrolled.
+2025-03-28 10:43:02,015 - DEBUG - Random scrolls complete.
+2025-03-28 10:43:05,023 - DEBUG - Total comments in the thread: 20
+2025-03-28 10:44:49,418 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Youtube Promote Is Scam!.txt
+2025-03-28 10:44:51,805 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-28 10:44:51,846 - DEBUG - Extracted main post content: So, Tested Youtube promote feature and although I knew it was not good from reading reviews however I thought It might passed the Beta Test time and might work well in 2025!.
+
+Well, It's the worst SMM Panel Ever!, It gave me Bots, Bot Subscribers, Bot Viewers and Bots that don't even understand the language of the video and yet they subscribed!.
+
+It's such a shame that "A large corporation company would hire or run the worst SMM panel behind the curtain. literally. Lmfao.
+
+On the other hand, Facebook does the business of advertising very very well, Even Tiktok has somewhat better advertising than big G in this regard of Social Media.
+
+Just a heads up For Users who might want to use promote in the future. Your channel will die right after you use it, Pls don't .
+2025-03-28 10:44:56,443 - INFO - Successfully generated comments using Gemini API.
+2025-03-28 10:44:56,447 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-28 10:44:59,304 - INFO - Profile PixelPirate99: Pausing for 45.13 seconds...
+2025-03-28 10:45:44,437 - INFO - Profile PixelPirate99: Resuming...
+2025-03-28 10:45:44,440 - INFO - performing random action
+2025-03-28 10:45:44,442 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 10:45:44,444 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 10:45:44,465 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 10:45:44,502 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-28 10:45:44,508 - DEBUG - Text box scrolled into view
+2025-03-28 10:45:45,071 - DEBUG - Initializing actionchains
+2025-03-28 10:45:45,118 - DEBUG - Post reply Element location: {'x': 1231, 'y': 7864}, size: {'height': 21, 'width': 68}
+2025-03-28 10:45:45,119 - DEBUG - Target click coordinates: (1265, 7874)
+2025-03-28 10:46:05,285 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-28 10:46:05,287 - DEBUG - Moving mouse to text box element.
+2025-03-28 10:46:05,289 - DEBUG - Clicking on the text box.
+2025-03-28 10:46:05,292 - DEBUG - Sending keys with content: Ouch, sounds like you took one for the team. Did you try reporting the bot activity to YouTube support? Might be worth a shot to try and get ahead of any potential channel penalties.
+
+2025-03-28 10:46:11,189 - DEBUG - Clicking on post reply button.
+2025-03-28 10:46:12,550 - DEBUG - Performed Actionchains
+2025-03-28 10:46:12,551 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-28 10:46:16,553 - INFO - Comment posted successfully.
+2025-03-28 10:46:16,555 - INFO - Task Completed!!
+2025-03-28 10:46:19,324 - INFO - Navigated back to the homepage.
+2025-03-28 10:46:21,458 - INFO - Attempting to clear memory and resources.
+2025-03-28 10:46:21,486 - INFO - Garbage collection completed.
+2025-03-28 10:46:21,486 - INFO - Waiting for 1000 seconds before next execution.
