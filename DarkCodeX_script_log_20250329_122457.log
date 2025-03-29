@@ -1,0 +1,107 @@
+2025-03-29 12:24:57,220 - INFO - Current time: 1743231297.2201269
+2025-03-29 12:24:57,223 - INFO - Token expiration time: 1743233204.704339
+2025-03-29 12:24:57,226 - INFO - Token expiration time: 1743233204.704339
+2025-03-29 12:24:57,228 - INFO - performing random action
+2025-03-29 12:24:57,231 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-29 12:24:57,234 - DEBUG - Scrolling page 3 times.
+2025-03-29 12:24:57,236 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:24:58,406 - DEBUG - Page scrolled.
+2025-03-29 12:25:00,408 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:25:02,097 - DEBUG - Page scrolled.
+2025-03-29 12:25:04,098 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:25:05,231 - DEBUG - Page scrolled.
+2025-03-29 12:25:07,234 - DEBUG - Random scrolls complete.
+2025-03-29 12:25:07,237 - DEBUG - Scrolling page 2 times.
+2025-03-29 12:25:07,238 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:25:08,307 - DEBUG - Page scrolled.
+2025-03-29 12:25:10,309 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:25:11,740 - DEBUG - Page scrolled.
+2025-03-29 12:25:13,742 - DEBUG - Random scrolls complete.
+2025-03-29 12:25:20,260 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/php-perl.127/
+2025-03-29 12:25:23,740 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/decode-a-file-with-ioncube-loader.1666760/
+2025-03-29 12:25:23,741 - INFO - Profile DarkCodeX: Opening default URL: https://www.google.com
+2025-03-29 12:25:30,771 - INFO - Profile DarkCodeX: Pausing for 49.93 seconds...
+2025-03-29 12:26:20,704 - INFO - Profile DarkCodeX: Resuming...
+2025-03-29 12:26:20,727 - INFO - Profile DarkCodeX: Switched back to original tab.
+2025-03-29 12:26:20,728 - INFO - performing random action
+2025-03-29 12:26:29,640 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/decode-a-file-with-ioncube-loader.1666760/
+2025-03-29 12:26:29,643 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/decode-a-file-with-ioncube-loader.1666760/' to visited threads file 'Thread_links.txt'.
+2025-03-29 12:26:29,677 - INFO - Extracted thread title: Decode a file with ioncube loader
+2025-03-29 12:26:29,679 - DEBUG - Scrolling page 4 times.
+2025-03-29 12:26:29,679 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:26:30,998 - DEBUG - Page scrolled.
+2025-03-29 12:26:33,000 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:26:34,815 - DEBUG - Page scrolled.
+2025-03-29 12:26:36,817 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:26:37,909 - DEBUG - Page scrolled.
+2025-03-29 12:26:39,911 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:26:41,387 - DEBUG - Page scrolled.
+2025-03-29 12:26:43,389 - DEBUG - Random scrolls complete.
+2025-03-29 12:26:45,579 - DEBUG - Scrolling page 1 times.
+2025-03-29 12:26:45,581 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:26:47,215 - DEBUG - Page scrolled.
+2025-03-29 12:26:50,217 - DEBUG - Random scrolls complete.
+2025-03-29 12:26:50,245 - DEBUG - Found 1 like buttons.
+2025-03-29 12:26:53,246 - INFO - Attempting to like 1 posts. There are 1 available.
+2025-03-29 12:26:53,956 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-29 12:26:53,980 - INFO - Like button clicked successfully using JavaScript.
+2025-03-29 12:26:53,981 - DEBUG - Liked post number 1 of 1.
+2025-03-29 12:26:58,398 - INFO - Liked 1 posts successfully.
+2025-03-29 12:26:58,401 - INFO - Liked 1 posts successfully.
+2025-03-29 12:27:01,109 - INFO - Profile DarkCodeX: Opening random website: https://www.canva.com/en_in/
+2025-03-29 12:27:28,979 - INFO - Profile DarkCodeX: Pausing for 30.13 seconds...
+2025-03-29 12:27:59,114 - INFO - Profile DarkCodeX: Resuming...
+2025-03-29 12:27:59,128 - INFO - Profile DarkCodeX: Switched back to original tab.
+2025-03-29 12:27:59,129 - INFO - performing random action
+2025-03-29 12:27:59,129 - DEBUG - Scrolling page 6 times.
+2025-03-29 12:27:59,130 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:28:00,667 - DEBUG - Page scrolled.
+2025-03-29 12:28:03,669 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:28:05,518 - DEBUG - Page scrolled.
+2025-03-29 12:28:08,520 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:28:09,913 - DEBUG - Page scrolled.
+2025-03-29 12:28:12,915 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:28:14,900 - DEBUG - Page scrolled.
+2025-03-29 12:28:17,902 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:28:19,748 - DEBUG - Page scrolled.
+2025-03-29 12:28:22,750 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:28:24,165 - DEBUG - Page scrolled.
+2025-03-29 12:28:27,167 - DEBUG - Random scrolls complete.
+2025-03-29 12:28:29,294 - DEBUG - Total comments in the thread: 1
+2025-03-29 12:28:29,380 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Decode a file with ioncube loader.txt
+2025-03-29 12:28:31,552 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-29 12:28:31,589 - DEBUG - Extracted main post content: Hello friends, how are you?
+
+I need to decode a file encrypted by ioncube loader, I'm Brazilian and subscribing to https://easytoyou.eu/, which seems like the best option, is difficult when converting the value to my currency.
+
+The PHP version from file is 7.2.
+Does anyone know any other way or can help me?
+
+Thank you in advance
+2025-03-29 12:28:34,888 - INFO - Successfully generated comments using Gemini API.
+2025-03-29 12:28:34,891 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-29 12:28:37,488 - INFO - Profile DarkCodeX: Pausing for 41.75 seconds...
+2025-03-29 12:29:19,245 - INFO - Profile DarkCodeX: Resuming...
+2025-03-29 12:29:19,248 - INFO - performing random action
+2025-03-29 12:29:19,251 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 12:29:19,253 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 12:29:19,281 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 12:29:19,317 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 12:29:19,323 - DEBUG - Text box scrolled into view
+2025-03-29 12:29:19,824 - DEBUG - Initializing actionchains
+2025-03-29 12:29:19,867 - DEBUG - Post reply Element location: {'x': 1231, 'y': 1162}, size: {'height': 21, 'width': 68}
+2025-03-29 12:29:19,867 - DEBUG - Target click coordinates: (1265, 1172)
+2025-03-29 12:29:26,198 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-29 12:29:26,201 - DEBUG - Moving mouse to text box element.
+2025-03-29 12:29:26,202 - DEBUG - Clicking on the text box.
+2025-03-29 12:29:26,205 - DEBUG - Sending keys with content: Honestly, at that PHP version, you might be better off rewriting the code if it's not too extensive; decoding can be a real rabbit hole.
+
+2025-03-29 12:29:31,731 - DEBUG - Clicking on post reply button.
+2025-03-29 12:29:42,668 - DEBUG - Performed Actionchains
+2025-03-29 12:29:42,669 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-29 12:29:46,669 - INFO - Comment posted successfully.
+2025-03-29 12:29:46,672 - INFO - Task Completed!!
+2025-03-29 12:29:57,431 - INFO - Navigated back to the homepage.
+2025-03-29 12:30:00,230 - INFO - Attempting to clear memory and resources.
+2025-03-29 12:30:00,258 - INFO - Garbage collection completed.
+2025-03-29 12:30:00,259 - INFO - Waiting for 1850 seconds before next execution.

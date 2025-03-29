@@ -1,0 +1,120 @@
+2025-03-29 12:11:10,041 - INFO - Current time: 1743230470.0416756
+2025-03-29 12:11:10,042 - INFO - Token expiration time: 1743232532.791173
+2025-03-29 12:11:10,043 - INFO - Token expiration time: 1743232532.791173
+2025-03-29 12:11:10,044 - INFO - performing random action
+2025-03-29 12:11:10,045 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-29 12:11:10,045 - DEBUG - Scrolling page 4 times.
+2025-03-29 12:11:10,046 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:11:11,769 - DEBUG - Page scrolled.
+2025-03-29 12:11:13,771 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:11:15,462 - DEBUG - Page scrolled.
+2025-03-29 12:11:17,465 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:11:19,099 - DEBUG - Page scrolled.
+2025-03-29 12:11:21,101 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:11:22,430 - DEBUG - Page scrolled.
+2025-03-29 12:11:24,432 - DEBUG - Random scrolls complete.
+2025-03-29 12:11:24,434 - DEBUG - Scrolling page 3 times.
+2025-03-29 12:11:24,435 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:11:26,109 - DEBUG - Page scrolled.
+2025-03-29 12:11:28,110 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:11:29,222 - DEBUG - Page scrolled.
+2025-03-29 12:11:31,224 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:11:32,472 - DEBUG - Page scrolled.
+2025-03-29 12:11:34,474 - DEBUG - Random scrolls complete.
+2025-03-29 12:11:48,110 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/ai-artificial-intelligence-in-digital-marketing.252/
+2025-03-29 12:11:51,475 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/what-ai-platforms-are-you-using-right-now-for-your-work.1698178/unread
+2025-03-29 12:11:51,475 - INFO - Profile DataPhreak: Opening random website: https://www.teejh.com/
+2025-03-29 12:12:17,871 - INFO - Profile DataPhreak: Pausing for 32.47 seconds...
+2025-03-29 12:12:50,340 - INFO - Profile DataPhreak: Resuming...
+2025-03-29 12:12:50,379 - INFO - Profile DataPhreak: Switched back to original tab.
+2025-03-29 12:12:50,379 - INFO - performing random action
+2025-03-29 12:13:03,267 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/what-ai-platforms-are-you-using-right-now-for-your-work.1698178/unread
+2025-03-29 12:13:03,271 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/what-ai-platforms-are-you-using-right-now-for-your-work.1698178/unread' to visited threads file 'Thread_links.txt'.
+2025-03-29 12:13:03,323 - DEBUG - Scrolling page 2 times.
+2025-03-29 12:13:03,323 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:13:04,838 - DEBUG - Page scrolled.
+2025-03-29 12:13:06,841 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:13:07,960 - DEBUG - Page scrolled.
+2025-03-29 12:13:09,962 - DEBUG - Random scrolls complete.
+2025-03-29 12:13:12,665 - DEBUG - Scrolling page 4 times.
+2025-03-29 12:13:12,666 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:13:14,204 - DEBUG - Page scrolled.
+2025-03-29 12:13:17,206 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:13:19,160 - DEBUG - Page scrolled.
+2025-03-29 12:13:22,162 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:13:23,801 - DEBUG - Page scrolled.
+2025-03-29 12:13:26,803 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:13:28,371 - DEBUG - Page scrolled.
+2025-03-29 12:13:31,373 - DEBUG - Random scrolls complete.
+2025-03-29 12:13:31,403 - DEBUG - Found 20 like buttons.
+2025-03-29 12:13:34,404 - INFO - Attempting to like 1 posts. There are 20 available.
+2025-03-29 12:13:35,048 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-29 12:13:35,070 - INFO - Like button clicked successfully using JavaScript.
+2025-03-29 12:13:35,071 - DEBUG - Liked post number 1 of 1.
+2025-03-29 12:13:39,504 - INFO - Liked 1 posts successfully.
+2025-03-29 12:13:39,506 - INFO - Liked 1 posts successfully.
+2025-03-29 12:13:41,670 - INFO - performing random action
+2025-03-29 12:13:41,673 - DEBUG - Scrolling page 6 times.
+2025-03-29 12:13:41,674 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:13:43,610 - DEBUG - Page scrolled.
+2025-03-29 12:13:46,612 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:13:48,407 - DEBUG - Page scrolled.
+2025-03-29 12:13:51,410 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:13:53,162 - DEBUG - Page scrolled.
+2025-03-29 12:13:56,164 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:13:57,676 - DEBUG - Page scrolled.
+2025-03-29 12:14:00,679 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:14:01,761 - DEBUG - Page scrolled.
+2025-03-29 12:14:04,763 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:14:06,248 - DEBUG - Page scrolled.
+2025-03-29 12:14:09,250 - DEBUG - Random scrolls complete.
+2025-03-29 12:14:11,650 - DEBUG - Total comments in the thread: 20
+2025-03-29 12:14:25,527 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-29 12:14:25,566 - DEBUG - Extracted main post content: Hi, my friends,
+
+
+What AI platforms are you currently using for your work?
+
+
+What AI websites or tools do you use in your daily tasks to make your work easier?
+
+
+Please share everything!
+2025-03-29 12:14:31,210 - INFO - Successfully generated comments using Gemini API.
+2025-03-29 12:14:31,213 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-29 12:14:33,647 - INFO - performing random action
+2025-03-29 12:14:33,648 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 12:14:33,649 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 12:14:33,660 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 12:14:33,699 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 12:14:33,705 - DEBUG - Text box scrolled into view
+2025-03-29 12:14:34,373 - DEBUG - Initializing actionchains
+2025-03-29 12:14:34,436 - DEBUG - Post reply Element location: {'x': 1231, 'y': 7687}, size: {'height': 21, 'width': 68}
+2025-03-29 12:14:34,438 - DEBUG - Target click coordinates: (1265, 7697)
+2025-03-29 12:14:54,207 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-29 12:14:54,209 - DEBUG - Moving mouse to text box element.
+2025-03-29 12:14:54,211 - DEBUG - Clicking on the text box.
+2025-03-29 12:14:54,215 - DEBUG - Sending keys with content: Curious to hear what everyone's using, too. I've been playing with ChatGPT for brainstorming, but honestly, still figuring out how to make it a must-have instead of just a nice-to-have.
+
+2025-03-29 12:14:59,251 - DEBUG - Clicking on post reply button.
+2025-03-29 12:15:10,424 - DEBUG - Performed Actionchains
+2025-03-29 12:15:10,424 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-29 12:15:14,425 - INFO - Comment posted successfully.
+2025-03-29 12:15:14,428 - INFO - Task Completed!!
+2025-03-29 12:15:23,569 - INFO - Navigated back to the homepage.
+2025-03-29 12:15:25,615 - INFO - Attempting to clear memory and resources.
+2025-03-29 12:15:25,655 - INFO - Garbage collection completed.
+2025-03-29 12:15:25,656 - INFO - Waiting for 1850 seconds before next execution.
+2025-03-29 12:46:15,658 - INFO - Automation has reached the time limit. Stopping execution.
+2025-03-29 12:46:15,661 - INFO - Stopping browser for profile: DataPhreak...
+2025-03-29 12:46:15,663 - INFO - Refreshing token before stopping profile...
+2025-03-29 12:46:15,666 - INFO - Refreshing token for DataPhreak...
+2025-03-29 12:46:17,208 - INFO - Received expires_in from MultiLogin: 10800
+2025-03-29 12:46:17,209 - INFO - Calculated token expiration time: 1743243377.2094772
+2025-03-29 12:46:17,210 - INFO - Profile DataPhreak: Successfully logged in.
+2025-03-29 12:46:17,211 - INFO - Token refreshed successfully before stopping.
+2025-03-29 12:46:17,212 - INFO - Profile DataPhreak: Attempting to stop (Attempt 1/3)...
+2025-03-29 12:46:17,217 - INFO - Profile DataPhreak: Browser closed successfully in 0.00 seconds.
+2025-03-29 12:46:22,418 - INFO - Profile DataPhreak: API call took 5.20 seconds.
+2025-03-29 12:46:22,420 - INFO - Profile DataPhreak: Stopped successfully.
+2025-03-29 12:46:22,424 - INFO - Browser stopped successfully for profile: DataPhreak.

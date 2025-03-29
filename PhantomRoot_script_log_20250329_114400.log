@@ -1,0 +1,43 @@
+2025-03-29 11:44:00,270 - INFO - Current time: 1743228840.2705607
+2025-03-29 11:44:00,273 - INFO - Token expiration time: 1743232867.4742439
+2025-03-29 11:44:00,276 - INFO - Token expiration time: 1743232867.4742439
+2025-03-29 11:44:00,278 - INFO - Profile PhantomRoot: Pausing for 36.10 seconds...
+2025-03-29 11:44:36,385 - INFO - Profile PhantomRoot: Resuming...
+2025-03-29 11:44:36,387 - INFO - performing random action
+2025-03-29 11:44:36,390 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-29 11:44:36,392 - DEBUG - Scrolling page 3 times.
+2025-03-29 11:44:36,394 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:44:38,253 - DEBUG - Page scrolled.
+2025-03-29 11:44:40,256 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:44:42,186 - DEBUG - Page scrolled.
+2025-03-29 11:44:44,188 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:44:45,876 - DEBUG - Page scrolled.
+2025-03-29 11:44:47,880 - DEBUG - Random scrolls complete.
+2025-03-29 11:44:47,881 - DEBUG - Scrolling page 4 times.
+2025-03-29 11:44:47,881 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:44:49,272 - DEBUG - Page scrolled.
+2025-03-29 11:44:51,274 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:44:53,231 - DEBUG - Page scrolled.
+2025-03-29 11:44:55,233 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:44:57,191 - DEBUG - Page scrolled.
+2025-03-29 11:44:59,192 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:45:01,208 - DEBUG - Page scrolled.
+2025-03-29 11:45:03,211 - DEBUG - Random scrolls complete.
+2025-03-29 11:45:10,256 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/making-money.12/
+2025-03-29 11:45:20,628 - ERROR - Error finding random thread link in subforum: Message: 
+Traceback (most recent call last):
+  File "F:\Forum-Automation-Tool\blackhatworld_functions.py", line 570, in find_random_thread_link_from_subforum
+    wait.until(
+    ~~~~~~~~~~^
+        EC.presence_of_all_elements_located((By.XPATH, "//div[contains(@class, 'structItem')]"))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\support\wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-29 11:45:20,634 - INFO - Profile PhantomRoot: Pausing for 33.56 seconds...
+2025-03-29 11:45:54,194 - INFO - Profile PhantomRoot: Resuming...
+2025-03-29 11:45:54,195 - INFO - performing random action
+2025-03-29 11:45:54,196 - WARNING - Skipping thread processing due to no thread link being found in subforum.

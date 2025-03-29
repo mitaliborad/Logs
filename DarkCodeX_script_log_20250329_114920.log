@@ -1,0 +1,106 @@
+2025-03-29 11:49:20,616 - INFO - Current time: 1743229160.6160138
+2025-03-29 11:49:20,617 - INFO - Token expiration time: 1743233204.704339
+2025-03-29 11:49:20,619 - INFO - Token expiration time: 1743233204.704339
+2025-03-29 11:49:20,620 - INFO - performing random action
+2025-03-29 11:49:20,621 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-29 11:49:20,623 - DEBUG - Scrolling page 4 times.
+2025-03-29 11:49:20,623 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:49:22,424 - DEBUG - Page scrolled.
+2025-03-29 11:49:24,426 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:49:26,331 - DEBUG - Page scrolled.
+2025-03-29 11:49:28,333 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:49:29,716 - DEBUG - Page scrolled.
+2025-03-29 11:49:31,718 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:49:33,563 - DEBUG - Page scrolled.
+2025-03-29 11:49:35,565 - DEBUG - Random scrolls complete.
+2025-03-29 11:49:35,567 - DEBUG - Scrolling page 4 times.
+2025-03-29 11:49:35,568 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:49:37,174 - DEBUG - Page scrolled.
+2025-03-29 11:49:39,177 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:49:41,085 - DEBUG - Page scrolled.
+2025-03-29 11:49:43,087 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:49:44,330 - DEBUG - Page scrolled.
+2025-03-29 11:49:46,333 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:49:47,901 - DEBUG - Page scrolled.
+2025-03-29 11:49:49,905 - DEBUG - Random scrolls complete.
+2025-03-29 11:50:04,011 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/black-hat-seo.28/
+2025-03-29 11:50:08,097 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/reddit-seo-still-works-in-2025.1698721/unread
+2025-03-29 11:50:08,097 - INFO - performing random action
+2025-03-29 11:51:26,708 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/reddit-seo-still-works-in-2025.1698721/unread
+2025-03-29 11:51:26,712 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/reddit-seo-still-works-in-2025.1698721/unread' to visited threads file 'Thread_links.txt'.
+2025-03-29 11:51:26,764 - INFO - Extracted thread title: Reddit SEO Still Works in 2025!
+2025-03-29 11:51:26,765 - DEBUG - Scrolling page 4 times.
+2025-03-29 11:51:26,766 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:51:28,507 - DEBUG - Page scrolled.
+2025-03-29 11:51:30,510 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:51:31,973 - DEBUG - Page scrolled.
+2025-03-29 11:51:33,975 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:51:35,136 - DEBUG - Page scrolled.
+2025-03-29 11:51:37,139 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:51:38,714 - DEBUG - Page scrolled.
+2025-03-29 11:51:40,717 - DEBUG - Random scrolls complete.
+2025-03-29 11:51:43,313 - DEBUG - Scrolling page 1 times.
+2025-03-29 11:51:43,315 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:51:44,965 - DEBUG - Page scrolled.
+2025-03-29 11:51:47,968 - DEBUG - Random scrolls complete.
+2025-03-29 11:51:47,987 - DEBUG - Found 13 like buttons.
+2025-03-29 11:51:50,988 - INFO - Attempting to like 1 posts. There are 13 available.
+2025-03-29 11:51:51,768 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-29 11:51:51,800 - INFO - Like button clicked successfully using JavaScript.
+2025-03-29 11:51:51,803 - DEBUG - Liked post number 1 of 1.
+2025-03-29 11:51:56,405 - INFO - Liked 1 posts successfully.
+2025-03-29 11:51:56,409 - INFO - Liked 1 posts successfully.
+2025-03-29 11:51:59,312 - INFO - performing random action
+2025-03-29 11:51:59,316 - DEBUG - Scrolling page 4 times.
+2025-03-29 11:51:59,318 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:52:00,733 - DEBUG - Page scrolled.
+2025-03-29 11:52:03,736 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:52:04,991 - DEBUG - Page scrolled.
+2025-03-29 11:52:07,993 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:52:09,231 - DEBUG - Page scrolled.
+2025-03-29 11:52:12,234 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:52:14,046 - DEBUG - Page scrolled.
+2025-03-29 11:52:17,048 - DEBUG - Random scrolls complete.
+2025-03-29 11:52:19,372 - DEBUG - Total comments in the thread: 13
+2025-03-29 11:53:12,879 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Reddit SEO Still Works in 2025!.txt
+2025-03-29 11:53:15,480 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-29 11:53:15,515 - DEBUG - Extracted main post content: Hey guys,
+
+There's been a lot of buzz about whether Reddit SEO still delivers results in 2025, and I'm here to tell you - it's very much alive and thriving!
+
+Despite the endless algorithm tweaks and tighter moderation, Reddit remains a goldmine for organic traffic, backlink building, and targeted lead generation. Here's what's currently working:
+Aged Accounts: Reddit continues to favour established, high-karma accounts. Spend some time nurturing accounts with authentic engagement before dropping links.
+Accounts With Karma: It's very important that accounts have karma because you won't be able to post something on good-establishes subreddits. Of course, you can grow karma on your own.
+Niche Subreddits: Smaller communities provide massive SEO benefits. Posting valuable content and subtly embedding your links can skyrocket your traffic with minimal competition.
+Keyword Optimization: Reddit's content is still indexed heavily by Google. Optimize your post titles and content strategically - long-tail keywords perform exceptionally well.
+Engagement Boosting: Immediate engagement (comments, upvotes) signals relevancy to both Reddit and Google, amplifying your SEO power. Networks and engagement pods can still give you an edge.
+I'm currently working with a couple of clients on Reddit SEO, and I will keep you updated.
+
+What's your experience with Reddit SEO in 2025?
+
+Cheers!
+2025-03-29 11:53:18,781 - INFO - Successfully generated comments using Gemini API.
+2025-03-29 11:53:18,786 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-29 11:53:21,328 - INFO - performing random action
+2025-03-29 11:53:21,331 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 11:53:21,333 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 11:53:21,368 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 11:53:21,407 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 11:53:21,414 - DEBUG - Text box scrolled into view
+2025-03-29 11:53:22,371 - DEBUG - Initializing actionchains
+2025-03-29 11:53:22,437 - DEBUG - Post reply Element location: {'x': 1231, 'y': 4995}, size: {'height': 21, 'width': 68}
+2025-03-29 11:53:22,438 - DEBUG - Target click coordinates: (1265, 5005)
+2025-03-29 11:53:37,511 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-29 11:53:37,512 - DEBUG - Moving mouse to text box element.
+2025-03-29 11:53:37,514 - DEBUG - Clicking on the text box.
+2025-03-29 11:53:37,516 - DEBUG - Sending keys with content: Honestly, I've found genuine engagement trumps everything else; people can smell a marketing ploy a mile away, so how do you build real connections?
+
+2025-03-29 11:53:43,399 - DEBUG - Clicking on post reply button.
+2025-03-29 11:53:54,405 - DEBUG - Performed Actionchains
+2025-03-29 11:53:54,406 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-29 11:53:58,407 - INFO - Comment posted successfully.
+2025-03-29 11:53:58,410 - INFO - Task Completed!!
+2025-03-29 11:54:04,424 - INFO - Navigated back to the homepage.
+2025-03-29 11:54:07,173 - INFO - Attempting to clear memory and resources.
+2025-03-29 11:54:07,216 - INFO - Garbage collection completed.
+2025-03-29 11:54:07,217 - INFO - Waiting for 1850 seconds before next execution.

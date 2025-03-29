@@ -1,0 +1,110 @@
+2025-03-29 11:05:19,007 - INFO - Current time: 1743226519.0074623
+2025-03-29 11:05:19,010 - INFO - Token expiration time: 1743232982.3502593
+2025-03-29 11:05:19,012 - INFO - Token expiration time: 1743232982.3502593
+2025-03-29 11:05:19,014 - INFO - Profile BinaryGhost: Pausing for 39.23 seconds...
+2025-03-29 11:05:58,246 - INFO - Profile BinaryGhost: Resuming...
+2025-03-29 11:05:58,249 - INFO - performing random action
+2025-03-29 11:05:58,252 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-29 11:05:58,254 - DEBUG - Scrolling page 2 times.
+2025-03-29 11:05:58,256 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:05:59,309 - DEBUG - Page scrolled.
+2025-03-29 11:06:01,312 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:06:02,349 - DEBUG - Page scrolled.
+2025-03-29 11:06:04,351 - DEBUG - Random scrolls complete.
+2025-03-29 11:06:04,353 - DEBUG - Scrolling page 3 times.
+2025-03-29 11:06:04,355 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:06:06,276 - DEBUG - Page scrolled.
+2025-03-29 11:06:08,279 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:06:09,515 - DEBUG - Page scrolled.
+2025-03-29 11:06:11,516 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:06:13,524 - DEBUG - Page scrolled.
+2025-03-29 11:06:15,526 - DEBUG - Random scrolls complete.
+2025-03-29 11:06:24,753 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/online-reputation-management-orm.224/
+2025-03-29 11:06:28,097 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/pushing-down-negative-articles-or-completely-deleting-them.1670119/
+2025-03-29 11:06:28,097 - INFO - performing random action
+2025-03-29 11:06:37,231 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/pushing-down-negative-articles-or-completely-deleting-them.1670119/
+2025-03-29 11:06:37,234 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/pushing-down-negative-articles-or-completely-deleting-them.1670119/' to visited threads file 'Thread_links.txt'.
+2025-03-29 11:06:37,279 - INFO - Extracted thread title: Pushing down negative articles or completely deleting them
+2025-03-29 11:06:37,280 - DEBUG - Scrolling page 4 times.
+2025-03-29 11:06:37,280 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:06:38,643 - DEBUG - Page scrolled.
+2025-03-29 11:06:40,645 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:06:41,753 - DEBUG - Page scrolled.
+2025-03-29 11:06:43,755 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:06:45,435 - DEBUG - Page scrolled.
+2025-03-29 11:06:47,438 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:06:49,395 - DEBUG - Page scrolled.
+2025-03-29 11:06:51,397 - DEBUG - Random scrolls complete.
+2025-03-29 11:06:53,947 - DEBUG - Scrolling page 3 times.
+2025-03-29 11:06:53,949 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:06:55,037 - DEBUG - Page scrolled.
+2025-03-29 11:06:58,040 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:06:59,916 - DEBUG - Page scrolled.
+2025-03-29 11:07:02,918 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:07:03,957 - DEBUG - Page scrolled.
+2025-03-29 11:07:06,959 - DEBUG - Random scrolls complete.
+2025-03-29 11:07:06,990 - DEBUG - Found 11 like buttons.
+2025-03-29 11:07:09,991 - INFO - Attempting to like 3 posts. There are 11 available.
+2025-03-29 11:07:10,862 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-29 11:07:10,872 - INFO - Like button clicked successfully using JavaScript.
+2025-03-29 11:07:10,873 - DEBUG - Liked post number 1 of 3.
+2025-03-29 11:07:15,728 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-29 11:07:15,747 - INFO - Like button clicked successfully using JavaScript.
+2025-03-29 11:07:15,748 - DEBUG - Liked post number 2 of 3.
+2025-03-29 11:07:20,349 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-29 11:07:20,370 - INFO - Like button clicked successfully using JavaScript.
+2025-03-29 11:07:20,372 - DEBUG - Liked post number 3 of 3.
+2025-03-29 11:07:24,627 - INFO - Liked 3 posts successfully.
+2025-03-29 11:07:24,629 - INFO - Liked 3 posts successfully.
+2025-03-29 11:07:27,000 - INFO - performing random action
+2025-03-29 11:07:27,003 - DEBUG - Scrolling page 7 times.
+2025-03-29 11:07:27,004 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:07:28,650 - DEBUG - Page scrolled.
+2025-03-29 11:07:31,651 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:07:33,195 - DEBUG - Page scrolled.
+2025-03-29 11:07:36,197 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:07:37,857 - DEBUG - Page scrolled.
+2025-03-29 11:07:40,860 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:07:42,422 - DEBUG - Page scrolled.
+2025-03-29 11:07:45,424 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:07:47,084 - DEBUG - Page scrolled.
+2025-03-29 11:07:50,086 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:07:51,891 - DEBUG - Page scrolled.
+2025-03-29 11:07:54,894 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:07:56,344 - DEBUG - Page scrolled.
+2025-03-29 11:07:59,346 - DEBUG - Random scrolls complete.
+2025-03-29 11:08:01,544 - DEBUG - Total comments in the thread: 11
+2025-03-29 11:08:33,693 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Pushing down negative articles or completely deleting them.txt
+2025-03-29 11:08:35,792 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-29 11:08:35,830 - DEBUG - Extracted main post content: Let's say there is a negative blog article about a service or a product.
+
+And I want the blog article to disappear or just not be indexed anymore on google...or at least push that article down the rankings as much as possible
+
+How would you go about it? Are there tools here that can do it? I am currently looking for one and have one tool, that helps with removing the article from google and pushing it down the SERPs basically on a button push..
+
+but I am open to test at least three or four of them
+2025-03-29 11:08:40,634 - INFO - Successfully generated comments using Gemini API.
+2025-03-29 11:08:40,635 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-29 11:08:43,544 - INFO - performing random action
+2025-03-29 11:08:43,546 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 11:08:43,548 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 11:08:43,587 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 11:08:43,637 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 11:08:43,644 - DEBUG - Text box scrolled into view
+2025-03-29 11:08:44,630 - DEBUG - Initializing actionchains
+2025-03-29 11:08:44,668 - DEBUG - Post reply Element location: {'x': 1231, 'y': 4604}, size: {'height': 21, 'width': 68}
+2025-03-29 11:08:44,669 - DEBUG - Target click coordinates: (1265, 4614)
+2025-03-29 11:08:58,216 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-29 11:08:58,217 - DEBUG - Moving mouse to text box element.
+2025-03-29 11:08:58,218 - DEBUG - Clicking on the text box.
+2025-03-29 11:08:58,219 - DEBUG - Sending keys with content: Honestly, trying to nuke it completely is tough. Have you thought about drowning it out with positive content on sites Google trusts?
+
+2025-03-29 11:09:03,925 - DEBUG - Clicking on post reply button.
+2025-03-29 11:09:14,870 - DEBUG - Performed Actionchains
+2025-03-29 11:09:14,870 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-29 11:09:18,872 - INFO - Comment posted successfully.
+2025-03-29 11:09:18,873 - INFO - Task Completed!!
+2025-03-29 11:09:25,314 - INFO - Navigated back to the homepage.
+2025-03-29 11:09:27,972 - INFO - Attempting to clear memory and resources.
+2025-03-29 11:09:27,999 - INFO - Garbage collection completed.
+2025-03-29 11:09:28,000 - INFO - Waiting for 1850 seconds before next execution.

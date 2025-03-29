@@ -1,0 +1,104 @@
+2025-03-29 10:27:48,293 - INFO - Current time: 1743224268.2936954
+2025-03-29 10:27:48,296 - INFO - Token expiration time: 1743232532.791173
+2025-03-29 10:27:48,298 - INFO - Token expiration time: 1743232532.791173
+2025-03-29 10:27:48,301 - INFO - performing random action
+2025-03-29 10:27:48,304 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-29 10:27:48,306 - DEBUG - Scrolling page 3 times.
+2025-03-29 10:27:48,308 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:27:49,703 - DEBUG - Page scrolled.
+2025-03-29 10:27:51,704 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:27:53,273 - DEBUG - Page scrolled.
+2025-03-29 10:27:55,276 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:27:56,999 - DEBUG - Page scrolled.
+2025-03-29 10:27:59,001 - DEBUG - Random scrolls complete.
+2025-03-29 10:27:59,003 - DEBUG - Scrolling page 4 times.
+2025-03-29 10:27:59,005 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:28:00,341 - DEBUG - Page scrolled.
+2025-03-29 10:28:02,344 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:28:03,983 - DEBUG - Page scrolled.
+2025-03-29 10:28:05,986 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:28:07,157 - DEBUG - Page scrolled.
+2025-03-29 10:28:09,159 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:28:10,840 - DEBUG - Page scrolled.
+2025-03-29 10:28:12,842 - DEBUG - Random scrolls complete.
+2025-03-29 10:28:25,535 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/introductions.24/
+2025-03-29 10:28:30,080 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/hello.1700185/unread
+2025-03-29 10:28:30,081 - INFO - performing random action
+2025-03-29 10:28:39,883 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/hello.1700185/unread
+2025-03-29 10:28:39,886 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/hello.1700185/unread' to visited threads file 'Thread_links.txt'.
+2025-03-29 10:28:39,984 - INFO - Extracted thread title: hello!
+2025-03-29 10:28:39,986 - DEBUG - Scrolling page 3 times.
+2025-03-29 10:28:39,987 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:28:41,318 - DEBUG - Page scrolled.
+2025-03-29 10:28:43,320 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:28:44,503 - DEBUG - Page scrolled.
+2025-03-29 10:28:46,505 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:28:48,198 - DEBUG - Page scrolled.
+2025-03-29 10:28:50,201 - DEBUG - Random scrolls complete.
+2025-03-29 10:28:52,573 - DEBUG - Scrolling page 1 times.
+2025-03-29 10:28:52,575 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:28:54,145 - DEBUG - Page scrolled.
+2025-03-29 10:28:57,146 - DEBUG - Random scrolls complete.
+2025-03-29 10:28:57,196 - DEBUG - Found 3 like buttons.
+2025-03-29 10:29:00,199 - INFO - Attempting to like 3 posts. There are 3 available.
+2025-03-29 10:29:01,057 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-29 10:29:01,095 - INFO - Like button clicked successfully using JavaScript.
+2025-03-29 10:29:01,098 - DEBUG - Liked post number 1 of 3.
+2025-03-29 10:29:06,023 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-29 10:29:06,031 - INFO - Like button clicked successfully using JavaScript.
+2025-03-29 10:29:06,031 - DEBUG - Liked post number 2 of 3.
+2025-03-29 10:29:11,536 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-29 10:29:11,544 - INFO - Like button clicked successfully using JavaScript.
+2025-03-29 10:29:11,545 - DEBUG - Liked post number 3 of 3.
+2025-03-29 10:29:15,741 - INFO - Liked 3 posts successfully.
+2025-03-29 10:29:15,744 - INFO - Liked 3 posts successfully.
+2025-03-29 10:29:17,848 - INFO - performing random action
+2025-03-29 10:29:17,851 - DEBUG - Scrolling page 4 times.
+2025-03-29 10:29:17,852 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:29:19,560 - DEBUG - Page scrolled.
+2025-03-29 10:29:22,563 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:29:24,065 - DEBUG - Page scrolled.
+2025-03-29 10:29:27,068 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:29:28,721 - DEBUG - Page scrolled.
+2025-03-29 10:29:31,723 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:29:33,388 - DEBUG - Page scrolled.
+2025-03-29 10:29:36,389 - DEBUG - Random scrolls complete.
+2025-03-29 10:29:38,773 - DEBUG - Total comments in the thread: 3
+2025-03-29 10:29:39,022 - INFO - Post content extracted and saved to Thread-Details/Thread Content\hello!.txt
+2025-03-29 10:29:41,519 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-29 10:29:41,571 - DEBUG - Extracted main post content: hey everyone
+2025-03-29 10:29:45,587 - INFO - Successfully generated comments using Gemini API.
+2025-03-29 10:29:45,590 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-29 10:29:45,594 - WARNING - rename Error: [WinError 123] The filename, directory name, or volume label syntax is incorrect: 'Thread-Details/API Comments\\temp_comment.txt' -> "Thread-Details/API Comments\\hello!_Hey.\nExisting Comments\nWhat's up\nAPI Response\nS.txt"
+Traceback (most recent call last):
+  File "F:\Forum-Automation-Tool\blackhatworld_automation.py", line 184, in process_profile
+    os.rename(
+    ~~~~~~~~~^
+        os.path.join(api_comments_dir, "temp_comment.txt"),
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        api_comment_file,
+        ^^^^^^^^^^^^^^^^^
+    )
+    ^
+OSError: [WinError 123] The filename, directory name, or volume label syntax is incorrect: 'Thread-Details/API Comments\\temp_comment.txt' -> "Thread-Details/API Comments\\hello!_Hey.\nExisting Comments\nWhat's up\nAPI Response\nS.txt"
+2025-03-29 10:29:45,622 - INFO - API comment generated and saved to Thread-Details/API Comments\hello!_Hey.
+Existing Comments
+What's up
+API Response
+S.txt
+2025-03-29 10:29:45,624 - ERROR - Error reading thread content file: [Errno 22] Invalid argument: "Thread-Details/API Comments\\hello!_Hey.\nExisting Comments\nWhat's up\nAPI Response\nS.txt"
+Traceback (most recent call last):
+  File "F:\Forum-Automation-Tool\blackhatworld_functions.py", line 411, in read_thread_content
+    with open(file_path, "r", encoding="utf-8") as f:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+OSError: [Errno 22] Invalid argument: "Thread-Details/API Comments\\hello!_Hey.\nExisting Comments\nWhat's up\nAPI Response\nS.txt"
+2025-03-29 10:29:47,819 - INFO - Profile DataPhreak: Minimizing window...
+2025-03-29 10:29:47,823 - INFO - Profile DataPhreak: Window minimized. Pausing for 23.45 seconds...
+2025-03-29 10:30:11,279 - INFO - Profile DataPhreak: Resuming after minimize...
+2025-03-29 10:30:11,282 - INFO - performing random action
+2025-03-29 10:30:11,284 - WARNING - No comment available to post.
+2025-03-29 10:30:11,286 - INFO - Task Completed!!
+2025-03-29 10:30:18,726 - INFO - Navigated back to the homepage.
+2025-03-29 10:30:21,520 - INFO - Attempting to clear memory and resources.
+2025-03-29 10:30:21,550 - INFO - Garbage collection completed.
+2025-03-29 10:30:21,551 - INFO - Waiting for 1850 seconds before next execution.

@@ -1,0 +1,112 @@
+2025-03-29 11:09:10,556 - INFO - Current time: 1743226750.5568645
+2025-03-29 11:09:10,560 - INFO - Token expiration time: 1743233264.7923295
+2025-03-29 11:09:10,562 - INFO - Token expiration time: 1743233264.7923295
+2025-03-29 11:09:10,564 - INFO - performing random action
+2025-03-29 11:09:10,567 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-29 11:09:10,570 - DEBUG - Scrolling page 3 times.
+2025-03-29 11:09:10,571 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:09:12,559 - DEBUG - Page scrolled.
+2025-03-29 11:09:14,561 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:09:16,143 - DEBUG - Page scrolled.
+2025-03-29 11:09:18,145 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:09:19,794 - DEBUG - Page scrolled.
+2025-03-29 11:09:21,796 - DEBUG - Random scrolls complete.
+2025-03-29 11:09:21,799 - DEBUG - Scrolling page 3 times.
+2025-03-29 11:09:21,800 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:09:23,550 - DEBUG - Page scrolled.
+2025-03-29 11:09:25,555 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:09:27,180 - DEBUG - Page scrolled.
+2025-03-29 11:09:29,181 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:09:31,115 - DEBUG - Page scrolled.
+2025-03-29 11:09:33,117 - DEBUG - Random scrolls complete.
+2025-03-29 11:09:41,860 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/myspace.87/
+2025-03-29 11:09:45,212 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/my-space-benefit.1513444/
+2025-03-29 11:09:45,213 - INFO - Profile ZeroDayHunter: Opening default URL: https://www.google.com
+2025-03-29 11:09:55,096 - INFO - Profile ZeroDayHunter: Pausing for 48.30 seconds...
+2025-03-29 11:10:43,399 - INFO - Profile ZeroDayHunter: Resuming...
+2025-03-29 11:10:43,469 - INFO - Profile ZeroDayHunter: Switched back to original tab.
+2025-03-29 11:10:43,472 - INFO - performing random action
+2025-03-29 11:10:52,655 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/my-space-benefit.1513444/
+2025-03-29 11:10:52,658 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/my-space-benefit.1513444/' to visited threads file 'Thread_links.txt'.
+2025-03-29 11:10:52,697 - INFO - Extracted thread title: My Space Benefit !!
+2025-03-29 11:10:52,698 - DEBUG - Scrolling page 4 times.
+2025-03-29 11:10:52,698 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:10:54,617 - DEBUG - Page scrolled.
+2025-03-29 11:10:56,620 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:10:58,299 - DEBUG - Page scrolled.
+2025-03-29 11:11:00,302 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:11:01,959 - DEBUG - Page scrolled.
+2025-03-29 11:11:03,961 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:11:05,297 - DEBUG - Page scrolled.
+2025-03-29 11:11:07,299 - DEBUG - Random scrolls complete.
+2025-03-29 11:11:09,947 - DEBUG - Scrolling page 3 times.
+2025-03-29 11:11:09,949 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:11:11,132 - DEBUG - Page scrolled.
+2025-03-29 11:11:14,135 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:11:15,318 - DEBUG - Page scrolled.
+2025-03-29 11:11:18,319 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:11:20,241 - DEBUG - Page scrolled.
+2025-03-29 11:11:23,243 - DEBUG - Random scrolls complete.
+2025-03-29 11:11:23,274 - DEBUG - Found 8 like buttons.
+2025-03-29 11:11:26,275 - INFO - Attempting to like 4 posts. There are 8 available.
+2025-03-29 11:11:26,814 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-29 11:11:26,838 - INFO - Like button clicked successfully using JavaScript.
+2025-03-29 11:11:26,839 - DEBUG - Liked post number 1 of 4.
+2025-03-29 11:11:32,284 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-29 11:11:32,304 - INFO - Like button clicked successfully using JavaScript.
+2025-03-29 11:11:32,307 - DEBUG - Liked post number 2 of 4.
+2025-03-29 11:11:37,609 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-29 11:11:37,629 - INFO - Like button clicked successfully using JavaScript.
+2025-03-29 11:11:37,632 - DEBUG - Liked post number 3 of 4.
+2025-03-29 11:11:43,180 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-29 11:11:43,187 - INFO - Like button clicked successfully using JavaScript.
+2025-03-29 11:11:43,188 - DEBUG - Liked post number 4 of 4.
+2025-03-29 11:11:47,614 - INFO - Liked 4 posts successfully.
+2025-03-29 11:11:47,615 - INFO - Liked 4 posts successfully.
+2025-03-29 11:11:50,128 - INFO - Profile ZeroDayHunter: Restoring window...
+2025-03-29 11:11:52,137 - INFO - performing random action
+2025-03-29 11:11:52,140 - DEBUG - Scrolling page 7 times.
+2025-03-29 11:11:52,141 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:11:53,978 - DEBUG - Page scrolled.
+2025-03-29 11:11:56,979 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:11:58,186 - DEBUG - Page scrolled.
+2025-03-29 11:12:01,187 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:12:02,614 - DEBUG - Page scrolled.
+2025-03-29 11:12:05,615 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:12:06,661 - DEBUG - Page scrolled.
+2025-03-29 11:12:09,662 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:12:10,940 - DEBUG - Page scrolled.
+2025-03-29 11:12:13,943 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:12:15,552 - DEBUG - Page scrolled.
+2025-03-29 11:12:18,555 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:12:20,164 - DEBUG - Page scrolled.
+2025-03-29 11:12:23,166 - DEBUG - Random scrolls complete.
+2025-03-29 11:12:25,686 - DEBUG - Total comments in the thread: 8
+2025-03-29 11:13:08,072 - INFO - Post content extracted and saved to Thread-Details/Thread Content\My Space Benefit !!.txt
+2025-03-29 11:13:11,031 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-29 11:13:11,059 - DEBUG - Extracted main post content: How can I benefit from Myspace?
+2025-03-29 11:13:16,195 - INFO - Successfully generated comments using Gemini API.
+2025-03-29 11:13:16,198 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-29 11:13:18,610 - INFO - performing random action
+2025-03-29 11:13:18,612 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 11:13:18,614 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 11:13:18,645 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 11:13:18,683 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 11:13:18,689 - DEBUG - Text box scrolled into view
+2025-03-29 11:13:19,212 - DEBUG - Initializing actionchains
+2025-03-29 11:13:19,247 - DEBUG - Post reply Element location: {'x': 1231, 'y': 3230}, size: {'height': 21, 'width': 68}
+2025-03-29 11:13:19,248 - DEBUG - Target click coordinates: (1265, 3240)
+2025-03-29 11:13:29,839 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-29 11:13:29,840 - DEBUG - Moving mouse to text box element.
+2025-03-29 11:13:29,840 - DEBUG - Clicking on the text box.
+2025-03-29 11:13:29,842 - DEBUG - Sending keys with content: Honestly, for marketing in 2024? Maybe nostalgia bait if your audience is old enough, but you're probably better off focusing on platforms people actually use daily. What are you hoping to achieve?
+
+2025-03-29 11:13:35,307 - DEBUG - Clicking on post reply button.
+2025-03-29 11:13:46,415 - DEBUG - Performed Actionchains
+2025-03-29 11:13:46,416 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-29 11:13:50,417 - INFO - Comment posted successfully.
+2025-03-29 11:13:50,420 - INFO - Task Completed!!
+2025-03-29 11:14:00,498 - INFO - Navigated back to the homepage.
+2025-03-29 11:14:02,877 - INFO - Attempting to clear memory and resources.
+2025-03-29 11:14:02,904 - INFO - Garbage collection completed.
+2025-03-29 11:14:02,904 - INFO - Waiting for 1850 seconds before next execution.

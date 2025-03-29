@@ -1,0 +1,121 @@
+2025-03-29 10:26:48,865 - INFO - Current time: 1743224208.8659046
+2025-03-29 10:26:48,868 - INFO - Token expiration time: 1743232699.7445307
+2025-03-29 10:26:48,869 - INFO - Token expiration time: 1743232699.7445307
+2025-03-29 10:26:48,870 - INFO - Profile PixelPirate99: Opening default URL: https://www.google.com
+2025-03-29 10:26:54,421 - INFO - Profile PixelPirate99: Pausing for 44.95 seconds...
+2025-03-29 10:27:39,377 - INFO - Profile PixelPirate99: Resuming...
+2025-03-29 10:27:39,388 - INFO - Profile PixelPirate99: Switched back to original tab.
+2025-03-29 10:27:39,390 - INFO - performing random action
+2025-03-29 10:27:39,393 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-29 10:27:39,396 - DEBUG - Scrolling page 3 times.
+2025-03-29 10:27:39,397 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:27:40,777 - DEBUG - Page scrolled.
+2025-03-29 10:27:42,779 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:27:43,818 - DEBUG - Page scrolled.
+2025-03-29 10:27:45,820 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:27:47,477 - DEBUG - Page scrolled.
+2025-03-29 10:27:49,480 - DEBUG - Random scrolls complete.
+2025-03-29 10:27:49,482 - DEBUG - Scrolling page 3 times.
+2025-03-29 10:27:49,483 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:27:50,892 - DEBUG - Page scrolled.
+2025-03-29 10:27:52,894 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:27:54,351 - DEBUG - Page scrolled.
+2025-03-29 10:27:56,353 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:27:57,776 - DEBUG - Page scrolled.
+2025-03-29 10:27:59,778 - DEBUG - Random scrolls complete.
+2025-03-29 10:28:09,739 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/video-production.170/
+2025-03-29 10:28:13,192 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/video-editing-software.1614526/unread
+2025-03-29 10:28:13,192 - INFO - Profile PixelPirate99: Restoring window...
+2025-03-29 10:28:15,202 - INFO - performing random action
+2025-03-29 10:28:23,551 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/video-editing-software.1614526/unread
+2025-03-29 10:28:23,559 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/video-editing-software.1614526/unread' to visited threads file 'Thread_links.txt'.
+2025-03-29 10:28:23,674 - INFO - Extracted thread title: Video editing software
+2025-03-29 10:28:23,676 - DEBUG - Scrolling page 4 times.
+2025-03-29 10:28:23,677 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:28:24,781 - DEBUG - Page scrolled.
+2025-03-29 10:28:26,784 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:28:28,307 - DEBUG - Page scrolled.
+2025-03-29 10:28:30,308 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:28:31,870 - DEBUG - Page scrolled.
+2025-03-29 10:28:33,874 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:28:35,196 - DEBUG - Page scrolled.
+2025-03-29 10:28:37,197 - DEBUG - Random scrolls complete.
+2025-03-29 10:28:39,844 - DEBUG - Scrolling page 2 times.
+2025-03-29 10:28:39,846 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:28:41,344 - DEBUG - Page scrolled.
+2025-03-29 10:28:44,345 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:28:45,657 - DEBUG - Page scrolled.
+2025-03-29 10:28:48,660 - DEBUG - Random scrolls complete.
+2025-03-29 10:28:48,717 - DEBUG - Found 20 like buttons.
+2025-03-29 10:28:51,720 - INFO - Attempting to like 2 posts. There are 20 available.
+2025-03-29 10:28:52,594 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-29 10:28:52,632 - INFO - Like button clicked successfully using JavaScript.
+2025-03-29 10:28:52,634 - DEBUG - Liked post number 1 of 2.
+2025-03-29 10:28:57,308 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-29 10:28:57,331 - INFO - Like button clicked successfully using JavaScript.
+2025-03-29 10:28:57,333 - DEBUG - Liked post number 2 of 2.
+2025-03-29 10:29:01,915 - INFO - Liked 2 posts successfully.
+2025-03-29 10:29:01,917 - INFO - Liked 2 posts successfully.
+2025-03-29 10:29:04,334 - INFO - Profile PixelPirate99: Restoring window...
+2025-03-29 10:29:06,349 - INFO - performing random action
+2025-03-29 10:29:06,352 - DEBUG - Scrolling page 7 times.
+2025-03-29 10:29:06,354 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:29:08,119 - DEBUG - Page scrolled.
+2025-03-29 10:29:11,121 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:29:13,015 - DEBUG - Page scrolled.
+2025-03-29 10:29:16,018 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:29:17,184 - DEBUG - Page scrolled.
+2025-03-29 10:29:20,186 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:29:21,653 - DEBUG - Page scrolled.
+2025-03-29 10:29:24,655 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:29:25,976 - DEBUG - Page scrolled.
+2025-03-29 10:29:28,977 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:29:30,688 - DEBUG - Page scrolled.
+2025-03-29 10:29:33,690 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:29:35,637 - DEBUG - Page scrolled.
+2025-03-29 10:29:38,638 - DEBUG - Random scrolls complete.
+2025-03-29 10:29:40,826 - DEBUG - Total comments in the thread: 20
+2025-03-29 10:31:26,959 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Video editing software.txt
+2025-03-29 10:31:28,967 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-29 10:31:29,008 - DEBUG - Extracted main post content: Hi guys .
+
+I would like to start social media content creation and this involves editing videos and posting online for monetisation .
+
+
+I would like to know the video editing software that will be best fit for my need and the best phone app / computer software to learn.
+
+
+This will be YouTube, Instagram and Facebook videos .
+
+Basically shooting videos and editing
+
+
+Thanks
+2025-03-29 10:31:32,726 - INFO - Successfully generated comments using Gemini API.
+2025-03-29 10:31:32,729 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-29 10:31:35,622 - INFO - Profile PixelPirate99: Minimizing window...
+2025-03-29 10:31:35,631 - INFO - Profile PixelPirate99: Window minimized. Pausing for 24.52 seconds...
+2025-03-29 10:32:00,151 - INFO - Profile PixelPirate99: Resuming after minimize...
+2025-03-29 10:32:00,154 - INFO - performing random action
+2025-03-29 10:32:00,156 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 10:32:00,158 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 10:32:00,198 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 10:32:00,244 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 10:32:00,253 - DEBUG - Text box scrolled into view
+2025-03-29 10:32:00,969 - DEBUG - Initializing actionchains
+2025-03-29 10:32:01,017 - DEBUG - Post reply Element location: {'x': 1231, 'y': 6461}, size: {'height': 21, 'width': 68}
+2025-03-29 10:32:01,018 - DEBUG - Target click coordinates: (1265, 6471)
+2025-03-29 10:32:17,046 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-29 10:32:17,048 - DEBUG - Moving mouse to text box element.
+2025-03-29 10:32:17,049 - DEBUG - Clicking on the text box.
+2025-03-29 10:32:17,051 - DEBUG - Sending keys with content: HitFilm Express is free and surprisingly powerful for starting out, plus YouTube's got tons of tutorials to get you rolling.
+
+2025-03-29 10:32:23,023 - DEBUG - Clicking on post reply button.
+2025-03-29 10:32:33,967 - DEBUG - Performed Actionchains
+2025-03-29 10:32:33,967 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-29 10:32:37,969 - INFO - Comment posted successfully.
+2025-03-29 10:32:37,972 - INFO - Task Completed!!
+2025-03-29 10:32:41,739 - INFO - Navigated back to the homepage.
+2025-03-29 10:32:44,105 - INFO - Attempting to clear memory and resources.
+2025-03-29 10:32:44,137 - INFO - Garbage collection completed.
+2025-03-29 10:32:44,138 - INFO - Waiting for 1850 seconds before next execution.

@@ -1,0 +1,109 @@
+2025-03-29 11:03:34,141 - INFO - Current time: 1743226414.1417522
+2025-03-29 11:03:34,144 - INFO - Token expiration time: 1743232699.7445307
+2025-03-29 11:03:34,147 - INFO - Token expiration time: 1743232699.7445307
+2025-03-29 11:03:34,149 - INFO - Profile PixelPirate99: Opening default URL: https://www.google.com
+2025-03-29 11:03:40,628 - INFO - Profile PixelPirate99: Pausing for 47.11 seconds...
+2025-03-29 11:04:27,736 - INFO - Profile PixelPirate99: Resuming...
+2025-03-29 11:04:27,747 - INFO - Profile PixelPirate99: Switched back to original tab.
+2025-03-29 11:04:27,749 - INFO - performing random action
+2025-03-29 11:04:27,752 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-29 11:04:27,755 - DEBUG - Scrolling page 4 times.
+2025-03-29 11:04:27,756 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:04:29,566 - DEBUG - Page scrolled.
+2025-03-29 11:04:31,567 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:04:32,788 - DEBUG - Page scrolled.
+2025-03-29 11:04:34,791 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:04:36,029 - DEBUG - Page scrolled.
+2025-03-29 11:04:38,031 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:04:39,268 - DEBUG - Page scrolled.
+2025-03-29 11:04:41,270 - DEBUG - Random scrolls complete.
+2025-03-29 11:04:41,272 - DEBUG - Scrolling page 2 times.
+2025-03-29 11:04:41,274 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:04:42,330 - DEBUG - Page scrolled.
+2025-03-29 11:04:44,333 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:04:46,321 - DEBUG - Page scrolled.
+2025-03-29 11:04:48,324 - DEBUG - Random scrolls complete.
+2025-03-29 11:04:55,954 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/cpa.50/
+2025-03-29 11:04:59,501 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/look-at-my-earnings-at-adbluemedia-complete-disaster.1653866/unread
+2025-03-29 11:04:59,502 - INFO - Profile PixelPirate99: Pausing for 44.30 seconds...
+2025-03-29 11:05:43,806 - INFO - Profile PixelPirate99: Resuming...
+2025-03-29 11:05:43,809 - INFO - performing random action
+2025-03-29 11:05:57,481 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/look-at-my-earnings-at-adbluemedia-complete-disaster.1653866/unread
+2025-03-29 11:05:57,485 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/look-at-my-earnings-at-adbluemedia-complete-disaster.1653866/unread' to visited threads file 'Thread_links.txt'.
+2025-03-29 11:05:57,537 - INFO - Extracted thread title: Look at My Earnings at Adbluemedia ) Complete Disaster
+2025-03-29 11:05:57,538 - DEBUG - Scrolling page 4 times.
+2025-03-29 11:05:57,538 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:05:58,591 - DEBUG - Page scrolled.
+2025-03-29 11:06:00,594 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:06:01,930 - DEBUG - Page scrolled.
+2025-03-29 11:06:03,933 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:06:05,636 - DEBUG - Page scrolled.
+2025-03-29 11:06:07,638 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:06:08,679 - DEBUG - Page scrolled.
+2025-03-29 11:06:10,681 - DEBUG - Random scrolls complete.
+2025-03-29 11:06:12,956 - DEBUG - Scrolling page 1 times.
+2025-03-29 11:06:12,958 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:06:13,980 - DEBUG - Page scrolled.
+2025-03-29 11:06:16,983 - DEBUG - Random scrolls complete.
+2025-03-29 11:06:17,013 - DEBUG - Found 20 like buttons.
+2025-03-29 11:06:20,014 - INFO - Attempting to like 3 posts. There are 20 available.
+2025-03-29 11:06:20,638 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-29 11:06:20,667 - INFO - Like button clicked successfully using JavaScript.
+2025-03-29 11:06:20,669 - DEBUG - Liked post number 1 of 3.
+2025-03-29 11:06:25,420 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-29 11:06:25,425 - INFO - Like button clicked successfully using JavaScript.
+2025-03-29 11:06:25,425 - DEBUG - Liked post number 2 of 3.
+2025-03-29 11:06:31,000 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-29 11:06:31,009 - INFO - Like button clicked successfully using JavaScript.
+2025-03-29 11:06:31,009 - DEBUG - Liked post number 3 of 3.
+2025-03-29 11:06:35,610 - INFO - Liked 3 posts successfully.
+2025-03-29 11:06:35,613 - INFO - Liked 3 posts successfully.
+2025-03-29 11:06:37,650 - INFO - Profile PixelPirate99: Minimizing window...
+2025-03-29 11:06:37,672 - INFO - Profile PixelPirate99: Window minimized. Pausing for 18.81 seconds...
+2025-03-29 11:06:56,484 - INFO - Profile PixelPirate99: Resuming after minimize...
+2025-03-29 11:06:56,487 - INFO - performing random action
+2025-03-29 11:06:56,489 - DEBUG - Scrolling page 7 times.
+2025-03-29 11:06:56,491 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:06:57,566 - DEBUG - Page scrolled.
+2025-03-29 11:07:00,569 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:07:01,863 - DEBUG - Page scrolled.
+2025-03-29 11:07:04,865 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:07:06,626 - DEBUG - Page scrolled.
+2025-03-29 11:07:09,627 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:07:10,925 - DEBUG - Page scrolled.
+2025-03-29 11:07:13,926 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:07:15,177 - DEBUG - Page scrolled.
+2025-03-29 11:07:18,179 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:07:19,831 - DEBUG - Page scrolled.
+2025-03-29 11:07:22,834 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:07:24,390 - DEBUG - Page scrolled.
+2025-03-29 11:07:27,393 - DEBUG - Random scrolls complete.
+2025-03-29 11:07:29,892 - DEBUG - Total comments in the thread: 20
+2025-03-29 11:09:46,836 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Look at My Earnings at Adbluemedia ) Complete Disaster.txt
+2025-03-29 11:09:48,944 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-29 11:09:48,998 - DEBUG - Extracted main post content: Guys, what do you think? Are the advertisers stealing my earnings, or is it Adbluemedia?
+2025-03-29 11:09:53,792 - INFO - Successfully generated comments using Gemini API.
+2025-03-29 11:09:53,794 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-29 11:09:56,372 - INFO - performing random action
+2025-03-29 11:09:56,374 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 11:09:56,376 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 11:09:56,411 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 11:09:56,452 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 11:09:56,459 - DEBUG - Text box scrolled into view
+2025-03-29 11:09:57,234 - DEBUG - Initializing actionchains
+2025-03-29 11:09:57,295 - DEBUG - Post reply Element location: {'x': 1231, 'y': 7422}, size: {'height': 21, 'width': 68}
+2025-03-29 11:09:57,296 - DEBUG - Target click coordinates: (1265, 7432)
+2025-03-29 11:10:15,368 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-29 11:10:15,369 - DEBUG - Moving mouse to text box element.
+2025-03-29 11:10:15,369 - DEBUG - Clicking on the text box.
+2025-03-29 11:10:15,370 - DEBUG - Sending keys with content: Could be either, honestly. Have you checked your click-through rate lately? A sudden drop might point to something fishy.
+
+2025-03-29 11:10:20,943 - DEBUG - Clicking on post reply button.
+2025-03-29 11:10:31,884 - DEBUG - Performed Actionchains
+2025-03-29 11:10:31,885 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-29 11:10:35,886 - INFO - Comment posted successfully.
+2025-03-29 11:10:35,889 - INFO - Task Completed!!
+2025-03-29 11:10:44,420 - INFO - Navigated back to the homepage.
+2025-03-29 11:10:46,792 - INFO - Attempting to clear memory and resources.
+2025-03-29 11:10:46,881 - INFO - Garbage collection completed.
+2025-03-29 11:10:46,883 - INFO - Waiting for 1850 seconds before next execution.

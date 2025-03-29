@@ -1,0 +1,96 @@
+2025-03-29 12:19:25,430 - INFO - Current time: 1743230965.4301844
+2025-03-29 12:19:25,433 - INFO - Token expiration time: 1743232867.4742439
+2025-03-29 12:19:25,435 - INFO - Token expiration time: 1743232867.4742439
+2025-03-29 12:19:25,440 - INFO - performing random action
+2025-03-29 12:19:25,443 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-29 12:19:25,446 - DEBUG - Scrolling page 2 times.
+2025-03-29 12:19:25,448 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:19:26,778 - DEBUG - Page scrolled.
+2025-03-29 12:19:28,780 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:19:30,269 - DEBUG - Page scrolled.
+2025-03-29 12:19:32,276 - DEBUG - Random scrolls complete.
+2025-03-29 12:19:32,281 - DEBUG - Scrolling page 4 times.
+2025-03-29 12:19:32,285 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:19:33,413 - DEBUG - Page scrolled.
+2025-03-29 12:19:35,415 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:19:36,997 - DEBUG - Page scrolled.
+2025-03-29 12:19:39,000 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:19:40,594 - DEBUG - Page scrolled.
+2025-03-29 12:19:42,596 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:19:44,377 - DEBUG - Page scrolled.
+2025-03-29 12:19:46,381 - DEBUG - Random scrolls complete.
+2025-03-29 12:19:54,930 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/black-hat-seo.28/
+2025-03-29 12:19:59,420 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/the-broke-mans-guide-to-2k-month-affiliate-keywords-no-paid-tools.1700045/unread
+2025-03-29 12:19:59,422 - INFO - performing random action
+2025-03-29 12:20:10,723 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/the-broke-mans-guide-to-2k-month-affiliate-keywords-no-paid-tools.1700045/unread
+2025-03-29 12:20:10,728 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/the-broke-mans-guide-to-2k-month-affiliate-keywords-no-paid-tools.1700045/unread' to visited threads file 'Thread_links.txt'.
+2025-03-29 12:20:10,834 - INFO - Extracted thread title: The Broke Man’s Guide to $2kMonth Affiliate Keywords (No Paid Tools)
+2025-03-29 12:20:10,836 - DEBUG - Scrolling page 3 times.
+2025-03-29 12:20:10,837 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:20:12,063 - DEBUG - Page scrolled.
+2025-03-29 12:20:14,065 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:20:15,174 - DEBUG - Page scrolled.
+2025-03-29 12:20:17,177 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:20:18,770 - DEBUG - Page scrolled.
+2025-03-29 12:20:20,772 - DEBUG - Random scrolls complete.
+2025-03-29 12:20:23,486 - DEBUG - Scrolling page 3 times.
+2025-03-29 12:20:23,488 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:20:25,132 - DEBUG - Page scrolled.
+2025-03-29 12:20:28,134 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:20:29,696 - DEBUG - Page scrolled.
+2025-03-29 12:20:32,705 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:20:34,291 - DEBUG - Page scrolled.
+2025-03-29 12:20:37,295 - DEBUG - Random scrolls complete.
+2025-03-29 12:20:37,350 - DEBUG - Found 17 like buttons.
+2025-03-29 12:20:40,353 - INFO - Attempting to like 2 posts. There are 17 available.
+2025-03-29 12:20:41,293 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-29 12:20:41,323 - INFO - Like button clicked successfully using JavaScript.
+2025-03-29 12:20:41,324 - DEBUG - Liked post number 1 of 2.
+2025-03-29 12:20:47,294 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-29 12:20:47,318 - INFO - Like button clicked successfully using JavaScript.
+2025-03-29 12:20:47,320 - DEBUG - Liked post number 2 of 2.
+2025-03-29 12:20:51,540 - INFO - Liked 2 posts successfully.
+2025-03-29 12:20:51,543 - INFO - Liked 2 posts successfully.
+2025-03-29 12:20:53,822 - INFO - performing random action
+2025-03-29 12:20:53,824 - DEBUG - Scrolling page 4 times.
+2025-03-29 12:20:53,825 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:20:54,911 - DEBUG - Page scrolled.
+2025-03-29 12:20:57,916 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:20:59,644 - DEBUG - Page scrolled.
+2025-03-29 12:21:02,648 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:21:03,773 - DEBUG - Page scrolled.
+2025-03-29 12:21:06,775 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:21:08,072 - DEBUG - Page scrolled.
+2025-03-29 12:21:11,074 - DEBUG - Random scrolls complete.
+2025-03-29 12:21:13,877 - DEBUG - Total comments in the thread: 17
+2025-03-29 12:22:37,610 - INFO - Post content extracted and saved to Thread-Details/Thread Content\The Broke Man’s Guide to $2kMonth Affiliate Keywords (No Paid Tools).txt
+2025-03-29 12:22:40,351 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-29 12:22:44,447 - INFO - Successfully generated comments using Gemini API.
+2025-03-29 12:22:44,450 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-29 12:22:47,316 - INFO - Profile PhantomRoot: Opening default URL: https://www.google.com
+2025-03-29 12:22:55,491 - INFO - Profile PhantomRoot: Pausing for 34.80 seconds...
+2025-03-29 12:23:30,297 - INFO - Profile PhantomRoot: Resuming...
+2025-03-29 12:23:30,323 - INFO - Profile PhantomRoot: Switched back to original tab.
+2025-03-29 12:23:30,324 - INFO - performing random action
+2025-03-29 12:23:30,325 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 12:23:30,326 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 12:23:30,382 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 12:23:30,429 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 12:23:30,445 - DEBUG - Text box scrolled into view
+2025-03-29 12:23:30,983 - DEBUG - Initializing actionchains
+2025-03-29 12:23:31,001 - DEBUG - Post reply Element location: {'x': 1231, 'y': 11368}, size: {'height': 21, 'width': 68}
+2025-03-29 12:23:31,002 - DEBUG - Target click coordinates: (1265, 11378)
+2025-03-29 12:23:58,911 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-29 12:23:58,914 - DEBUG - Moving mouse to text box element.
+2025-03-29 12:23:58,916 - DEBUG - Clicking on the text box.
+2025-03-29 12:23:58,922 - DEBUG - Sending keys with content: Forget the paid tools. I've had luck finding untapped keywords by lurking in hyper-specific subreddits and youtube comment sections. People get super detailed when asking for help.
+
+2025-03-29 12:24:04,460 - DEBUG - Clicking on post reply button.
+2025-03-29 12:24:15,517 - DEBUG - Performed Actionchains
+2025-03-29 12:24:15,518 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-29 12:24:19,520 - INFO - Comment posted successfully.
+2025-03-29 12:24:19,522 - INFO - Task Completed!!
+2025-03-29 12:24:26,855 - INFO - Navigated back to the homepage.
+2025-03-29 12:24:28,979 - INFO - Attempting to clear memory and resources.
+2025-03-29 12:24:29,002 - INFO - Garbage collection completed.
+2025-03-29 12:24:29,003 - INFO - Waiting for 1850 seconds before next execution.

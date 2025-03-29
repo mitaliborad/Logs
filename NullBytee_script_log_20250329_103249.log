@@ -1,0 +1,100 @@
+2025-03-29 10:32:49,938 - INFO - Current time: 1743224569.9380538
+2025-03-29 10:32:49,939 - INFO - Token expiration time: 1743233134.824351
+2025-03-29 10:32:49,940 - INFO - Token expiration time: 1743233134.824351
+2025-03-29 10:32:49,941 - INFO - performing random action
+2025-03-29 10:32:49,941 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-29 10:32:49,942 - DEBUG - Scrolling page 2 times.
+2025-03-29 10:32:49,942 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:32:51,816 - DEBUG - Page scrolled.
+2025-03-29 10:32:53,818 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:32:55,560 - DEBUG - Page scrolled.
+2025-03-29 10:32:57,562 - DEBUG - Random scrolls complete.
+2025-03-29 10:32:57,565 - DEBUG - Scrolling page 3 times.
+2025-03-29 10:32:57,567 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:32:59,093 - DEBUG - Page scrolled.
+2025-03-29 10:33:01,095 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:33:02,839 - DEBUG - Page scrolled.
+2025-03-29 10:33:04,841 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:33:05,894 - DEBUG - Page scrolled.
+2025-03-29 10:33:07,896 - DEBUG - Random scrolls complete.
+2025-03-29 10:33:49,321 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/weibo.216/
+2025-03-29 10:33:53,215 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/weibo-account.1614968/unread
+2025-03-29 10:33:53,216 - INFO - performing random action
+2025-03-29 10:34:03,355 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/weibo-account.1614968/unread
+2025-03-29 10:34:03,356 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/weibo-account.1614968/unread' to visited threads file 'Thread_links.txt'.
+2025-03-29 10:34:03,382 - INFO - Extracted thread title: weibo account
+2025-03-29 10:34:03,383 - DEBUG - Scrolling page 3 times.
+2025-03-29 10:34:03,383 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:34:04,420 - DEBUG - Page scrolled.
+2025-03-29 10:34:06,422 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:34:08,322 - DEBUG - Page scrolled.
+2025-03-29 10:34:10,325 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:34:12,048 - DEBUG - Page scrolled.
+2025-03-29 10:34:14,049 - DEBUG - Random scrolls complete.
+2025-03-29 10:34:16,337 - DEBUG - Scrolling page 3 times.
+2025-03-29 10:34:16,338 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:34:18,011 - DEBUG - Page scrolled.
+2025-03-29 10:34:21,013 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:34:22,834 - DEBUG - Page scrolled.
+2025-03-29 10:34:25,836 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:34:27,790 - DEBUG - Page scrolled.
+2025-03-29 10:34:30,792 - DEBUG - Random scrolls complete.
+2025-03-29 10:34:30,831 - DEBUG - Found 10 like buttons.
+2025-03-29 10:34:33,832 - INFO - Attempting to like 4 posts. There are 10 available.
+2025-03-29 10:34:34,402 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-29 10:34:34,435 - INFO - Like button clicked successfully using JavaScript.
+2025-03-29 10:34:34,436 - DEBUG - Liked post number 1 of 4.
+2025-03-29 10:34:39,165 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-29 10:34:39,183 - INFO - Like button clicked successfully using JavaScript.
+2025-03-29 10:34:39,185 - DEBUG - Liked post number 2 of 4.
+2025-03-29 10:34:43,920 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-29 10:34:43,930 - INFO - Like button clicked successfully using JavaScript.
+2025-03-29 10:34:43,931 - DEBUG - Liked post number 3 of 4.
+2025-03-29 10:34:49,055 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-29 10:34:49,068 - INFO - Like button clicked successfully using JavaScript.
+2025-03-29 10:34:49,069 - DEBUG - Liked post number 4 of 4.
+2025-03-29 10:34:53,945 - INFO - Liked 4 posts successfully.
+2025-03-29 10:34:53,947 - INFO - Liked 4 posts successfully.
+2025-03-29 10:34:56,480 - INFO - performing random action
+2025-03-29 10:34:56,482 - DEBUG - Scrolling page 4 times.
+2025-03-29 10:34:56,483 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:34:58,277 - DEBUG - Page scrolled.
+2025-03-29 10:35:01,279 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:35:02,365 - DEBUG - Page scrolled.
+2025-03-29 10:35:05,368 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:35:07,251 - DEBUG - Page scrolled.
+2025-03-29 10:35:10,253 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:35:11,629 - DEBUG - Page scrolled.
+2025-03-29 10:35:14,631 - DEBUG - Random scrolls complete.
+2025-03-29 10:35:17,180 - DEBUG - Total comments in the thread: 10
+2025-03-29 10:36:20,199 - INFO - Post content extracted and saved to Thread-Details/Thread Content\weibo account.txt
+2025-03-29 10:36:22,614 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-29 10:36:22,638 - DEBUG - Extracted main post content: tIs weibo account linked to wechat? I want to create a Weibo account, must I have a Chinese phone number?
+2025-03-29 10:36:28,254 - INFO - Successfully generated comments using Gemini API.
+2025-03-29 10:36:28,258 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-29 10:36:30,704 - INFO - Profile NullBytee: Minimizing window...
+2025-03-29 10:36:30,709 - INFO - Profile NullBytee: Window minimized. Pausing for 23.28 seconds...
+2025-03-29 10:36:53,991 - INFO - Profile NullBytee: Resuming after minimize...
+2025-03-29 10:36:53,992 - INFO - performing random action
+2025-03-29 10:36:53,993 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 10:36:53,994 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 10:36:54,005 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 10:36:54,040 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 10:36:54,046 - DEBUG - Text box scrolled into view
+2025-03-29 10:36:54,817 - DEBUG - Initializing actionchains
+2025-03-29 10:36:54,849 - DEBUG - Post reply Element location: {'x': 1231, 'y': 3527}, size: {'height': 21, 'width': 68}
+2025-03-29 10:36:54,849 - DEBUG - Target click coordinates: (1265, 3537)
+2025-03-29 10:37:06,858 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-29 10:37:06,859 - DEBUG - Moving mouse to text box element.
+2025-03-29 10:37:06,859 - DEBUG - Clicking on the text box.
+2025-03-29 10:37:06,860 - DEBUG - Sending keys with content: Nah, they're separate, but yeah, you'll need a Chinese number to sign up for Weibo, no way around it.
+
+2025-03-29 10:37:12,271 - DEBUG - Clicking on post reply button.
+2025-03-29 10:37:22,937 - DEBUG - Performed Actionchains
+2025-03-29 10:37:22,939 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-29 10:37:26,942 - INFO - Comment posted successfully.
+2025-03-29 10:37:26,943 - INFO - Task Completed!!
+2025-03-29 10:38:01,673 - INFO - Navigated back to the homepage.
+2025-03-29 10:38:04,075 - INFO - Attempting to clear memory and resources.
+2025-03-29 10:38:04,103 - INFO - Garbage collection completed.
+2025-03-29 10:38:04,104 - INFO - Waiting for 1850 seconds before next execution.

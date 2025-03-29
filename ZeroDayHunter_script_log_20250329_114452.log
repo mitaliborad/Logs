@@ -1,0 +1,93 @@
+2025-03-29 11:44:52,908 - INFO - Current time: 1743228892.9079502
+2025-03-29 11:44:52,910 - INFO - Token expiration time: 1743233264.7923295
+2025-03-29 11:44:52,913 - INFO - Token expiration time: 1743233264.7923295
+2025-03-29 11:44:52,915 - INFO - performing random action
+2025-03-29 11:44:52,918 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-29 11:44:52,920 - DEBUG - Scrolling page 2 times.
+2025-03-29 11:44:52,922 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:44:54,317 - DEBUG - Page scrolled.
+2025-03-29 11:44:56,320 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:44:57,656 - DEBUG - Page scrolled.
+2025-03-29 11:44:59,657 - DEBUG - Random scrolls complete.
+2025-03-29 11:44:59,659 - DEBUG - Scrolling page 3 times.
+2025-03-29 11:44:59,660 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:45:00,737 - DEBUG - Page scrolled.
+2025-03-29 11:45:02,739 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:45:04,705 - DEBUG - Page scrolled.
+2025-03-29 11:45:06,707 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:45:08,510 - DEBUG - Page scrolled.
+2025-03-29 11:45:10,512 - DEBUG - Random scrolls complete.
+2025-03-29 11:45:19,568 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/cloaking-and-content-generators.2/
+2025-03-29 11:45:23,190 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/cloaking.1699389/unread
+2025-03-29 11:45:23,190 - INFO - performing random action
+2025-03-29 11:45:33,126 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/cloaking.1699389/unread
+2025-03-29 11:45:33,128 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/cloaking.1699389/unread' to visited threads file 'Thread_links.txt'.
+2025-03-29 11:45:33,154 - INFO - Extracted thread title: Cloaking
+2025-03-29 11:45:33,154 - DEBUG - Scrolling page 4 times.
+2025-03-29 11:45:33,155 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:45:34,274 - DEBUG - Page scrolled.
+2025-03-29 11:45:36,276 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:45:37,321 - DEBUG - Page scrolled.
+2025-03-29 11:45:39,324 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:45:40,636 - DEBUG - Page scrolled.
+2025-03-29 11:45:42,638 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:45:44,615 - DEBUG - Page scrolled.
+2025-03-29 11:45:46,617 - DEBUG - Random scrolls complete.
+2025-03-29 11:45:49,075 - DEBUG - Scrolling page 1 times.
+2025-03-29 11:45:49,076 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:45:50,245 - DEBUG - Page scrolled.
+2025-03-29 11:45:53,247 - DEBUG - Random scrolls complete.
+2025-03-29 11:45:53,276 - DEBUG - Found 3 like buttons.
+2025-03-29 11:45:56,278 - INFO - Attempting to like 1 posts. There are 3 available.
+2025-03-29 11:45:56,879 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-29 11:45:56,887 - INFO - Like button clicked successfully using JavaScript.
+2025-03-29 11:45:56,888 - DEBUG - Liked post number 1 of 1.
+2025-03-29 11:46:01,135 - INFO - Liked 1 posts successfully.
+2025-03-29 11:46:01,138 - INFO - Liked 1 posts successfully.
+2025-03-29 11:46:04,124 - INFO - performing random action
+2025-03-29 11:46:04,126 - DEBUG - Scrolling page 6 times.
+2025-03-29 11:46:04,128 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:46:05,928 - DEBUG - Page scrolled.
+2025-03-29 11:46:08,930 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:46:10,641 - DEBUG - Page scrolled.
+2025-03-29 11:46:13,643 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:46:15,613 - DEBUG - Page scrolled.
+2025-03-29 11:46:18,615 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:46:20,514 - DEBUG - Page scrolled.
+2025-03-29 11:46:23,517 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:46:25,206 - DEBUG - Page scrolled.
+2025-03-29 11:46:28,209 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:46:29,403 - DEBUG - Page scrolled.
+2025-03-29 11:46:32,404 - DEBUG - Random scrolls complete.
+2025-03-29 11:46:34,528 - DEBUG - Total comments in the thread: 3
+2025-03-29 11:46:45,223 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Cloaking.txt
+2025-03-29 11:46:47,491 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-29 11:46:47,530 - DEBUG - Extracted main post content: I want to learn more about making Cloaking
+2025-03-29 11:46:52,269 - INFO - Successfully generated comments using Gemini API.
+2025-03-29 11:46:52,272 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-29 11:46:54,665 - INFO - Profile ZeroDayHunter: Minimizing window...
+2025-03-29 11:46:54,672 - INFO - Profile ZeroDayHunter: Window minimized. Pausing for 24.76 seconds...
+2025-03-29 11:47:19,437 - INFO - Profile ZeroDayHunter: Resuming after minimize...
+2025-03-29 11:47:19,440 - INFO - performing random action
+2025-03-29 11:47:19,442 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 11:47:19,444 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 11:47:19,472 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 11:47:19,515 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 11:47:19,521 - DEBUG - Text box scrolled into view
+2025-03-29 11:47:20,323 - DEBUG - Initializing actionchains
+2025-03-29 11:47:20,366 - DEBUG - Post reply Element location: {'x': 1231, 'y': 1906}, size: {'height': 21, 'width': 68}
+2025-03-29 11:47:20,366 - DEBUG - Target click coordinates: (1265, 1916)
+2025-03-29 11:47:27,417 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-29 11:47:27,418 - DEBUG - Moving mouse to text box element.
+2025-03-29 11:47:27,418 - DEBUG - Clicking on the text box.
+2025-03-29 11:47:27,419 - DEBUG - Sending keys with content: Cloaking can be a slippery slope; make sure you're crystal clear on the TOS of whatever platform you're using, or it could all come crashing down.
+
+2025-03-29 11:47:33,065 - DEBUG - Clicking on post reply button.
+2025-03-29 11:47:43,975 - DEBUG - Performed Actionchains
+2025-03-29 11:47:43,975 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-29 11:47:47,976 - INFO - Comment posted successfully.
+2025-03-29 11:47:47,977 - INFO - Task Completed!!
+2025-03-29 11:47:55,892 - INFO - Navigated back to the homepage.
+2025-03-29 11:47:58,127 - INFO - Attempting to clear memory and resources.
+2025-03-29 11:47:58,178 - INFO - Garbage collection completed.
+2025-03-29 11:47:58,179 - INFO - Waiting for 1850 seconds before next execution.

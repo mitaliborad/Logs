@@ -1,0 +1,99 @@
+2025-03-29 11:44:36,150 - INFO - Current time: 1743228876.150726
+2025-03-29 11:44:36,153 - INFO - Token expiration time: 1743233134.824351
+2025-03-29 11:44:36,156 - INFO - Token expiration time: 1743233134.824351
+2025-03-29 11:44:36,158 - INFO - Profile NullBytee: Minimizing window...
+2025-03-29 11:44:36,166 - INFO - Profile NullBytee: Window minimized. Pausing for 18.76 seconds...
+2025-03-29 11:44:54,925 - INFO - Profile NullBytee: Resuming after minimize...
+2025-03-29 11:44:54,927 - INFO - performing random action
+2025-03-29 11:44:54,930 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-29 11:44:54,933 - DEBUG - Scrolling page 4 times.
+2025-03-29 11:44:54,935 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:44:56,951 - DEBUG - Page scrolled.
+2025-03-29 11:44:58,952 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:45:00,875 - DEBUG - Page scrolled.
+2025-03-29 11:45:02,877 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:45:04,679 - DEBUG - Page scrolled.
+2025-03-29 11:45:06,681 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:45:08,425 - DEBUG - Page scrolled.
+2025-03-29 11:45:10,427 - DEBUG - Random scrolls complete.
+2025-03-29 11:45:10,429 - DEBUG - Scrolling page 2 times.
+2025-03-29 11:45:10,431 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:45:12,084 - DEBUG - Page scrolled.
+2025-03-29 11:45:14,086 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:45:15,183 - DEBUG - Page scrolled.
+2025-03-29 11:45:17,186 - DEBUG - Random scrolls complete.
+2025-03-29 11:45:54,815 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/general-social-chat.32/
+2025-03-29 11:45:58,372 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/google-voice-credit.1700043/unread
+2025-03-29 11:45:58,373 - INFO - Profile NullBytee: Minimizing window...
+2025-03-29 11:45:58,376 - INFO - Profile NullBytee: Window minimized. Pausing for 20.36 seconds...
+2025-03-29 11:46:18,732 - INFO - Profile NullBytee: Resuming after minimize...
+2025-03-29 11:46:18,734 - INFO - performing random action
+2025-03-29 11:46:57,389 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/google-voice-credit.1700043/unread
+2025-03-29 11:46:57,392 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/google-voice-credit.1700043/unread' to visited threads file 'Thread_links.txt'.
+2025-03-29 11:46:57,437 - INFO - Extracted thread title: Google Voice Credit
+2025-03-29 11:46:57,438 - DEBUG - Scrolling page 3 times.
+2025-03-29 11:46:57,439 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:46:58,467 - DEBUG - Page scrolled.
+2025-03-29 11:47:00,468 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:47:01,863 - DEBUG - Page scrolled.
+2025-03-29 11:47:03,865 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:47:05,579 - DEBUG - Page scrolled.
+2025-03-29 11:47:07,581 - DEBUG - Random scrolls complete.
+2025-03-29 11:47:10,342 - DEBUG - Scrolling page 3 times.
+2025-03-29 11:47:10,344 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:47:12,099 - DEBUG - Page scrolled.
+2025-03-29 11:47:15,102 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:47:16,796 - DEBUG - Page scrolled.
+2025-03-29 11:47:19,798 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:47:21,048 - DEBUG - Page scrolled.
+2025-03-29 11:47:24,050 - DEBUG - Random scrolls complete.
+2025-03-29 11:47:24,077 - DEBUG - Found 1 like buttons.
+2025-03-29 11:47:27,078 - INFO - Attempting to like 1 posts. There are 1 available.
+2025-03-29 11:47:27,643 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-29 11:47:27,665 - INFO - Like button clicked successfully using JavaScript.
+2025-03-29 11:47:27,665 - DEBUG - Liked post number 1 of 1.
+2025-03-29 11:47:32,581 - INFO - Liked 1 posts successfully.
+2025-03-29 11:47:32,582 - INFO - Liked 1 posts successfully.
+2025-03-29 11:47:35,355 - INFO - Profile NullBytee: Minimizing window...
+2025-03-29 11:47:35,362 - INFO - Profile NullBytee: Window minimized. Pausing for 21.55 seconds...
+2025-03-29 11:47:56,911 - INFO - Profile NullBytee: Resuming after minimize...
+2025-03-29 11:47:56,912 - INFO - performing random action
+2025-03-29 11:47:56,913 - DEBUG - Scrolling page 4 times.
+2025-03-29 11:47:56,913 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:47:58,864 - DEBUG - Page scrolled.
+2025-03-29 11:48:01,867 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:48:03,480 - DEBUG - Page scrolled.
+2025-03-29 11:48:06,482 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:48:07,818 - DEBUG - Page scrolled.
+2025-03-29 11:48:10,822 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:48:12,498 - DEBUG - Page scrolled.
+2025-03-29 11:48:15,500 - DEBUG - Random scrolls complete.
+2025-03-29 11:48:17,839 - DEBUG - Total comments in the thread: 1
+2025-03-29 11:48:17,945 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Google Voice Credit.txt
+2025-03-29 11:48:20,638 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-29 11:48:25,444 - INFO - Successfully generated comments using Gemini API.
+2025-03-29 11:48:25,448 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-29 11:48:27,701 - INFO - Profile NullBytee: Restoring window...
+2025-03-29 11:48:29,710 - INFO - performing random action
+2025-03-29 11:48:29,711 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 11:48:29,712 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 11:48:29,725 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 11:48:29,763 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 11:48:29,770 - DEBUG - Text box scrolled into view
+2025-03-29 11:48:30,593 - DEBUG - Initializing actionchains
+2025-03-29 11:48:30,611 - DEBUG - Post reply Element location: {'x': 1231, 'y': 1239}, size: {'height': 21, 'width': 68}
+2025-03-29 11:48:30,611 - DEBUG - Target click coordinates: (1265, 1249)
+2025-03-29 11:48:37,142 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-29 11:48:37,143 - DEBUG - Moving mouse to text box element.
+2025-03-29 11:48:37,145 - DEBUG - Clicking on the text box.
+2025-03-29 11:48:37,147 - DEBUG - Sending keys with content: Dude, be careful posting that kinda stuff here. You might get scammed.
+
+2025-03-29 11:48:42,239 - DEBUG - Clicking on post reply button.
+2025-03-29 11:48:52,866 - DEBUG - Performed Actionchains
+2025-03-29 11:48:52,867 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-29 11:48:56,869 - INFO - Comment posted successfully.
+2025-03-29 11:48:56,871 - INFO - Task Completed!!
+2025-03-29 11:49:28,942 - INFO - Navigated back to the homepage.
+2025-03-29 11:49:31,040 - INFO - Attempting to clear memory and resources.
+2025-03-29 11:49:31,068 - INFO - Garbage collection completed.
+2025-03-29 11:49:31,069 - INFO - Waiting for 1850 seconds before next execution.

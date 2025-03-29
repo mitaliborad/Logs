@@ -1,0 +1,98 @@
+2025-03-29 10:30:27,298 - INFO - Current time: 1743224427.297958
+2025-03-29 10:30:27,300 - INFO - Token expiration time: 1743232867.4742439
+2025-03-29 10:30:27,302 - INFO - Token expiration time: 1743232867.4742439
+2025-03-29 10:30:27,305 - INFO - Profile PhantomRoot: Restoring window...
+2025-03-29 10:30:29,312 - INFO - performing random action
+2025-03-29 10:30:29,315 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-29 10:30:29,317 - DEBUG - Scrolling page 4 times.
+2025-03-29 10:30:29,318 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:30:30,556 - DEBUG - Page scrolled.
+2025-03-29 10:30:32,559 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:30:33,700 - DEBUG - Page scrolled.
+2025-03-29 10:30:35,702 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:30:37,014 - DEBUG - Page scrolled.
+2025-03-29 10:30:39,016 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:30:40,862 - DEBUG - Page scrolled.
+2025-03-29 10:30:42,864 - DEBUG - Random scrolls complete.
+2025-03-29 10:30:42,866 - DEBUG - Scrolling page 2 times.
+2025-03-29 10:30:42,868 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:30:44,315 - DEBUG - Page scrolled.
+2025-03-29 10:30:46,318 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:30:48,161 - DEBUG - Page scrolled.
+2025-03-29 10:30:50,164 - DEBUG - Random scrolls complete.
+2025-03-29 10:30:59,696 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/web-hosting.94/
+2025-03-29 10:31:03,343 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/suggest-a-best-offshore-web-hosting-for-wordpress.1660635/unread
+2025-03-29 10:31:03,344 - INFO - Profile PhantomRoot: Opening default URL: https://www.google.com
+2025-03-29 10:31:10,338 - INFO - Profile PhantomRoot: Pausing for 45.48 seconds...
+2025-03-29 10:31:55,819 - INFO - Profile PhantomRoot: Resuming...
+2025-03-29 10:31:55,860 - INFO - Profile PhantomRoot: Switched back to original tab.
+2025-03-29 10:31:55,861 - INFO - performing random action
+2025-03-29 10:32:04,863 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/suggest-a-best-offshore-web-hosting-for-wordpress.1660635/unread
+2025-03-29 10:32:04,867 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/suggest-a-best-offshore-web-hosting-for-wordpress.1660635/unread' to visited threads file 'Thread_links.txt'.
+2025-03-29 10:32:04,918 - INFO - Extracted thread title: Suggest a best offshore web hosting for wordpress.
+2025-03-29 10:32:04,919 - DEBUG - Scrolling page 2 times.
+2025-03-29 10:32:04,920 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:32:06,413 - DEBUG - Page scrolled.
+2025-03-29 10:32:08,415 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:32:09,470 - DEBUG - Page scrolled.
+2025-03-29 10:32:11,472 - DEBUG - Random scrolls complete.
+2025-03-29 10:32:13,982 - DEBUG - Scrolling page 2 times.
+2025-03-29 10:32:13,984 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:32:15,373 - DEBUG - Page scrolled.
+2025-03-29 10:32:18,376 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:32:19,857 - DEBUG - Page scrolled.
+2025-03-29 10:32:22,860 - DEBUG - Random scrolls complete.
+2025-03-29 10:32:22,873 - DEBUG - Found 16 like buttons.
+2025-03-29 10:32:25,874 - INFO - Attempting to like 2 posts. There are 16 available.
+2025-03-29 10:32:26,574 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-29 10:32:26,611 - INFO - Like button clicked successfully using JavaScript.
+2025-03-29 10:32:26,613 - DEBUG - Liked post number 1 of 2.
+2025-03-29 10:32:31,691 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-29 10:32:31,712 - INFO - Like button clicked successfully using JavaScript.
+2025-03-29 10:32:31,714 - DEBUG - Liked post number 2 of 2.
+2025-03-29 10:32:35,728 - INFO - Liked 2 posts successfully.
+2025-03-29 10:32:35,731 - INFO - Liked 2 posts successfully.
+2025-03-29 10:32:38,411 - INFO - Profile PhantomRoot: Restoring window...
+2025-03-29 10:32:40,421 - INFO - performing random action
+2025-03-29 10:32:40,424 - DEBUG - Scrolling page 5 times.
+2025-03-29 10:32:40,426 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:32:42,344 - DEBUG - Page scrolled.
+2025-03-29 10:32:45,347 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:32:46,642 - DEBUG - Page scrolled.
+2025-03-29 10:32:49,645 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:32:51,449 - DEBUG - Page scrolled.
+2025-03-29 10:32:54,451 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:32:55,635 - DEBUG - Page scrolled.
+2025-03-29 10:32:58,637 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:33:00,396 - DEBUG - Page scrolled.
+2025-03-29 10:33:03,397 - DEBUG - Random scrolls complete.
+2025-03-29 10:33:06,128 - DEBUG - Total comments in the thread: 16
+2025-03-29 10:35:32,269 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Suggest a best offshore web hosting for wordpress..txt
+2025-03-29 10:35:34,858 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-29 10:35:34,910 - DEBUG - Extracted main post content: Which is best offshore web hosting for wordpress site which support high traffic and DMCA ignored.
+2025-03-29 10:35:40,067 - INFO - Successfully generated comments using Gemini API.
+2025-03-29 10:35:40,071 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-29 10:35:42,512 - INFO - Profile PhantomRoot: Restoring window...
+2025-03-29 10:35:44,516 - INFO - performing random action
+2025-03-29 10:35:44,517 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 10:35:44,518 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 10:35:44,544 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 10:35:44,593 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 10:35:44,601 - DEBUG - Text box scrolled into view
+2025-03-29 10:35:45,351 - DEBUG - Initializing actionchains
+2025-03-29 10:35:45,385 - DEBUG - Post reply Element location: {'x': 1231, 'y': 5524}, size: {'height': 21, 'width': 68}
+2025-03-29 10:35:45,385 - DEBUG - Target click coordinates: (1265, 5534)
+2025-03-29 10:36:00,440 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-29 10:36:00,441 - DEBUG - Moving mouse to text box element.
+2025-03-29 10:36:00,442 - DEBUG - Clicking on the text box.
+2025-03-29 10:36:00,443 - DEBUG - Sending keys with content: DMCA ignored hosting is a minefield, honestly. Have you considered Cloudflare to mitigate potential issues instead?
+
+2025-03-29 10:36:05,904 - DEBUG - Clicking on post reply button.
+2025-03-29 10:36:16,829 - DEBUG - Performed Actionchains
+2025-03-29 10:36:16,831 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-29 10:36:20,834 - INFO - Comment posted successfully.
+2025-03-29 10:36:20,836 - INFO - Task Completed!!
+2025-03-29 10:36:30,309 - INFO - Navigated back to the homepage.
+2025-03-29 10:36:33,067 - INFO - Attempting to clear memory and resources.
+2025-03-29 10:36:33,094 - INFO - Garbage collection completed.
+2025-03-29 10:36:33,094 - INFO - Waiting for 1850 seconds before next execution.

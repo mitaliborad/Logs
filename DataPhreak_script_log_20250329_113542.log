@@ -1,0 +1,109 @@
+2025-03-29 11:35:42,817 - INFO - Current time: 1743228342.817467
+2025-03-29 11:35:42,820 - INFO - Token expiration time: 1743232532.791173
+2025-03-29 11:35:42,822 - INFO - Token expiration time: 1743232532.791173
+2025-03-29 11:35:42,824 - INFO - Profile DataPhreak: Minimizing window...
+2025-03-29 11:35:42,846 - INFO - Profile DataPhreak: Window minimized. Pausing for 21.54 seconds...
+2025-03-29 11:36:04,383 - INFO - Profile DataPhreak: Resuming after minimize...
+2025-03-29 11:36:04,386 - INFO - performing random action
+2025-03-29 11:36:04,389 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-29 11:36:04,391 - DEBUG - Scrolling page 4 times.
+2025-03-29 11:36:04,393 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:36:06,179 - DEBUG - Page scrolled.
+2025-03-29 11:36:08,181 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:36:09,390 - DEBUG - Page scrolled.
+2025-03-29 11:36:11,392 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:36:13,242 - DEBUG - Page scrolled.
+2025-03-29 11:36:15,245 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:36:16,749 - DEBUG - Page scrolled.
+2025-03-29 11:36:18,751 - DEBUG - Random scrolls complete.
+2025-03-29 11:36:18,753 - DEBUG - Scrolling page 2 times.
+2025-03-29 11:36:18,755 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:36:20,600 - DEBUG - Page scrolled.
+2025-03-29 11:36:22,602 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:36:24,009 - DEBUG - Page scrolled.
+2025-03-29 11:36:26,012 - DEBUG - Random scrolls complete.
+2025-03-29 11:36:35,203 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/business-tax-advice.96/
+2025-03-29 11:36:38,803 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/how-to-use-paypal-as-iptvs-payment-gateway.1691371/unread
+2025-03-29 11:36:38,804 - INFO - Profile DataPhreak: Restoring window...
+2025-03-29 11:36:40,807 - INFO - performing random action
+2025-03-29 11:36:50,406 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/how-to-use-paypal-as-iptvs-payment-gateway.1691371/unread
+2025-03-29 11:36:50,409 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/how-to-use-paypal-as-iptvs-payment-gateway.1691371/unread' to visited threads file 'Thread_links.txt'.
+2025-03-29 11:36:50,452 - INFO - Extracted thread title: How to use Paypal as IPTV's payment gateway
+2025-03-29 11:36:50,453 - DEBUG - Scrolling page 3 times.
+2025-03-29 11:36:50,454 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:36:51,795 - DEBUG - Page scrolled.
+2025-03-29 11:36:53,797 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:36:55,491 - DEBUG - Page scrolled.
+2025-03-29 11:36:57,494 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:36:58,649 - DEBUG - Page scrolled.
+2025-03-29 11:37:00,650 - DEBUG - Random scrolls complete.
+2025-03-29 11:37:02,682 - DEBUG - Scrolling page 4 times.
+2025-03-29 11:37:02,684 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:37:03,823 - DEBUG - Page scrolled.
+2025-03-29 11:37:06,826 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:37:08,296 - DEBUG - Page scrolled.
+2025-03-29 11:37:11,298 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:37:12,716 - DEBUG - Page scrolled.
+2025-03-29 11:37:15,718 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:37:16,863 - DEBUG - Page scrolled.
+2025-03-29 11:37:19,866 - DEBUG - Random scrolls complete.
+2025-03-29 11:37:19,896 - DEBUG - Found 12 like buttons.
+2025-03-29 11:37:22,898 - INFO - Attempting to like 1 posts. There are 12 available.
+2025-03-29 11:37:23,647 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-29 11:37:23,671 - INFO - Like button clicked successfully using JavaScript.
+2025-03-29 11:37:23,672 - DEBUG - Liked post number 1 of 1.
+2025-03-29 11:37:27,968 - INFO - Liked 1 posts successfully.
+2025-03-29 11:37:27,970 - INFO - Liked 1 posts successfully.
+2025-03-29 11:37:30,035 - INFO - Profile DataPhreak: Minimizing window...
+2025-03-29 11:37:30,039 - INFO - Profile DataPhreak: Window minimized. Pausing for 15.77 seconds...
+2025-03-29 11:37:45,811 - INFO - Profile DataPhreak: Resuming after minimize...
+2025-03-29 11:37:45,814 - INFO - performing random action
+2025-03-29 11:37:45,816 - DEBUG - Scrolling page 6 times.
+2025-03-29 11:37:45,817 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:37:47,564 - DEBUG - Page scrolled.
+2025-03-29 11:37:50,566 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:37:51,721 - DEBUG - Page scrolled.
+2025-03-29 11:37:54,723 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:37:56,471 - DEBUG - Page scrolled.
+2025-03-29 11:37:59,473 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:38:00,494 - DEBUG - Page scrolled.
+2025-03-29 11:38:03,496 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:38:04,535 - DEBUG - Page scrolled.
+2025-03-29 11:38:07,537 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:38:08,603 - DEBUG - Page scrolled.
+2025-03-29 11:38:11,605 - DEBUG - Random scrolls complete.
+2025-03-29 11:38:14,055 - DEBUG - Total comments in the thread: 12
+2025-03-29 11:39:27,845 - INFO - Post content extracted and saved to Thread-Details/Thread Content\How to use Paypal as IPTV's payment gateway.txt
+2025-03-29 11:39:30,172 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-29 11:39:30,210 - DEBUG - Extracted main post content: Based on the long-term operations of a large number of my customers, PayPal remains the best payment solution for IPTV.
+
+IPTV payments must utilize a combination of stealth PayPal accounts and a cloaker methods. Due to PayPal's strict risk control measures, a stealth accounts will inevitably get shut down over time. Therefore, a large number of accounts are required to sustain operations.
+
+When the daily transaction volume exceeds a certain amount (e.g., over $3,000), a Paypal cloaker's rotation system becomes necessary. This requires a large number of PayPal stealth accounts, which is something most IPTV resellers find difficult to manage. It is best to delegate this task to a professional third-party.
+
+This is my experience. Do you have any good suggestion?
+2025-03-29 11:39:33,592 - INFO - Successfully generated comments using Gemini API.
+2025-03-29 11:39:33,595 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-29 11:39:36,492 - INFO - performing random action
+2025-03-29 11:39:36,495 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 11:39:36,496 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 11:39:36,513 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 11:39:36,549 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 11:39:36,556 - DEBUG - Text box scrolled into view
+2025-03-29 11:39:37,238 - DEBUG - Initializing actionchains
+2025-03-29 11:39:37,254 - DEBUG - Post reply Element location: {'x': 1231, 'y': 4647}, size: {'height': 21, 'width': 68}
+2025-03-29 11:39:37,255 - DEBUG - Target click coordinates: (1265, 4657)
+2025-03-29 11:39:51,128 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-29 11:39:51,130 - DEBUG - Moving mouse to text box element.
+2025-03-29 11:39:51,132 - DEBUG - Clicking on the text box.
+2025-03-29 11:39:51,134 - DEBUG - Sending keys with content: Interesting. Have you looked into crypto at all? Might sidestep some of those PayPal headaches.
+
+2025-03-29 11:39:56,875 - DEBUG - Clicking on post reply button.
+2025-03-29 11:40:07,705 - DEBUG - Performed Actionchains
+2025-03-29 11:40:07,706 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-29 11:40:11,707 - INFO - Comment posted successfully.
+2025-03-29 11:40:11,710 - INFO - Task Completed!!
+2025-03-29 11:40:17,877 - INFO - Navigated back to the homepage.
+2025-03-29 11:40:20,009 - INFO - Attempting to clear memory and resources.
+2025-03-29 11:40:20,039 - INFO - Garbage collection completed.
+2025-03-29 11:40:20,039 - INFO - Waiting for 1850 seconds before next execution.

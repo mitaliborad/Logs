@@ -1,0 +1,110 @@
+2025-03-29 11:08:54,698 - INFO - Current time: 1743226734.6982353
+2025-03-29 11:08:54,698 - INFO - Token expiration time: 1743232867.4742439
+2025-03-29 11:08:54,699 - INFO - Token expiration time: 1743232867.4742439
+2025-03-29 11:08:54,699 - INFO - Profile PhantomRoot: Restoring window...
+2025-03-29 11:08:56,702 - INFO - performing random action
+2025-03-29 11:08:56,703 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-29 11:08:56,705 - DEBUG - Scrolling page 2 times.
+2025-03-29 11:08:56,706 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:08:57,984 - DEBUG - Page scrolled.
+2025-03-29 11:08:59,986 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:09:01,578 - DEBUG - Page scrolled.
+2025-03-29 11:09:03,579 - DEBUG - Random scrolls complete.
+2025-03-29 11:09:03,581 - DEBUG - Scrolling page 4 times.
+2025-03-29 11:09:03,582 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:09:05,484 - DEBUG - Page scrolled.
+2025-03-29 11:09:07,486 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:09:08,586 - DEBUG - Page scrolled.
+2025-03-29 11:09:10,588 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:09:12,117 - DEBUG - Page scrolled.
+2025-03-29 11:09:14,119 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:09:15,260 - DEBUG - Page scrolled.
+2025-03-29 11:09:17,263 - DEBUG - Random scrolls complete.
+2025-03-29 11:09:25,561 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/web-design.126/
+2025-03-29 11:09:29,095 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/suggestions-for-casestudy-and-samples.1700090/unread
+2025-03-29 11:09:29,096 - INFO - Profile PhantomRoot: Opening random website: https://www.w3schools.com/
+2025-03-29 11:09:49,328 - INFO - Profile PhantomRoot: Pausing for 44.51 seconds...
+2025-03-29 11:10:33,846 - INFO - Profile PhantomRoot: Resuming...
+2025-03-29 11:10:33,870 - INFO - Profile PhantomRoot: Switched back to original tab.
+2025-03-29 11:10:33,871 - INFO - performing random action
+2025-03-29 11:10:53,015 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/suggestions-for-casestudy-and-samples.1700090/unread
+2025-03-29 11:10:53,017 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/suggestions-for-casestudy-and-samples.1700090/unread' to visited threads file 'Thread_links.txt'.
+2025-03-29 11:10:53,048 - INFO - Extracted thread title: Suggestions for casestudy and samples
+2025-03-29 11:10:53,049 - DEBUG - Scrolling page 4 times.
+2025-03-29 11:10:53,049 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:10:54,059 - DEBUG - Page scrolled.
+2025-03-29 11:10:56,061 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:10:57,838 - DEBUG - Page scrolled.
+2025-03-29 11:10:59,840 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:11:01,574 - DEBUG - Page scrolled.
+2025-03-29 11:11:03,576 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:11:05,113 - DEBUG - Page scrolled.
+2025-03-29 11:11:07,115 - DEBUG - Random scrolls complete.
+2025-03-29 11:11:09,304 - DEBUG - Scrolling page 3 times.
+2025-03-29 11:11:09,306 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:11:11,220 - DEBUG - Page scrolled.
+2025-03-29 11:11:14,222 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:11:15,789 - DEBUG - Page scrolled.
+2025-03-29 11:11:18,791 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:11:20,473 - DEBUG - Page scrolled.
+2025-03-29 11:11:23,475 - DEBUG - Random scrolls complete.
+2025-03-29 11:11:23,487 - DEBUG - Found 2 like buttons.
+2025-03-29 11:11:26,489 - INFO - Attempting to like 2 posts. There are 2 available.
+2025-03-29 11:11:27,215 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-29 11:11:27,240 - INFO - Like button clicked successfully using JavaScript.
+2025-03-29 11:11:27,241 - DEBUG - Liked post number 1 of 2.
+2025-03-29 11:11:32,846 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-29 11:11:32,864 - INFO - Like button clicked successfully using JavaScript.
+2025-03-29 11:11:32,865 - DEBUG - Liked post number 2 of 2.
+2025-03-29 11:11:36,944 - INFO - Liked 2 posts successfully.
+2025-03-29 11:11:36,945 - INFO - Liked 2 posts successfully.
+2025-03-29 11:11:39,437 - INFO - performing random action
+2025-03-29 11:11:39,439 - DEBUG - Scrolling page 6 times.
+2025-03-29 11:11:39,441 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:11:41,398 - DEBUG - Page scrolled.
+2025-03-29 11:11:44,399 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:11:46,109 - DEBUG - Page scrolled.
+2025-03-29 11:11:49,111 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:11:50,949 - DEBUG - Page scrolled.
+2025-03-29 11:11:53,951 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:11:55,645 - DEBUG - Page scrolled.
+2025-03-29 11:11:58,646 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:12:00,399 - DEBUG - Page scrolled.
+2025-03-29 11:12:03,401 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:12:05,387 - DEBUG - Page scrolled.
+2025-03-29 11:12:08,389 - DEBUG - Random scrolls complete.
+2025-03-29 11:12:10,644 - DEBUG - Total comments in the thread: 2
+2025-03-29 11:12:10,810 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Suggestions for casestudy and samples.txt
+2025-03-29 11:12:13,127 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-29 11:12:13,161 - DEBUG - Extracted main post content: Any suggestions for Suggestions for casestudy and samples. Wordpress theme would work. I looked up on codecanyon but couldnt find one
+
+Something like a clickup doc
+
+
+
+To put a document like this
+2025-03-29 11:12:17,240 - INFO - Successfully generated comments using Gemini API.
+2025-03-29 11:12:17,243 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-29 11:12:20,049 - INFO - performing random action
+2025-03-29 11:12:20,051 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 11:12:20,051 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 11:12:20,062 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 11:12:20,099 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 11:12:20,104 - DEBUG - Text box scrolled into view
+2025-03-29 11:12:20,778 - DEBUG - Initializing actionchains
+2025-03-29 11:12:20,838 - DEBUG - Post reply Element location: {'x': 1231, 'y': 2707}, size: {'height': 21, 'width': 68}
+2025-03-29 11:12:20,840 - DEBUG - Target click coordinates: (1265, 2717)
+2025-03-29 11:12:30,110 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-29 11:12:30,112 - DEBUG - Moving mouse to text box element.
+2025-03-29 11:12:30,114 - DEBUG - Clicking on the text box.
+2025-03-29 11:12:30,117 - DEBUG - Sending keys with content: Instead of a theme, have you looked into just using a page builder plugin with pre-made templates? Might give you more flexibility than shoehorning a theme.
+
+2025-03-29 11:12:35,754 - DEBUG - Clicking on post reply button.
+2025-03-29 11:12:46,461 - DEBUG - Performed Actionchains
+2025-03-29 11:12:46,463 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-29 11:12:50,466 - INFO - Comment posted successfully.
+2025-03-29 11:12:50,469 - INFO - Task Completed!!
+2025-03-29 11:13:07,627 - INFO - Navigated back to the homepage.
+2025-03-29 11:13:10,238 - INFO - Attempting to clear memory and resources.
+2025-03-29 11:13:10,267 - INFO - Garbage collection completed.
+2025-03-29 11:13:10,268 - INFO - Waiting for 1850 seconds before next execution.

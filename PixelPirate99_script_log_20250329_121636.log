@@ -1,0 +1,90 @@
+2025-03-29 12:16:36,387 - INFO - Current time: 1743230796.3870096
+2025-03-29 12:16:36,389 - INFO - Token expiration time: 1743232699.7445307
+2025-03-29 12:16:36,392 - INFO - Token expiration time: 1743232699.7445307
+2025-03-29 12:16:36,394 - INFO - Profile PixelPirate99: Pausing for 41.82 seconds...
+2025-03-29 12:17:18,213 - INFO - Profile PixelPirate99: Resuming...
+2025-03-29 12:17:18,216 - INFO - performing random action
+2025-03-29 12:17:18,220 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-29 12:17:18,222 - DEBUG - Scrolling page 2 times.
+2025-03-29 12:17:18,223 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:17:19,545 - DEBUG - Page scrolled.
+2025-03-29 12:17:21,548 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:17:22,879 - DEBUG - Page scrolled.
+2025-03-29 12:17:24,881 - DEBUG - Random scrolls complete.
+2025-03-29 12:17:24,883 - DEBUG - Scrolling page 2 times.
+2025-03-29 12:17:24,885 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:17:26,697 - DEBUG - Page scrolled.
+2025-03-29 12:17:28,698 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:17:30,379 - DEBUG - Page scrolled.
+2025-03-29 12:17:32,381 - DEBUG - Random scrolls complete.
+2025-03-29 12:17:44,740 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/white-hat-seo.30/
+2025-03-29 12:17:48,722 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/which-tool-is-best-for-content-writing.1696371/unread
+2025-03-29 12:17:48,722 - INFO - performing random action
+2025-03-29 12:18:03,568 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/which-tool-is-best-for-content-writing.1696371/unread
+2025-03-29 12:18:03,572 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/which-tool-is-best-for-content-writing.1696371/unread' to visited threads file 'Thread_links.txt'.
+2025-03-29 12:18:03,627 - INFO - Extracted thread title: Which tool is best for content writing
+2025-03-29 12:18:03,628 - DEBUG - Scrolling page 4 times.
+2025-03-29 12:18:03,628 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:18:05,486 - DEBUG - Page scrolled.
+2025-03-29 12:18:07,487 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:18:08,809 - DEBUG - Page scrolled.
+2025-03-29 12:18:10,811 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:18:11,862 - DEBUG - Page scrolled.
+2025-03-29 12:18:13,863 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:18:15,864 - DEBUG - Page scrolled.
+2025-03-29 12:18:17,866 - DEBUG - Random scrolls complete.
+2025-03-29 12:18:19,878 - DEBUG - Scrolling page 3 times.
+2025-03-29 12:18:19,880 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:18:20,924 - DEBUG - Page scrolled.
+2025-03-29 12:18:23,926 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:18:25,372 - DEBUG - Page scrolled.
+2025-03-29 12:18:28,374 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:18:29,434 - DEBUG - Page scrolled.
+2025-03-29 12:18:32,438 - DEBUG - Random scrolls complete.
+2025-03-29 12:18:32,475 - DEBUG - Found 20 like buttons.
+2025-03-29 12:18:35,476 - INFO - Attempting to like 1 posts. There are 20 available.
+2025-03-29 12:18:36,036 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-29 12:18:36,046 - INFO - Like button clicked successfully using JavaScript.
+2025-03-29 12:18:36,047 - DEBUG - Liked post number 1 of 1.
+2025-03-29 12:18:40,854 - INFO - Liked 1 posts successfully.
+2025-03-29 12:18:40,856 - INFO - Liked 1 posts successfully.
+2025-03-29 12:18:43,367 - INFO - performing random action
+2025-03-29 12:18:43,369 - DEBUG - Scrolling page 4 times.
+2025-03-29 12:18:43,371 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:18:44,737 - DEBUG - Page scrolled.
+2025-03-29 12:18:47,744 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:18:49,755 - DEBUG - Page scrolled.
+2025-03-29 12:18:52,762 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:18:54,207 - DEBUG - Page scrolled.
+2025-03-29 12:18:57,209 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:18:58,365 - DEBUG - Page scrolled.
+2025-03-29 12:19:01,368 - DEBUG - Random scrolls complete.
+2025-03-29 12:19:04,419 - DEBUG - Total comments in the thread: 20
+2025-03-29 12:21:18,497 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Which tool is best for content writing.txt
+2025-03-29 12:21:21,215 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-29 12:21:21,288 - DEBUG - Extracted main post content: Which is the best tool for content writing that provides humanized articles? I am looking for a tool that helps improve writing quality while keeping it natural and SEO-friendly. Please do not suggest AI-based tools like ChatGPT—I need something that ensures the content remains engaging and authentic for my website
+2025-03-29 12:21:24,927 - INFO - Successfully generated comments using Gemini API.
+2025-03-29 12:21:24,932 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-29 12:21:27,522 - INFO - performing random action
+2025-03-29 12:21:27,526 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 12:21:27,527 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 12:21:27,580 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 12:21:27,714 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 12:21:27,723 - DEBUG - Text box scrolled into view
+2025-03-29 12:21:28,524 - DEBUG - Initializing actionchains
+2025-03-29 12:21:28,609 - DEBUG - Post reply Element location: {'x': 1231, 'y': 6586}, size: {'height': 21, 'width': 68}
+2025-03-29 12:21:28,611 - DEBUG - Target click coordinates: (1265, 6596)
+2025-03-29 12:21:45,687 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-29 12:21:45,689 - DEBUG - Moving mouse to text box element.
+2025-03-29 12:21:45,691 - DEBUG - Clicking on the text box.
+2025-03-29 12:21:45,694 - DEBUG - Sending keys with content: Forget tools promising magic; try running your drafts by a few friends or even hiring a seasoned editor for feedback. Real humans beat algorithms every time, right?
+
+2025-03-29 12:21:50,908 - DEBUG - Clicking on post reply button.
+2025-03-29 12:22:01,968 - DEBUG - Performed Actionchains
+2025-03-29 12:22:01,969 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-29 12:22:05,970 - INFO - Comment posted successfully.
+2025-03-29 12:22:05,971 - INFO - Task Completed!!
+2025-03-29 12:22:20,256 - INFO - Navigated back to the homepage.
+2025-03-29 12:22:23,255 - INFO - Attempting to clear memory and resources.
+2025-03-29 12:22:23,286 - INFO - Garbage collection completed.
+2025-03-29 12:22:23,287 - INFO - Waiting for 1850 seconds before next execution.

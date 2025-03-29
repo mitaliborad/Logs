@@ -1,0 +1,105 @@
+2025-03-29 11:01:11,554 - INFO - Current time: 1743226271.5543983
+2025-03-29 11:01:11,557 - INFO - Token expiration time: 1743232532.791173
+2025-03-29 11:01:11,560 - INFO - Token expiration time: 1743232532.791173
+2025-03-29 11:01:11,562 - INFO - performing random action
+2025-03-29 11:01:11,565 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-29 11:01:11,568 - DEBUG - Scrolling page 4 times.
+2025-03-29 11:01:11,570 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:01:13,113 - DEBUG - Page scrolled.
+2025-03-29 11:01:15,115 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:01:17,127 - DEBUG - Page scrolled.
+2025-03-29 11:01:19,130 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:01:20,845 - DEBUG - Page scrolled.
+2025-03-29 11:01:22,848 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:01:24,291 - DEBUG - Page scrolled.
+2025-03-29 11:01:26,293 - DEBUG - Random scrolls complete.
+2025-03-29 11:01:26,295 - DEBUG - Scrolling page 3 times.
+2025-03-29 11:01:26,296 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:01:28,193 - DEBUG - Page scrolled.
+2025-03-29 11:01:30,196 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:01:31,637 - DEBUG - Page scrolled.
+2025-03-29 11:01:33,639 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:01:34,942 - DEBUG - Page scrolled.
+2025-03-29 11:01:36,945 - DEBUG - Random scrolls complete.
+2025-03-29 11:01:47,916 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/pinterest.211/
+2025-03-29 11:01:51,216 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/services-promotion-with-pinterest.1697627/unread
+2025-03-29 11:01:51,217 - INFO - performing random action
+2025-03-29 11:01:59,853 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/services-promotion-with-pinterest.1697627/unread
+2025-03-29 11:01:59,856 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/services-promotion-with-pinterest.1697627/unread' to visited threads file 'Thread_links.txt'.
+2025-03-29 11:01:59,899 - INFO - Extracted thread title: Services promotion with Pinterest
+2025-03-29 11:01:59,900 - DEBUG - Scrolling page 3 times.
+2025-03-29 11:01:59,901 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:02:01,862 - DEBUG - Page scrolled.
+2025-03-29 11:02:03,864 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:02:05,802 - DEBUG - Page scrolled.
+2025-03-29 11:02:07,804 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:02:09,142 - DEBUG - Page scrolled.
+2025-03-29 11:02:11,145 - DEBUG - Random scrolls complete.
+2025-03-29 11:02:13,803 - DEBUG - Scrolling page 4 times.
+2025-03-29 11:02:13,805 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:02:15,057 - DEBUG - Page scrolled.
+2025-03-29 11:02:18,060 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:02:19,731 - DEBUG - Page scrolled.
+2025-03-29 11:02:22,733 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:02:24,155 - DEBUG - Page scrolled.
+2025-03-29 11:02:27,157 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:02:28,616 - DEBUG - Page scrolled.
+2025-03-29 11:02:31,618 - DEBUG - Random scrolls complete.
+2025-03-29 11:02:31,649 - DEBUG - Found 4 like buttons.
+2025-03-29 11:02:34,650 - INFO - Attempting to like 4 posts. There are 4 available.
+2025-03-29 11:02:35,380 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-29 11:02:35,405 - INFO - Like button clicked successfully using JavaScript.
+2025-03-29 11:02:35,406 - DEBUG - Liked post number 1 of 4.
+2025-03-29 11:02:40,783 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-29 11:02:40,803 - INFO - Like button clicked successfully using JavaScript.
+2025-03-29 11:02:40,806 - DEBUG - Liked post number 2 of 4.
+2025-03-29 11:02:46,246 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-29 11:02:46,264 - INFO - Like button clicked successfully using JavaScript.
+2025-03-29 11:02:46,265 - DEBUG - Liked post number 3 of 4.
+2025-03-29 11:02:51,231 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-29 11:02:51,250 - INFO - Like button clicked successfully using JavaScript.
+2025-03-29 11:02:51,251 - DEBUG - Liked post number 4 of 4.
+2025-03-29 11:02:55,667 - INFO - Liked 4 posts successfully.
+2025-03-29 11:02:55,670 - INFO - Liked 4 posts successfully.
+2025-03-29 11:02:58,245 - INFO - Profile DataPhreak: Pausing for 41.20 seconds...
+2025-03-29 11:03:39,451 - INFO - Profile DataPhreak: Resuming...
+2025-03-29 11:03:39,454 - INFO - performing random action
+2025-03-29 11:03:39,456 - DEBUG - Scrolling page 4 times.
+2025-03-29 11:03:39,458 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:03:40,996 - DEBUG - Page scrolled.
+2025-03-29 11:03:43,998 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:03:45,375 - DEBUG - Page scrolled.
+2025-03-29 11:03:48,377 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:03:50,367 - DEBUG - Page scrolled.
+2025-03-29 11:03:53,369 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:03:54,690 - DEBUG - Page scrolled.
+2025-03-29 11:03:57,693 - DEBUG - Random scrolls complete.
+2025-03-29 11:03:59,791 - DEBUG - Total comments in the thread: 4
+2025-03-29 11:04:00,087 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Services promotion with Pinterest.txt
+2025-03-29 11:04:02,535 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-29 11:04:02,573 - DEBUG - Extracted main post content: Hello experts, I want to know from your experience that is it possible to promote services on Pinterest and get some valuable clients from Pinterest?
+2025-03-29 11:04:05,983 - INFO - Successfully generated comments using Gemini API.
+2025-03-29 11:04:05,986 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-29 11:04:08,751 - INFO - performing random action
+2025-03-29 11:04:08,754 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 11:04:08,755 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 11:04:08,784 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 11:04:08,820 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 11:04:08,826 - DEBUG - Text box scrolled into view
+2025-03-29 11:04:09,480 - DEBUG - Initializing actionchains
+2025-03-29 11:04:09,524 - DEBUG - Post reply Element location: {'x': 1231, 'y': 2407}, size: {'height': 21, 'width': 68}
+2025-03-29 11:04:09,525 - DEBUG - Target click coordinates: (1265, 2417)
+2025-03-29 11:04:19,058 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-29 11:04:19,060 - DEBUG - Moving mouse to text box element.
+2025-03-29 11:04:19,061 - DEBUG - Clicking on the text box.
+2025-03-29 11:04:19,064 - DEBUG - Sending keys with content: Honestly, it depends on the service, but visually appealing stuff *can* crush it there; what kinda services are we talkin' about?
+
+2025-03-29 11:04:24,517 - DEBUG - Clicking on post reply button.
+2025-03-29 11:04:35,397 - DEBUG - Performed Actionchains
+2025-03-29 11:04:35,397 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-29 11:04:39,399 - INFO - Comment posted successfully.
+2025-03-29 11:04:39,401 - INFO - Task Completed!!
+2025-03-29 11:04:50,212 - INFO - Navigated back to the homepage.
+2025-03-29 11:04:52,777 - INFO - Attempting to clear memory and resources.
+2025-03-29 11:04:52,814 - INFO - Garbage collection completed.
+2025-03-29 11:04:52,814 - INFO - Waiting for 1850 seconds before next execution.

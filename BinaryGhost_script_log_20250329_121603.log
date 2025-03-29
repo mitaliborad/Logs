@@ -1,0 +1,113 @@
+2025-03-29 12:16:03,352 - INFO - Current time: 1743230763.352816
+2025-03-29 12:16:03,355 - INFO - Token expiration time: 1743232982.3502593
+2025-03-29 12:16:03,357 - INFO - Token expiration time: 1743232982.3502593
+2025-03-29 12:16:03,360 - INFO - performing random action
+2025-03-29 12:16:03,363 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-29 12:16:03,365 - DEBUG - Scrolling page 3 times.
+2025-03-29 12:16:03,366 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:16:04,970 - DEBUG - Page scrolled.
+2025-03-29 12:16:06,972 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:16:08,388 - DEBUG - Page scrolled.
+2025-03-29 12:16:10,390 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:16:12,083 - DEBUG - Page scrolled.
+2025-03-29 12:16:14,084 - DEBUG - Random scrolls complete.
+2025-03-29 12:16:14,086 - DEBUG - Scrolling page 2 times.
+2025-03-29 12:16:14,088 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:16:15,646 - DEBUG - Page scrolled.
+2025-03-29 12:16:17,648 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:16:19,443 - DEBUG - Page scrolled.
+2025-03-29 12:16:21,444 - DEBUG - Random scrolls complete.
+2025-03-29 12:16:30,845 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/ai-artificial-intelligence-in-digital-marketing.252/
+2025-03-29 12:16:34,248 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/new-enthusiastic-chatgpt-mode.1698097/unread
+2025-03-29 12:16:34,248 - INFO - Profile BinaryGhost: Pausing for 30.04 seconds...
+2025-03-29 12:17:04,292 - INFO - Profile BinaryGhost: Resuming...
+2025-03-29 12:17:04,294 - INFO - performing random action
+2025-03-29 12:17:14,387 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/new-enthusiastic-chatgpt-mode.1698097/unread
+2025-03-29 12:17:14,388 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/new-enthusiastic-chatgpt-mode.1698097/unread' to visited threads file 'Thread_links.txt'.
+2025-03-29 12:17:14,413 - INFO - Extracted thread title: New Enthusiastic ChatGPT Mode
+2025-03-29 12:17:14,414 - DEBUG - Scrolling page 4 times.
+2025-03-29 12:17:14,415 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:17:16,212 - DEBUG - Page scrolled.
+2025-03-29 12:17:18,214 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:17:20,205 - DEBUG - Page scrolled.
+2025-03-29 12:17:22,207 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:17:23,742 - DEBUG - Page scrolled.
+2025-03-29 12:17:25,744 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:17:27,149 - DEBUG - Page scrolled.
+2025-03-29 12:17:29,151 - DEBUG - Random scrolls complete.
+2025-03-29 12:17:31,661 - DEBUG - Scrolling page 1 times.
+2025-03-29 12:17:31,663 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:17:33,285 - DEBUG - Page scrolled.
+2025-03-29 12:17:36,286 - DEBUG - Random scrolls complete.
+2025-03-29 12:17:36,320 - DEBUG - Found 3 like buttons.
+2025-03-29 12:17:39,321 - INFO - Attempting to like 2 posts. There are 3 available.
+2025-03-29 12:17:40,193 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-29 12:17:40,205 - INFO - Like button clicked successfully using JavaScript.
+2025-03-29 12:17:40,206 - DEBUG - Liked post number 1 of 2.
+2025-03-29 12:17:45,140 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-29 12:17:45,147 - INFO - Like button clicked successfully using JavaScript.
+2025-03-29 12:17:45,147 - DEBUG - Liked post number 2 of 2.
+2025-03-29 12:17:50,047 - INFO - Liked 2 posts successfully.
+2025-03-29 12:17:50,049 - INFO - Liked 2 posts successfully.
+2025-03-29 12:17:52,666 - INFO - performing random action
+2025-03-29 12:17:52,667 - DEBUG - Scrolling page 3 times.
+2025-03-29 12:17:52,668 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:17:54,138 - DEBUG - Page scrolled.
+2025-03-29 12:17:57,140 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:17:58,537 - DEBUG - Page scrolled.
+2025-03-29 12:18:01,539 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:18:02,910 - DEBUG - Page scrolled.
+2025-03-29 12:18:05,911 - DEBUG - Random scrolls complete.
+2025-03-29 12:18:08,950 - DEBUG - Total comments in the thread: 3
+2025-03-29 12:18:19,663 - INFO - Post content extracted and saved to Thread-Details/Thread Content\New Enthusiastic ChatGPT Mode.txt
+2025-03-29 12:18:21,750 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-29 12:18:21,778 - DEBUG - Extracted main post content: This my most recent today! lol
+Maybe its just the 4o model, but I'm sure it wasn't as "Suck the straw up my bum" as this yesterday or the past couple of months anyway! lol
+
+
+
+
+
+
+It just dawned on me that the green bars are for the test environment working that I'm supposed to see.
+
+(not because I'm an environmentally friendly rapper with bars! lol)
+2025-03-29 12:18:26,971 - INFO - Successfully generated comments using Gemini API.
+2025-03-29 12:18:26,974 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-29 12:18:29,634 - INFO - Profile BinaryGhost: Restoring window...
+2025-03-29 12:18:31,640 - INFO - performing random action
+2025-03-29 12:18:31,642 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 12:18:31,642 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 12:18:31,675 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 12:18:31,711 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 12:18:31,719 - DEBUG - Text box scrolled into view
+2025-03-29 12:18:32,433 - DEBUG - Initializing actionchains
+2025-03-29 12:18:32,463 - DEBUG - Post reply Element location: {'x': 1231, 'y': 2333}, size: {'height': 21, 'width': 68}
+2025-03-29 12:18:32,463 - DEBUG - Target click coordinates: (1265, 2343)
+2025-03-29 12:18:41,776 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-29 12:18:41,778 - DEBUG - Moving mouse to text box element.
+2025-03-29 12:18:41,779 - DEBUG - Clicking on the text box.
+2025-03-29 12:18:41,782 - DEBUG - Sending keys with content: Ha, been there! It's always something simple like that staring you in the face.
+
+2025-03-29 12:18:46,856 - DEBUG - Clicking on post reply button.
+2025-03-29 12:18:47,850 - DEBUG - Performed Actionchains
+2025-03-29 12:18:47,851 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-29 12:18:51,853 - INFO - Comment posted successfully.
+2025-03-29 12:18:51,856 - INFO - Task Completed!!
+2025-03-29 12:18:55,699 - INFO - Navigated back to the homepage.
+2025-03-29 12:18:57,906 - INFO - Attempting to clear memory and resources.
+2025-03-29 12:18:57,982 - INFO - Garbage collection completed.
+2025-03-29 12:18:57,984 - INFO - Waiting for 1850 seconds before next execution.
+2025-03-29 14:38:21,195 - INFO - Automation has reached the time limit. Stopping execution.
+2025-03-29 14:38:21,197 - INFO - Stopping browser for profile: BinaryGhost...
+2025-03-29 14:38:21,198 - INFO - Refreshing token before stopping profile...
+2025-03-29 14:38:21,199 - INFO - Refreshing token for BinaryGhost...
+2025-03-29 14:38:22,306 - INFO - Received expires_in from MultiLogin: 10800
+2025-03-29 14:38:22,307 - INFO - Calculated token expiration time: 1743250102.307377
+2025-03-29 14:38:22,307 - INFO - Profile BinaryGhost: Successfully logged in.
+2025-03-29 14:38:22,308 - INFO - Token refreshed successfully before stopping.
+2025-03-29 14:38:22,309 - INFO - Profile BinaryGhost: Attempting to stop (Attempt 1/3)...
+2025-03-29 14:38:22,327 - INFO - Profile BinaryGhost: Browser closed successfully in 0.02 seconds.
+2025-03-29 14:38:26,318 - INFO - Profile BinaryGhost: API call took 3.99 seconds.
+2025-03-29 14:38:26,319 - INFO - Profile BinaryGhost: Stopped successfully.
+2025-03-29 14:38:26,321 - INFO - Browser stopped successfully for profile: BinaryGhost.

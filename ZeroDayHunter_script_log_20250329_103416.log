@@ -1,0 +1,107 @@
+2025-03-29 10:34:16,680 - INFO - Current time: 1743224656.680302
+2025-03-29 10:34:16,683 - INFO - Token expiration time: 1743233264.7923295
+2025-03-29 10:34:16,685 - INFO - Token expiration time: 1743233264.7923295
+2025-03-29 10:34:16,688 - INFO - Profile ZeroDayHunter: Pausing for 37.79 seconds...
+2025-03-29 10:34:54,485 - INFO - Profile ZeroDayHunter: Resuming...
+2025-03-29 10:34:54,488 - INFO - performing random action
+2025-03-29 10:34:54,491 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-29 10:34:54,493 - DEBUG - Scrolling page 4 times.
+2025-03-29 10:34:54,494 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:34:56,104 - DEBUG - Page scrolled.
+2025-03-29 10:34:58,107 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:34:59,598 - DEBUG - Page scrolled.
+2025-03-29 10:35:01,600 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:35:03,379 - DEBUG - Page scrolled.
+2025-03-29 10:35:05,382 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:35:06,598 - DEBUG - Page scrolled.
+2025-03-29 10:35:08,601 - DEBUG - Random scrolls complete.
+2025-03-29 10:35:08,603 - DEBUG - Scrolling page 2 times.
+2025-03-29 10:35:08,605 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:35:09,783 - DEBUG - Page scrolled.
+2025-03-29 10:35:11,785 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:35:13,002 - DEBUG - Page scrolled.
+2025-03-29 10:35:15,004 - DEBUG - Random scrolls complete.
+2025-03-29 10:35:24,921 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/voice-search.280/
+2025-03-29 10:35:28,297 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/woo-hoo-i-just-set-up-my-google-voice-acct.97936/unread
+2025-03-29 10:35:28,297 - INFO - Profile ZeroDayHunter: Minimizing window...
+2025-03-29 10:35:28,299 - INFO - Profile ZeroDayHunter: Window minimized. Pausing for 20.76 seconds...
+2025-03-29 10:35:49,058 - INFO - Profile ZeroDayHunter: Resuming after minimize...
+2025-03-29 10:35:49,060 - INFO - performing random action
+2025-03-29 10:35:56,890 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/woo-hoo-i-just-set-up-my-google-voice-acct.97936/unread
+2025-03-29 10:35:56,891 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/woo-hoo-i-just-set-up-my-google-voice-acct.97936/unread' to visited threads file 'Thread_links.txt'.
+2025-03-29 10:35:56,967 - INFO - Extracted thread title: Woo-Hoo I just set up my Google Voice acct
+2025-03-29 10:35:56,968 - DEBUG - Scrolling page 4 times.
+2025-03-29 10:35:56,968 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:35:58,359 - DEBUG - Page scrolled.
+2025-03-29 10:36:00,360 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:36:02,300 - DEBUG - Page scrolled.
+2025-03-29 10:36:04,302 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:36:05,715 - DEBUG - Page scrolled.
+2025-03-29 10:36:07,715 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:36:09,209 - DEBUG - Page scrolled.
+2025-03-29 10:36:11,211 - DEBUG - Random scrolls complete.
+2025-03-29 10:36:13,660 - DEBUG - Scrolling page 2 times.
+2025-03-29 10:36:13,661 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:36:15,487 - DEBUG - Page scrolled.
+2025-03-29 10:36:18,488 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:36:19,887 - DEBUG - Page scrolled.
+2025-03-29 10:36:22,889 - DEBUG - Random scrolls complete.
+2025-03-29 10:36:22,927 - DEBUG - Found 4 like buttons.
+2025-03-29 10:36:25,928 - INFO - Attempting to like 3 posts. There are 4 available.
+2025-03-29 10:36:26,544 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-29 10:36:26,558 - INFO - Like button clicked successfully using JavaScript.
+2025-03-29 10:36:26,559 - DEBUG - Liked post number 1 of 3.
+2025-03-29 10:36:32,124 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-29 10:36:32,132 - INFO - Like button clicked successfully using JavaScript.
+2025-03-29 10:36:32,133 - DEBUG - Liked post number 2 of 3.
+2025-03-29 10:36:37,921 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-29 10:36:37,940 - INFO - Like button clicked successfully using JavaScript.
+2025-03-29 10:36:37,942 - DEBUG - Liked post number 3 of 3.
+2025-03-29 10:36:42,194 - INFO - Liked 3 posts successfully.
+2025-03-29 10:36:42,197 - INFO - Liked 3 posts successfully.
+2025-03-29 10:36:45,028 - INFO - performing random action
+2025-03-29 10:36:45,031 - DEBUG - Scrolling page 7 times.
+2025-03-29 10:36:45,032 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:36:46,814 - DEBUG - Page scrolled.
+2025-03-29 10:36:49,816 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:36:51,541 - DEBUG - Page scrolled.
+2025-03-29 10:36:54,543 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:36:56,497 - DEBUG - Page scrolled.
+2025-03-29 10:36:59,500 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:37:01,070 - DEBUG - Page scrolled.
+2025-03-29 10:37:04,072 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:37:05,689 - DEBUG - Page scrolled.
+2025-03-29 10:37:08,691 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:37:10,198 - DEBUG - Page scrolled.
+2025-03-29 10:37:13,199 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:37:14,587 - DEBUG - Page scrolled.
+2025-03-29 10:37:17,590 - DEBUG - Random scrolls complete.
+2025-03-29 10:37:20,330 - DEBUG - Total comments in the thread: 4
+2025-03-29 10:37:31,022 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Woo-Hoo I just set up my Google Voice acct.txt
+2025-03-29 10:37:33,154 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-29 10:37:33,205 - DEBUG - Extracted main post content: I was able to get my first name as my number since it's a bit unique. That's kinda cool I guess. I was hoping for number portability tho. They say it's coming and I think will cost 10 bucks. The cool thing for me is to corral the different numbers into 1 and you can even use Gizmo5 numbers. I think the voice recording, SMS and ability to label numbers as spam are nice features. Not sure about the voicemail transcribing, have to see that in action. Any body got any BHW takes on it?
+2025-03-29 10:37:38,503 - INFO - Successfully generated comments using Gemini API.
+2025-03-29 10:37:38,504 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-29 10:37:40,855 - INFO - performing random action
+2025-03-29 10:37:40,857 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 10:37:40,859 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 10:37:40,898 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 10:37:40,937 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 10:37:40,943 - DEBUG - Text box scrolled into view
+2025-03-29 10:37:41,664 - DEBUG - Initializing actionchains
+2025-03-29 10:37:41,686 - DEBUG - Post reply Element location: {'x': 1231, 'y': 2032}, size: {'height': 21, 'width': 68}
+2025-03-29 10:37:41,686 - DEBUG - Target click coordinates: (1265, 2042)
+2025-03-29 10:37:49,698 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-29 10:37:49,700 - DEBUG - Moving mouse to text box element.
+2025-03-29 10:37:49,702 - DEBUG - Clicking on the text box.
+2025-03-29 10:37:49,705 - DEBUG - Sending keys with content: Number portability for 10 bucks? That's not bad at all if it works like they say. I'm curious to see how good that spam filter really is.
+
+2025-03-29 10:37:55,349 - DEBUG - Clicking on post reply button.
+2025-03-29 10:38:06,283 - DEBUG - Performed Actionchains
+2025-03-29 10:38:06,283 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-29 10:38:10,284 - INFO - Comment posted successfully.
+2025-03-29 10:38:10,285 - INFO - Task Completed!!
+2025-03-29 10:38:18,135 - INFO - Navigated back to the homepage.
+2025-03-29 10:38:20,518 - INFO - Attempting to clear memory and resources.
+2025-03-29 10:38:20,553 - INFO - Garbage collection completed.
+2025-03-29 10:38:20,554 - INFO - Waiting for 1850 seconds before next execution.

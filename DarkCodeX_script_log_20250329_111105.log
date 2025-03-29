@@ -1,0 +1,134 @@
+2025-03-29 11:11:05,132 - INFO - Current time: 1743226865.1325066
+2025-03-29 11:11:05,135 - INFO - Token expiration time: 1743233204.704339
+2025-03-29 11:11:05,137 - INFO - Token expiration time: 1743233204.704339
+2025-03-29 11:11:05,140 - INFO - performing random action
+2025-03-29 11:11:05,142 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-29 11:11:05,145 - DEBUG - Scrolling page 4 times.
+2025-03-29 11:11:05,146 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:11:07,120 - DEBUG - Page scrolled.
+2025-03-29 11:11:09,122 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:11:10,900 - DEBUG - Page scrolled.
+2025-03-29 11:11:12,903 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:11:14,911 - DEBUG - Page scrolled.
+2025-03-29 11:11:16,914 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:11:18,435 - DEBUG - Page scrolled.
+2025-03-29 11:11:20,437 - DEBUG - Random scrolls complete.
+2025-03-29 11:11:20,438 - DEBUG - Scrolling page 3 times.
+2025-03-29 11:11:20,439 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:11:21,504 - DEBUG - Page scrolled.
+2025-03-29 11:11:23,506 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:11:25,179 - DEBUG - Page scrolled.
+2025-03-29 11:11:27,182 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:11:28,569 - DEBUG - Page scrolled.
+2025-03-29 11:11:30,571 - DEBUG - Random scrolls complete.
+2025-03-29 11:11:40,523 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/ai-artificial-intelligence-in-digital-marketing.252/
+2025-03-29 11:11:43,942 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/personalized-cold-emails-at-scale-opinion-needed.1695703/unread
+2025-03-29 11:11:43,943 - INFO - performing random action
+2025-03-29 11:11:57,297 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/personalized-cold-emails-at-scale-opinion-needed.1695703/unread
+2025-03-29 11:11:57,300 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/personalized-cold-emails-at-scale-opinion-needed.1695703/unread' to visited threads file 'Thread_links.txt'.
+2025-03-29 11:11:57,360 - INFO - Extracted thread title: Personalized Cold Emails At Scale - Opinion Needed
+2025-03-29 11:11:57,361 - DEBUG - Scrolling page 4 times.
+2025-03-29 11:11:57,362 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:11:59,063 - DEBUG - Page scrolled.
+2025-03-29 11:12:01,065 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:12:02,401 - DEBUG - Page scrolled.
+2025-03-29 11:12:04,403 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:12:05,914 - DEBUG - Page scrolled.
+2025-03-29 11:12:07,916 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:12:09,095 - DEBUG - Page scrolled.
+2025-03-29 11:12:11,096 - DEBUG - Random scrolls complete.
+2025-03-29 11:12:13,620 - DEBUG - Scrolling page 3 times.
+2025-03-29 11:12:13,621 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:12:14,984 - DEBUG - Page scrolled.
+2025-03-29 11:12:17,986 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:12:19,469 - DEBUG - Page scrolled.
+2025-03-29 11:12:22,470 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:12:23,673 - DEBUG - Page scrolled.
+2025-03-29 11:12:26,676 - DEBUG - Random scrolls complete.
+2025-03-29 11:12:26,706 - DEBUG - Found 20 like buttons.
+2025-03-29 11:12:29,707 - INFO - Attempting to like 4 posts. There are 20 available.
+2025-03-29 11:12:30,716 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-29 11:12:30,732 - INFO - Like button clicked successfully using JavaScript.
+2025-03-29 11:12:30,733 - DEBUG - Liked post number 1 of 4.
+2025-03-29 11:12:36,188 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-29 11:12:36,207 - INFO - Like button clicked successfully using JavaScript.
+2025-03-29 11:12:36,210 - DEBUG - Liked post number 2 of 4.
+2025-03-29 11:12:41,294 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-29 11:12:41,302 - INFO - Like button clicked successfully using JavaScript.
+2025-03-29 11:12:41,303 - DEBUG - Liked post number 3 of 4.
+2025-03-29 11:12:46,835 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-29 11:12:46,854 - INFO - Like button clicked successfully using JavaScript.
+2025-03-29 11:12:46,857 - DEBUG - Liked post number 4 of 4.
+2025-03-29 11:12:51,056 - INFO - Liked 4 posts successfully.
+2025-03-29 11:12:51,058 - INFO - Liked 4 posts successfully.
+2025-03-29 11:12:53,823 - INFO - performing random action
+2025-03-29 11:12:53,825 - DEBUG - Scrolling page 3 times.
+2025-03-29 11:12:53,827 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:12:55,610 - DEBUG - Page scrolled.
+2025-03-29 11:12:58,613 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:13:00,494 - DEBUG - Page scrolled.
+2025-03-29 11:13:03,496 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:13:05,071 - DEBUG - Page scrolled.
+2025-03-29 11:13:08,074 - DEBUG - Random scrolls complete.
+2025-03-29 11:13:11,089 - DEBUG - Total comments in the thread: 20
+2025-03-29 11:15:17,321 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Personalized Cold Emails At Scale - Opinion Needed.txt
+2025-03-29 11:15:20,289 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-29 11:15:20,328 - DEBUG - Extracted main post content: Hi everyone,
+
+After spending about 90 days figuring things out and getting burned by numerous "developers", last year I finally finished an amazing tool that stacks AI on top of AI be able to generate personalized cold emails at scale.
+
+I used Clay in the past but it was super expensive for what I needed (volume) so this forced me to develop my own.
+
+The result? I am now able to enter thousands of leads from Apollo/Instantly into a google sheet and have it scrape the leads website and make the emails sound like a human wrote it.
+
+I have 2 clients in the finance industry that lend money to other businesses but no matter how hard you try, the business either needs money or they don't.
+
+We charge by the number of appointments we're able to generate. The numbers aren't impressive but I don't think it's the tool's fault.
+
+Here's my question: I am looking for a "starving crowd" as Hormozi puts it. This is who GPT thinks I should be targeting with this tool:
+
+
+B2B Sales Agencies & SDR Teams (Outsourced Sales)
+
+Business Loan Brokers & Alternative Lenders
+
+Recruiting & Headhunting Firms
+
+M&A Firms & Business Brokers
+
+High-Ticket Consulting & Coaching Programs ($5K-$100K Offers)
+
+Agencies Selling High-Ticket B2B Services (SEO, PPC, Web Dev, Branding)
+
+My 2 clients are in the finance side of lending money as mentioned and I don't think more clever copy would make someone want to borrow huge sums of money.
+
+Any other ideas? I was also thinking of licensing it out for say $1k/month + they pay all others fees associated with it.
+
+If you have any ideas on this, would love to hear it!
+
+DD
+2025-03-29 11:15:25,430 - INFO - Successfully generated comments using Gemini API.
+2025-03-29 11:15:25,434 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-29 11:15:28,429 - INFO - performing random action
+2025-03-29 11:15:28,431 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 11:15:28,431 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 11:15:28,444 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 11:15:28,484 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 11:15:28,491 - DEBUG - Text box scrolled into view
+2025-03-29 11:15:29,462 - DEBUG - Initializing actionchains
+2025-03-29 11:15:29,505 - DEBUG - Post reply Element location: {'x': 1231, 'y': 10627}, size: {'height': 21, 'width': 68}
+2025-03-29 11:15:29,506 - DEBUG - Target click coordinates: (1265, 10637)
+2025-03-29 11:15:54,951 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-29 11:15:54,954 - DEBUG - Moving mouse to text box element.
+2025-03-29 11:15:54,955 - DEBUG - Clicking on the text box.
+2025-03-29 11:15:54,956 - DEBUG - Sending keys with content: Forget clever copy, you're right, need trumps want. Maybe target industries facing constant regulatory changes – compliance is always a pain point they'll pay to solve. What about the legal or healthcare sectors?
+
+2025-03-29 11:16:00,583 - DEBUG - Clicking on post reply button.
+2025-03-29 11:16:11,764 - DEBUG - Performed Actionchains
+2025-03-29 11:16:11,765 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-29 11:16:15,766 - INFO - Comment posted successfully.
+2025-03-29 11:16:15,768 - INFO - Task Completed!!
+2025-03-29 11:16:25,310 - INFO - Navigated back to the homepage.
+2025-03-29 11:16:27,740 - INFO - Attempting to clear memory and resources.
+2025-03-29 11:16:27,768 - INFO - Garbage collection completed.
+2025-03-29 11:16:27,769 - INFO - Waiting for 1850 seconds before next execution.

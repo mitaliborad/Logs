@@ -1,0 +1,100 @@
+2025-03-29 12:20:21,074 - INFO - Current time: 1743231021.0740485
+2025-03-29 12:20:21,076 - INFO - Token expiration time: 1743233134.824351
+2025-03-29 12:20:21,079 - INFO - Token expiration time: 1743233134.824351
+2025-03-29 12:20:21,081 - INFO - Profile NullBytee: Pausing for 37.48 seconds...
+2025-03-29 12:20:58,568 - INFO - Profile NullBytee: Resuming...
+2025-03-29 12:20:58,571 - INFO - performing random action
+2025-03-29 12:20:58,574 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-29 12:20:58,576 - DEBUG - Scrolling page 3 times.
+2025-03-29 12:20:58,578 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:21:00,189 - DEBUG - Page scrolled.
+2025-03-29 12:21:02,198 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:21:04,093 - DEBUG - Page scrolled.
+2025-03-29 12:21:06,096 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:21:08,006 - DEBUG - Page scrolled.
+2025-03-29 12:21:10,010 - DEBUG - Random scrolls complete.
+2025-03-29 12:21:10,012 - DEBUG - Scrolling page 2 times.
+2025-03-29 12:21:10,014 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:21:11,591 - DEBUG - Page scrolled.
+2025-03-29 12:21:13,593 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:21:15,169 - DEBUG - Page scrolled.
+2025-03-29 12:21:17,172 - DEBUG - Random scrolls complete.
+2025-03-29 12:21:56,635 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/black-hat-seo.28/
+2025-03-29 12:22:00,762 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/help-need-info-from-seo-experts.1699662/unread
+2025-03-29 12:22:00,763 - INFO - performing random action
+2025-03-29 12:22:13,152 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/help-need-info-from-seo-experts.1699662/unread
+2025-03-29 12:22:13,156 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/help-need-info-from-seo-experts.1699662/unread' to visited threads file 'Thread_links.txt'.
+2025-03-29 12:22:13,209 - INFO - Extracted thread title: {HELP} need info from SEO experts
+2025-03-29 12:22:13,210 - DEBUG - Scrolling page 3 times.
+2025-03-29 12:22:13,211 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:22:14,324 - DEBUG - Page scrolled.
+2025-03-29 12:22:16,326 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:22:17,667 - DEBUG - Page scrolled.
+2025-03-29 12:22:19,669 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:22:21,376 - DEBUG - Page scrolled.
+2025-03-29 12:22:23,377 - DEBUG - Random scrolls complete.
+2025-03-29 12:22:26,050 - DEBUG - Scrolling page 3 times.
+2025-03-29 12:22:26,052 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:22:27,749 - DEBUG - Page scrolled.
+2025-03-29 12:22:30,751 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:22:32,266 - DEBUG - Page scrolled.
+2025-03-29 12:22:35,268 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:22:36,885 - DEBUG - Page scrolled.
+2025-03-29 12:22:39,887 - DEBUG - Random scrolls complete.
+2025-03-29 12:22:39,901 - DEBUG - Found 9 like buttons.
+2025-03-29 12:22:42,902 - INFO - Attempting to like 2 posts. There are 9 available.
+2025-03-29 12:22:43,805 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-29 12:22:43,834 - INFO - Like button clicked successfully using JavaScript.
+2025-03-29 12:22:43,836 - DEBUG - Liked post number 1 of 2.
+2025-03-29 12:22:49,479 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-29 12:22:49,485 - INFO - Like button clicked successfully using JavaScript.
+2025-03-29 12:22:49,486 - DEBUG - Liked post number 2 of 2.
+2025-03-29 12:22:53,540 - INFO - Liked 2 posts successfully.
+2025-03-29 12:22:53,541 - INFO - Liked 2 posts successfully.
+2025-03-29 12:22:56,155 - INFO - performing random action
+2025-03-29 12:22:56,157 - DEBUG - Scrolling page 6 times.
+2025-03-29 12:22:56,159 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:22:58,123 - DEBUG - Page scrolled.
+2025-03-29 12:23:01,125 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:23:02,230 - DEBUG - Page scrolled.
+2025-03-29 12:23:05,233 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:23:06,975 - DEBUG - Page scrolled.
+2025-03-29 12:23:09,978 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:23:11,967 - DEBUG - Page scrolled.
+2025-03-29 12:23:14,969 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:23:16,945 - DEBUG - Page scrolled.
+2025-03-29 12:23:19,947 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:23:21,721 - DEBUG - Page scrolled.
+2025-03-29 12:23:24,723 - DEBUG - Random scrolls complete.
+2025-03-29 12:23:26,829 - DEBUG - Total comments in the thread: 9
+2025-03-29 12:24:39,900 - INFO - Post content extracted and saved to Thread-Details/Thread Content\{HELP} need info from SEO experts.txt
+2025-03-29 12:24:42,085 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-29 12:24:42,141 - DEBUG - Extracted main post content: in theory how seo attacks are made and how you prevent them ? whats your best strategy of defending your platform with out Disavow links with google ?
+also in theory ! scrap box spam back links can badly effect my site ?
+Best Regards,
+RReddit!
+2025-03-29 12:24:47,543 - INFO - Successfully generated comments using Gemini API.
+2025-03-29 12:24:47,547 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-29 12:24:50,393 - INFO - performing random action
+2025-03-29 12:24:50,396 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 12:24:50,398 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 12:24:50,428 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 12:24:50,463 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 12:24:50,470 - DEBUG - Text box scrolled into view
+2025-03-29 12:24:51,250 - DEBUG - Initializing actionchains
+2025-03-29 12:24:51,279 - DEBUG - Post reply Element location: {'x': 1231, 'y': 4090}, size: {'height': 21, 'width': 68}
+2025-03-29 12:24:51,280 - DEBUG - Target click coordinates: (1265, 4100)
+2025-03-29 12:25:03,780 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-29 12:25:03,782 - DEBUG - Moving mouse to text box element.
+2025-03-29 12:25:03,784 - DEBUG - Clicking on the text box.
+2025-03-29 12:25:03,787 - DEBUG - Sending keys with content: Honestly, preventative measures are key—think strong firewalls and regular security audits. As for Scrapebox, yeah, theoretically those links could hurt, but a solid backlink profile should weather the storm.
+
+2025-03-29 12:25:08,812 - DEBUG - Clicking on post reply button.
+2025-03-29 12:25:19,537 - DEBUG - Performed Actionchains
+2025-03-29 12:25:19,539 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-29 12:25:23,543 - INFO - Comment posted successfully.
+2025-03-29 12:25:23,544 - INFO - Task Completed!!
+2025-03-29 12:26:02,783 - INFO - Navigated back to the homepage.
+2025-03-29 12:26:05,379 - INFO - Attempting to clear memory and resources.
+2025-03-29 12:26:05,409 - INFO - Garbage collection completed.
+2025-03-29 12:26:05,410 - INFO - Waiting for 1850 seconds before next execution.

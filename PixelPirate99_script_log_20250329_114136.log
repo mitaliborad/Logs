@@ -1,0 +1,140 @@
+2025-03-29 11:41:36,890 - INFO - Current time: 1743228696.8904989
+2025-03-29 11:41:36,898 - INFO - Token expiration time: 1743232699.7445307
+2025-03-29 11:41:36,902 - INFO - Token expiration time: 1743232699.7445307
+2025-03-29 11:41:36,905 - INFO - performing random action
+2025-03-29 11:41:36,909 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-29 11:41:36,911 - DEBUG - Scrolling page 4 times.
+2025-03-29 11:41:36,913 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:41:38,669 - DEBUG - Page scrolled.
+2025-03-29 11:41:40,671 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:41:42,490 - DEBUG - Page scrolled.
+2025-03-29 11:41:44,492 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:41:46,306 - DEBUG - Page scrolled.
+2025-03-29 11:41:48,308 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:41:50,286 - DEBUG - Page scrolled.
+2025-03-29 11:41:52,288 - DEBUG - Random scrolls complete.
+2025-03-29 11:41:52,290 - DEBUG - Scrolling page 2 times.
+2025-03-29 11:41:52,290 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:41:53,447 - DEBUG - Page scrolled.
+2025-03-29 11:41:55,450 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:41:57,108 - DEBUG - Page scrolled.
+2025-03-29 11:41:59,110 - DEBUG - Random scrolls complete.
+2025-03-29 11:42:09,617 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/x-formerly-twitter.210/
+2025-03-29 11:42:13,296 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/guide-and-support-for-running-twitter-ads.1687640/unread
+2025-03-29 11:42:13,297 - INFO - performing random action
+2025-03-29 11:42:24,866 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/guide-and-support-for-running-twitter-ads.1687640/unread
+2025-03-29 11:42:24,868 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/guide-and-support-for-running-twitter-ads.1687640/unread' to visited threads file 'Thread_links.txt'.
+2025-03-29 11:42:24,894 - INFO - Extracted thread title: Guide and Support for Running Twitter Ads
+2025-03-29 11:42:24,895 - DEBUG - Scrolling page 3 times.
+2025-03-29 11:42:24,896 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:42:26,860 - DEBUG - Page scrolled.
+2025-03-29 11:42:28,861 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:42:30,124 - DEBUG - Page scrolled.
+2025-03-29 11:42:32,126 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:42:33,509 - DEBUG - Page scrolled.
+2025-03-29 11:42:35,511 - DEBUG - Random scrolls complete.
+2025-03-29 11:42:38,362 - DEBUG - Scrolling page 3 times.
+2025-03-29 11:42:38,364 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:42:39,815 - DEBUG - Page scrolled.
+2025-03-29 11:42:42,817 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:42:44,756 - DEBUG - Page scrolled.
+2025-03-29 11:42:47,758 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:42:48,931 - DEBUG - Page scrolled.
+2025-03-29 11:42:51,932 - DEBUG - Random scrolls complete.
+2025-03-29 11:42:51,951 - DEBUG - Found 19 like buttons.
+2025-03-29 11:42:54,953 - INFO - Attempting to like 2 posts. There are 19 available.
+2025-03-29 11:42:55,651 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-29 11:42:55,683 - INFO - Like button clicked successfully using JavaScript.
+2025-03-29 11:42:55,684 - DEBUG - Liked post number 1 of 2.
+2025-03-29 11:43:00,773 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-29 11:43:00,795 - INFO - Like button clicked successfully using JavaScript.
+2025-03-29 11:43:00,796 - DEBUG - Liked post number 2 of 2.
+2025-03-29 11:43:05,719 - INFO - Liked 2 posts successfully.
+2025-03-29 11:43:05,722 - INFO - Liked 2 posts successfully.
+2025-03-29 11:43:08,475 - INFO - performing random action
+2025-03-29 11:43:08,478 - DEBUG - Scrolling page 4 times.
+2025-03-29 11:43:08,479 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:43:09,915 - DEBUG - Page scrolled.
+2025-03-29 11:43:12,917 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:43:13,946 - DEBUG - Page scrolled.
+2025-03-29 11:43:16,947 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:43:18,318 - DEBUG - Page scrolled.
+2025-03-29 11:43:21,320 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:43:23,220 - DEBUG - Page scrolled.
+2025-03-29 11:43:26,222 - DEBUG - Random scrolls complete.
+2025-03-29 11:43:28,916 - DEBUG - Total comments in the thread: 19
+2025-03-29 11:44:22,869 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Guide and Support for Running Twitter Ads.txt
+2025-03-29 11:44:25,454 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-29 11:44:25,516 - DEBUG - Extracted main post content: First of all, greetings. I know that many people trying to run ads on Twitter are getting banned—I’m in the same situation. That’s why I’m sharing all the methods I’ve tested in detail.
+
+Methods I’ve Tested and Results
+1. Trying with My Own IP and VPN
+I purchased an old Twitter account, logged in with a clean IP without using a VPN, and got banned. Then I tried using a VPN, and I got banned again.
+
+2. Proxy and Anti-Detect Browser Usage
+I tested anti-detect browsers like GoLogin, MultiBrowser, and AdsPower. The best results came from GoLogin (Dolphin is also quite good).
+For proxies, I purchased from SmartProxy, and so far, it has provided the best performance.
+
+However, there is a major issue: Since Stripe is banned on Twitter, you need identity verification to make payments. Even MEXC and KuCoin don’t require KYC, but Twitter does. That’s why I’m searching for a better proxy provider.
+
+3. Logging in with Auth_Token and CT0
+I used this method to get a blue checkmark, but I still got banned. Now, I don’t change anything in the accounts I purchase.
+Logging in with Auth_Token and CT0 immediately suspends the account, so I first log in with a username and password and warm up the account using cookies.
+
+My Current Test Process: Trying Mobile Proxy
+I’ve decided to test mobile proxies. Here’s the method I’ll be following:
+
+Buy an old account
+Log in with the username and password
+Use a proxy matching the account’s original location
+After logging in, extract cookies after 3-5 hours
+Warm up the account for 1-2 days with the proxy
+Get a blue checkmark and test running ads
+During this process, it’s crucial to avoid bot-like actions. Sudden follows, sending DMs, or making rapid changes can trigger Twitter’s security systems and put your account at risk.
+
+Payments and Financial Transactions
+I use American Express and premium cards.
+For billing addresses, I use the country where the account was originally created.
+I make ad payments using my personal credit cards and virtual cards.
+Some card providers automatically block Twitter payments, so I make sure to use internationally accepted cards.
+Important Note
+You must use an anti-detect browser, or you’ll get banned due to fingerprint tracking.
+Twitter uses browser fingerprinting to detect and link accounts. GoLogin, MultiBrowser, or Dolphin can help minimize this risk.
+
+Final Thoughts & Community Support
+If I’ve missed anything or if you have any questions, feel free to ask—this is a support group!
+
+So far, I’m warming up 30 accounts and planning to scale up to 100 accounts daily. I’m testing every possible method, and I will run that ad no matter what!
+
+Also, I’m open to proxy recommendations. If you have any better options, feel free to share!
+
+
+Thank you vlad_x
+2025-03-29 11:44:30,933 - INFO - Successfully generated comments using Gemini API.
+2025-03-29 11:44:30,936 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-29 11:44:33,519 - INFO - Profile PixelPirate99: Minimizing window...
+2025-03-29 11:44:33,523 - INFO - Profile PixelPirate99: Window minimized. Pausing for 18.71 seconds...
+2025-03-29 11:44:52,237 - INFO - Profile PixelPirate99: Resuming after minimize...
+2025-03-29 11:44:52,239 - INFO - performing random action
+2025-03-29 11:44:52,241 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 11:44:52,243 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 11:44:52,271 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 11:44:52,309 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 11:44:52,316 - DEBUG - Text box scrolled into view
+2025-03-29 11:44:52,946 - DEBUG - Initializing actionchains
+2025-03-29 11:44:52,999 - DEBUG - Post reply Element location: {'x': 1231, 'y': 10082}, size: {'height': 21, 'width': 68}
+2025-03-29 11:44:53,000 - DEBUG - Target click coordinates: (1265, 10092)
+2025-03-29 11:45:16,298 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-29 11:45:16,303 - DEBUG - Moving mouse to text box element.
+2025-03-29 11:45:16,305 - DEBUG - Clicking on the text box.
+2025-03-29 11:45:16,308 - DEBUG - Sending keys with content: Damn, that's a grind. Ever thought about pivoting to a different platform where the barrier to entry isn't so crazy?
+
+2025-03-29 11:45:21,888 - DEBUG - Clicking on post reply button.
+2025-03-29 11:45:32,821 - DEBUG - Performed Actionchains
+2025-03-29 11:45:32,822 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-29 11:45:36,823 - INFO - Comment posted successfully.
+2025-03-29 11:45:36,826 - INFO - Task Completed!!
+2025-03-29 11:45:43,950 - INFO - Navigated back to the homepage.
+2025-03-29 11:45:46,358 - INFO - Attempting to clear memory and resources.
+2025-03-29 11:45:46,383 - INFO - Garbage collection completed.
+2025-03-29 11:45:46,384 - INFO - Waiting for 1850 seconds before next execution.

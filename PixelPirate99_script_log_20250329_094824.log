@@ -1,0 +1,113 @@
+2025-03-29 09:48:24,750 - INFO - Current time: 1743221904.750379
+2025-03-29 09:48:24,751 - INFO - Token expiration time: 1743232699.7445307
+2025-03-29 09:48:24,751 - INFO - Token expiration time: 1743232699.7445307
+2025-03-29 09:48:24,752 - INFO - Profile PixelPirate99: Opening random website: https://letshyphen.com/
+2025-03-29 09:48:38,439 - INFO - Profile PixelPirate99: Pausing for 31.56 seconds...
+2025-03-29 09:49:09,999 - INFO - Profile PixelPirate99: Resuming...
+2025-03-29 09:49:10,012 - INFO - Profile PixelPirate99: Switched back to original tab.
+2025-03-29 09:49:10,014 - INFO - performing random action
+2025-03-29 09:49:10,018 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-29 09:49:10,019 - DEBUG - Scrolling page 4 times.
+2025-03-29 09:49:10,020 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:49:11,498 - DEBUG - Page scrolled.
+2025-03-29 09:49:13,501 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:49:14,983 - DEBUG - Page scrolled.
+2025-03-29 09:49:16,988 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:49:18,309 - DEBUG - Page scrolled.
+2025-03-29 09:49:20,317 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:49:21,889 - DEBUG - Page scrolled.
+2025-03-29 09:49:23,891 - DEBUG - Random scrolls complete.
+2025-03-29 09:49:23,893 - DEBUG - Scrolling page 4 times.
+2025-03-29 09:49:23,895 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:49:25,279 - DEBUG - Page scrolled.
+2025-03-29 09:49:27,281 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:49:28,547 - DEBUG - Page scrolled.
+2025-03-29 09:49:30,553 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:49:32,162 - DEBUG - Page scrolled.
+2025-03-29 09:49:34,165 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:49:35,791 - DEBUG - Page scrolled.
+2025-03-29 09:49:37,793 - DEBUG - Random scrolls complete.
+2025-03-29 09:49:45,082 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/ai-artificial-intelligence-in-digital-marketing.252/
+2025-03-29 09:49:48,760 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/how-are-ai-influencers-bypassing-verification-and-creating-onlyfans-accounts.1606685/unread
+2025-03-29 09:49:48,761 - INFO - performing random action
+2025-03-29 09:50:09,084 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/how-are-ai-influencers-bypassing-verification-and-creating-onlyfans-accounts.1606685/unread
+2025-03-29 09:50:09,088 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/how-are-ai-influencers-bypassing-verification-and-creating-onlyfans-accounts.1606685/unread' to visited threads file 'Thread_links.txt'.
+2025-03-29 09:50:09,132 - INFO - Extracted thread title: How are AI Influencers bypassing verification and creating Onlyfans accounts
+2025-03-29 09:50:09,133 - DEBUG - Scrolling page 2 times.
+2025-03-29 09:50:09,134 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:50:10,972 - DEBUG - Page scrolled.
+2025-03-29 09:50:12,974 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:50:14,366 - DEBUG - Page scrolled.
+2025-03-29 09:50:16,368 - DEBUG - Random scrolls complete.
+2025-03-29 09:50:19,323 - DEBUG - Scrolling page 3 times.
+2025-03-29 09:50:19,325 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:50:20,549 - DEBUG - Page scrolled.
+2025-03-29 09:50:23,552 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:50:25,456 - DEBUG - Page scrolled.
+2025-03-29 09:50:28,457 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:50:29,925 - DEBUG - Page scrolled.
+2025-03-29 09:50:32,927 - DEBUG - Random scrolls complete.
+2025-03-29 09:50:32,953 - DEBUG - Found 20 like buttons.
+2025-03-29 09:50:35,954 - INFO - Attempting to like 4 posts. There are 20 available.
+2025-03-29 09:50:36,610 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-29 09:50:36,645 - INFO - Like button clicked successfully using JavaScript.
+2025-03-29 09:50:36,647 - DEBUG - Liked post number 1 of 4.
+2025-03-29 09:50:41,566 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-29 09:50:41,587 - INFO - Like button clicked successfully using JavaScript.
+2025-03-29 09:50:41,588 - DEBUG - Liked post number 2 of 4.
+2025-03-29 09:50:46,630 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-29 09:50:46,637 - INFO - Like button clicked successfully using JavaScript.
+2025-03-29 09:50:46,638 - DEBUG - Liked post number 3 of 4.
+2025-03-29 09:50:51,735 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-29 09:50:51,742 - INFO - Like button clicked successfully using JavaScript.
+2025-03-29 09:50:51,743 - DEBUG - Liked post number 4 of 4.
+2025-03-29 09:50:55,795 - INFO - Liked 4 posts successfully.
+2025-03-29 09:50:55,797 - INFO - Liked 4 posts successfully.
+2025-03-29 09:50:58,438 - INFO - performing random action
+2025-03-29 09:50:58,440 - DEBUG - Scrolling page 6 times.
+2025-03-29 09:50:58,442 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:50:59,667 - DEBUG - Page scrolled.
+2025-03-29 09:51:02,672 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:51:03,885 - DEBUG - Page scrolled.
+2025-03-29 09:51:06,889 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:51:08,411 - DEBUG - Page scrolled.
+2025-03-29 09:51:11,413 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:51:13,324 - DEBUG - Page scrolled.
+2025-03-29 09:51:16,327 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:51:17,708 - DEBUG - Page scrolled.
+2025-03-29 09:51:20,723 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:51:21,915 - DEBUG - Page scrolled.
+2025-03-29 09:51:24,918 - DEBUG - Random scrolls complete.
+2025-03-29 09:51:27,121 - DEBUG - Total comments in the thread: 20
+2025-03-29 09:54:14,236 - INFO - Post content extracted and saved to Thread-Details/Thread Content\How are AI Influencers bypassing verification and creating Onlyfans accounts.txt
+2025-03-29 09:54:16,345 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-29 09:54:16,432 - DEBUG - Extracted main post content: I see a lot of AI influencers that are on Onlyfans, how are they bypassing the identification verification? I found a few on instagram that are really low quality but have Onlyfans. How are they able to do this?
+2025-03-29 09:54:21,434 - INFO - Successfully generated comments using Gemini API.
+2025-03-29 09:54:21,437 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-29 09:54:23,553 - INFO - Profile PixelPirate99: Opening default URL: https://www.google.com
+2025-03-29 09:54:30,031 - INFO - Profile PixelPirate99: Pausing for 44.19 seconds...
+2025-03-29 09:55:14,219 - INFO - Profile PixelPirate99: Resuming...
+2025-03-29 09:55:14,238 - INFO - Profile PixelPirate99: Switched back to original tab.
+2025-03-29 09:55:14,240 - INFO - performing random action
+2025-03-29 09:55:14,241 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 09:55:14,242 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 09:55:14,266 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 09:55:14,315 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 09:55:14,323 - DEBUG - Text box scrolled into view
+2025-03-29 09:55:14,936 - DEBUG - Initializing actionchains
+2025-03-29 09:55:15,026 - DEBUG - Post reply Element location: {'x': 1231, 'y': 6001}, size: {'height': 21, 'width': 68}
+2025-03-29 09:55:15,028 - DEBUG - Target click coordinates: (1265, 6011)
+2025-03-29 09:55:30,891 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-29 09:55:30,893 - DEBUG - Moving mouse to text box element.
+2025-03-29 09:55:30,894 - DEBUG - Clicking on the text box.
+2025-03-29 09:55:30,897 - DEBUG - Sending keys with content: Honestly, I'm more curious about whether people actually *pay* for that kind of content; maybe the verification isn't as tight if the demand is there.
+
+2025-03-29 09:55:36,158 - DEBUG - Clicking on post reply button.
+2025-03-29 09:55:46,360 - DEBUG - Performed Actionchains
+2025-03-29 09:55:46,360 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-29 09:55:50,362 - INFO - Comment posted successfully.
+2025-03-29 09:55:50,364 - INFO - Task Completed!!
+2025-03-29 09:55:58,113 - INFO - Navigated back to the homepage.
+2025-03-29 09:56:00,204 - INFO - Attempting to clear memory and resources.
+2025-03-29 09:56:00,258 - INFO - Garbage collection completed.
+2025-03-29 09:56:00,259 - INFO - Waiting for 1850 seconds before next execution.

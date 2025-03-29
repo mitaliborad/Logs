@@ -1,0 +1,39 @@
+2025-03-29 11:47:17,772 - INFO - Current time: 1743229037.7724776
+2025-03-29 11:47:17,775 - INFO - Token expiration time: 1743233204.704339
+2025-03-29 11:47:17,777 - INFO - Token expiration time: 1743233204.704339
+2025-03-29 11:47:17,779 - INFO - performing random action
+2025-03-29 11:47:17,782 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-29 11:47:17,784 - DEBUG - Scrolling page 3 times.
+2025-03-29 11:47:17,786 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:47:19,506 - DEBUG - Page scrolled.
+2025-03-29 11:47:21,508 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:47:23,090 - DEBUG - Page scrolled.
+2025-03-29 11:47:25,091 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:47:26,788 - DEBUG - Page scrolled.
+2025-03-29 11:47:28,791 - DEBUG - Random scrolls complete.
+2025-03-29 11:47:28,793 - DEBUG - Scrolling page 2 times.
+2025-03-29 11:47:28,794 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:47:30,700 - DEBUG - Page scrolled.
+2025-03-29 11:47:32,702 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:47:34,281 - DEBUG - Page scrolled.
+2025-03-29 11:47:36,284 - DEBUG - Random scrolls complete.
+2025-03-29 11:47:43,199 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/web-design.126/
+2025-03-29 11:47:53,540 - ERROR - Error finding random thread link in subforum: Message: 
+Traceback (most recent call last):
+  File "F:\Forum-Automation-Tool\blackhatworld_functions.py", line 570, in find_random_thread_link_from_subforum
+    wait.until(
+    ~~~~~~~~~~^
+        EC.presence_of_all_elements_located((By.XPATH, "//div[contains(@class, 'structItem')]"))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\support\wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-29 11:47:53,551 - INFO - Profile DarkCodeX: Opening default URL: https://www.google.com
+2025-03-29 11:48:01,883 - INFO - Profile DarkCodeX: Pausing for 36.03 seconds...
+2025-03-29 11:48:37,920 - INFO - Profile DarkCodeX: Resuming...
+2025-03-29 11:48:37,932 - INFO - Profile DarkCodeX: Switched back to original tab.
+2025-03-29 11:48:37,933 - INFO - performing random action
+2025-03-29 11:48:37,933 - WARNING - Skipping thread processing due to no thread link being found in subforum.

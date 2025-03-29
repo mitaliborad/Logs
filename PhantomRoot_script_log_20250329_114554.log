@@ -1,0 +1,177 @@
+2025-03-29 11:45:54,198 - INFO - Current time: 1743228954.1981254
+2025-03-29 11:45:54,198 - INFO - Token expiration time: 1743232867.4742439
+2025-03-29 11:45:54,199 - INFO - Token expiration time: 1743232867.4742439
+2025-03-29 11:45:54,200 - INFO - performing random action
+2025-03-29 11:45:54,201 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-29 11:45:54,201 - DEBUG - Scrolling page 3 times.
+2025-03-29 11:45:54,201 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:45:55,543 - DEBUG - Page scrolled.
+2025-03-29 11:45:57,544 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:45:58,640 - DEBUG - Page scrolled.
+2025-03-29 11:46:00,642 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:46:02,479 - DEBUG - Page scrolled.
+2025-03-29 11:46:04,481 - DEBUG - Random scrolls complete.
+2025-03-29 11:46:04,483 - DEBUG - Scrolling page 4 times.
+2025-03-29 11:46:04,484 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:46:05,639 - DEBUG - Page scrolled.
+2025-03-29 11:46:07,641 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:46:09,152 - DEBUG - Page scrolled.
+2025-03-29 11:46:11,154 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:46:12,885 - DEBUG - Page scrolled.
+2025-03-29 11:46:14,887 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:46:16,678 - DEBUG - Page scrolled.
+2025-03-29 11:46:18,680 - DEBUG - Random scrolls complete.
+2025-03-29 11:46:28,399 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/cpa.50/
+2025-03-29 11:46:31,939 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/revshare-the-safest-game.1698820/unread
+2025-03-29 11:46:31,939 - INFO - performing random action
+2025-03-29 11:46:48,746 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/revshare-the-safest-game.1698820/unread
+2025-03-29 11:46:48,749 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/revshare-the-safest-game.1698820/unread' to visited threads file 'Thread_links.txt'.
+2025-03-29 11:46:48,792 - INFO - Extracted thread title: RevShare, the safest game
+2025-03-29 11:46:48,793 - DEBUG - Scrolling page 2 times.
+2025-03-29 11:46:48,793 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:46:50,437 - DEBUG - Page scrolled.
+2025-03-29 11:46:52,439 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:46:54,295 - DEBUG - Page scrolled.
+2025-03-29 11:46:56,297 - DEBUG - Random scrolls complete.
+2025-03-29 11:46:58,659 - DEBUG - Scrolling page 3 times.
+2025-03-29 11:46:58,659 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:46:59,679 - DEBUG - Page scrolled.
+2025-03-29 11:47:02,681 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:47:03,733 - DEBUG - Page scrolled.
+2025-03-29 11:47:06,736 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:47:07,850 - DEBUG - Page scrolled.
+2025-03-29 11:47:10,853 - DEBUG - Random scrolls complete.
+2025-03-29 11:47:10,882 - DEBUG - Found 2 like buttons.
+2025-03-29 11:47:13,883 - INFO - Attempting to like 1 posts. There are 2 available.
+2025-03-29 11:47:14,886 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-29 11:47:14,907 - INFO - Like button clicked successfully using JavaScript.
+2025-03-29 11:47:14,908 - DEBUG - Liked post number 1 of 1.
+2025-03-29 11:47:19,667 - INFO - Liked 1 posts successfully.
+2025-03-29 11:47:19,669 - INFO - Liked 1 posts successfully.
+2025-03-29 11:47:22,209 - INFO - performing random action
+2025-03-29 11:47:22,211 - DEBUG - Scrolling page 5 times.
+2025-03-29 11:47:22,213 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:47:23,739 - DEBUG - Page scrolled.
+2025-03-29 11:47:26,741 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:47:28,428 - DEBUG - Page scrolled.
+2025-03-29 11:47:31,430 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:47:32,900 - DEBUG - Page scrolled.
+2025-03-29 11:47:35,902 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:47:37,148 - DEBUG - Page scrolled.
+2025-03-29 11:47:40,149 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:47:42,012 - DEBUG - Page scrolled.
+2025-03-29 11:47:45,014 - DEBUG - Random scrolls complete.
+2025-03-29 11:47:47,822 - DEBUG - Total comments in the thread: 2
+2025-03-29 11:47:48,017 - INFO - Post content extracted and saved to Thread-Details/Thread Content\RevShare, the safest game.txt
+2025-03-29 11:47:50,218 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-29 11:47:50,256 - DEBUG - Extracted main post content: There are many commission options on these CPA platforms. The one that is usually open to everyone is Revshare. You only get paid if the client spends money in a percentage. The loss to the company is very small. The way to get banned from Revshare would be to use fake accounts and buy products and then request chargebacks. I can't think of another way to get banned from Revshare. Even if you have 1,000 leads that don't generate anything, the company has lost almost nothing.
+
+When we think about DOI and SOI offers, we are getting paid for each registration. I would say that it is easier to get banned from these. If you are bringing in a lot of registrations that don't spend anything, even if you are working honestly, the company will simply prefer not to pay you and ban you. Most of the people I have seen getting banned was working with these offers, because they were unlucky enough to have leads that didn't invest anything initially, some use bots and fraud accounts, Another way is to buy traffic from suspicious networks, making you think you found a gold mine when having a lot of conversions (some can manipulate fake conversions) when it comes time to make your withdrawal, bad news you have been banned!
+I wouldn't recommend beginners to start with this.
+
+PPS also has its risks, There are very flashy PPS that pay almost $150 for an first acquisition. Remember that many These sites always have cheap shopping options, and if the company sees that your referrals are always spending the lowest amount and not spending more, they will also ban you and not pay you, after all, the company is paying $150 dollars for the affiliate to bring a person who spends only $5-10 dollars and disappears? no way, ban him, is fraud!
+
+revshare besides being the most profitable in the long term, is slow in short term, I would say it is the safest, the most available for everyone, and with less risk for the company and for you, If you are just starting out, I would recommend Revshare, you will be able to analyze your referrals' expenses and see how you are doing, if you are bringing great referrals.
+
+of theses other options I recommend you analyze other affiliates that work with DOI and SOI, PPS offers, and find a safe one, check your traffic sources too, verify the company you are working, rules, terms, anything! if you are newbie is easy to be banned using thoses, i work only with revshare, and I believe that most of the time the company will ask where the traffic is coming from, bad answers is ban too,
+
+I would like your opinion on this
+2025-03-29 11:47:53,924 - INFO - Successfully generated comments using Gemini API.
+2025-03-29 11:47:53,927 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-29 11:47:56,659 - INFO - performing random action
+2025-03-29 11:47:56,660 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 11:47:56,661 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 11:47:56,673 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 11:47:56,712 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 11:47:56,721 - DEBUG - Text box scrolled into view
+2025-03-29 11:47:57,305 - DEBUG - Initializing actionchains
+2025-03-29 11:47:57,323 - DEBUG - Post reply Element location: {'x': 1231, 'y': 2122}, size: {'height': 21, 'width': 68}
+2025-03-29 11:47:57,324 - DEBUG - Target click coordinates: (1265, 2132)
+2025-03-29 11:48:06,213 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-29 11:48:06,215 - DEBUG - Moving mouse to text box element.
+2025-03-29 11:48:06,217 - DEBUG - Clicking on the text box.
+2025-03-29 11:48:06,220 - DEBUG - Sending keys with content: Yeah, revshare is definitely a longer game, but that makes sense for building something sustainable. What are your go-to strategies for finding those high-value leads that actually convert down the line?
+
+2025-03-29 11:48:11,803 - DEBUG - Clicking on post reply button.
+2025-03-29 11:48:21,588 - ERROR - Error posting comment: Message: stale element reference: stale element not found
+  (Session info: chrome=134.0.6998.44); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF762B00C45+27221]
+	(No symbol) [0x00007FF762A66F30]
+	(No symbol) [0x00007FF7628E5ADA]
+	(No symbol) [0x00007FF7628FBBF4]
+	(No symbol) [0x00007FF7628FA6C3]
+	(No symbol) [0x00007FF7628EE161]
+	(No symbol) [0x00007FF7628EBF42]
+	(No symbol) [0x00007FF7628F01FC]
+	(No symbol) [0x00007FF7628F02CF]
+	(No symbol) [0x00007FF762946D54]
+	(No symbol) [0x00007FF762945FB0]
+	(No symbol) [0x00007FF76299B940]
+	(No symbol) [0x00007FF762967C9A]
+	(No symbol) [0x00007FF7629904E3]
+	(No symbol) [0x00007FF762967A73]
+	(No symbol) [0x00007FF762930750]
+	(No symbol) [0x00007FF762931A03]
+	GetHandleVerifier [0x00007FF762E66E2D+3591229]
+	GetHandleVerifier [0x00007FF762E7E45A+3687018]
+	GetHandleVerifier [0x00007FF762E73323+3641651]
+	GetHandleVerifier [0x00007FF762BCB6BA+857290]
+	(No symbol) [0x00007FF762A7230F]
+	(No symbol) [0x00007FF762A6E304]
+	(No symbol) [0x00007FF762A6E4A6]
+	(No symbol) [0x00007FF762A5D469]
+	BaseThreadInitThunk [0x00007FFA29D07374+20]
+	RtlUserThreadStart [0x00007FFA2B79CC91+33]
+Traceback (most recent call last):
+  File "F:\Forum-Automation-Tool\blackhatworld_functions.py", line 505, in post_comment
+    actions.perform()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\common\action_chains.py", line 94, in perform
+    self.w3c_actions.perform()
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\common\actions\action_builder.py", line 170, in perform
+    self.driver.execute(Command.W3C_ACTIONS, enc)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.StaleElementReferenceException: Message: stale element reference: stale element not found
+  (Session info: chrome=134.0.6998.44); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF762B00C45+27221]
+	(No symbol) [0x00007FF762A66F30]
+	(No symbol) [0x00007FF7628E5ADA]
+	(No symbol) [0x00007FF7628FBBF4]
+	(No symbol) [0x00007FF7628FA6C3]
+	(No symbol) [0x00007FF7628EE161]
+	(No symbol) [0x00007FF7628EBF42]
+	(No symbol) [0x00007FF7628F01FC]
+	(No symbol) [0x00007FF7628F02CF]
+	(No symbol) [0x00007FF762946D54]
+	(No symbol) [0x00007FF762945FB0]
+	(No symbol) [0x00007FF76299B940]
+	(No symbol) [0x00007FF762967C9A]
+	(No symbol) [0x00007FF7629904E3]
+	(No symbol) [0x00007FF762967A73]
+	(No symbol) [0x00007FF762930750]
+	(No symbol) [0x00007FF762931A03]
+	GetHandleVerifier [0x00007FF762E66E2D+3591229]
+	GetHandleVerifier [0x00007FF762E7E45A+3687018]
+	GetHandleVerifier [0x00007FF762E73323+3641651]
+	GetHandleVerifier [0x00007FF762BCB6BA+857290]
+	(No symbol) [0x00007FF762A7230F]
+	(No symbol) [0x00007FF762A6E304]
+	(No symbol) [0x00007FF762A6E4A6]
+	(No symbol) [0x00007FF762A5D469]
+	BaseThreadInitThunk [0x00007FFA29D07374+20]
+	RtlUserThreadStart [0x00007FFA2B79CC91+33]
+
+2025-03-29 11:48:21,614 - INFO - Comment posted successfully.
+2025-03-29 11:48:21,614 - INFO - Task Completed!!
+2025-03-29 11:48:32,784 - INFO - Navigated back to the homepage.
+2025-03-29 11:48:35,397 - INFO - Attempting to clear memory and resources.
+2025-03-29 11:48:35,426 - INFO - Garbage collection completed.
+2025-03-29 11:48:35,427 - INFO - Waiting for 1850 seconds before next execution.

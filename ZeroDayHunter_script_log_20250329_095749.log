@@ -1,0 +1,107 @@
+2025-03-29 09:57:49,178 - INFO - Current time: 1743222469.1784651
+2025-03-29 09:57:49,179 - INFO - Token expiration time: 1743233264.7923295
+2025-03-29 09:57:49,180 - INFO - Token expiration time: 1743233264.7923295
+2025-03-29 09:57:49,181 - INFO - Profile ZeroDayHunter: Pausing for 33.86 seconds...
+2025-03-29 09:58:23,045 - INFO - Profile ZeroDayHunter: Resuming...
+2025-03-29 09:58:23,048 - INFO - performing random action
+2025-03-29 09:58:23,051 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-29 09:58:23,053 - DEBUG - Scrolling page 4 times.
+2025-03-29 09:58:23,055 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:58:24,117 - DEBUG - Page scrolled.
+2025-03-29 09:58:26,120 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:58:27,446 - DEBUG - Page scrolled.
+2025-03-29 09:58:29,448 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:58:30,889 - DEBUG - Page scrolled.
+2025-03-29 09:58:32,891 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:58:34,190 - DEBUG - Page scrolled.
+2025-03-29 09:58:36,192 - DEBUG - Random scrolls complete.
+2025-03-29 09:58:36,193 - DEBUG - Scrolling page 3 times.
+2025-03-29 09:58:36,195 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:58:37,334 - DEBUG - Page scrolled.
+2025-03-29 09:58:39,336 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:58:41,129 - DEBUG - Page scrolled.
+2025-03-29 09:58:43,131 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:58:44,679 - DEBUG - Page scrolled.
+2025-03-29 09:58:46,681 - DEBUG - Random scrolls complete.
+2025-03-29 09:58:58,711 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/cloaking-and-content-generators.2/
+2025-03-29 09:59:03,094 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/tiktok-cloaking.1698623/unread
+2025-03-29 09:59:03,095 - INFO - Profile ZeroDayHunter: Minimizing window...
+2025-03-29 09:59:03,104 - INFO - Profile ZeroDayHunter: Window minimized. Pausing for 17.63 seconds...
+2025-03-29 09:59:20,736 - INFO - Profile ZeroDayHunter: Resuming after minimize...
+2025-03-29 09:59:20,738 - INFO - performing random action
+2025-03-29 09:59:34,404 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/tiktok-cloaking.1698623/unread
+2025-03-29 09:59:34,405 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/tiktok-cloaking.1698623/unread' to visited threads file 'Thread_links.txt'.
+2025-03-29 09:59:34,444 - INFO - Extracted thread title: TikTok cloaking
+2025-03-29 09:59:34,445 - DEBUG - Scrolling page 2 times.
+2025-03-29 09:59:34,445 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:59:35,593 - DEBUG - Page scrolled.
+2025-03-29 09:59:37,596 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:59:38,817 - DEBUG - Page scrolled.
+2025-03-29 09:59:40,820 - DEBUG - Random scrolls complete.
+2025-03-29 09:59:43,811 - DEBUG - Scrolling page 2 times.
+2025-03-29 09:59:43,812 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:59:45,327 - DEBUG - Page scrolled.
+2025-03-29 09:59:48,329 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:59:49,980 - DEBUG - Page scrolled.
+2025-03-29 09:59:52,982 - DEBUG - Random scrolls complete.
+2025-03-29 09:59:53,024 - DEBUG - Found 7 like buttons.
+2025-03-29 09:59:56,025 - INFO - Attempting to like 3 posts. There are 7 available.
+2025-03-29 09:59:57,037 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-29 09:59:57,070 - INFO - Like button clicked successfully using JavaScript.
+2025-03-29 09:59:57,072 - DEBUG - Liked post number 1 of 3.
+2025-03-29 10:00:02,053 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-29 10:00:02,076 - INFO - Like button clicked successfully using JavaScript.
+2025-03-29 10:00:02,078 - DEBUG - Liked post number 2 of 3.
+2025-03-29 10:00:07,092 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-29 10:00:07,100 - INFO - Like button clicked successfully using JavaScript.
+2025-03-29 10:00:07,101 - DEBUG - Liked post number 3 of 3.
+2025-03-29 10:00:11,405 - INFO - Liked 3 posts successfully.
+2025-03-29 10:00:11,407 - INFO - Liked 3 posts successfully.
+2025-03-29 10:00:13,872 - INFO - Profile ZeroDayHunter: Opening default URL: https://www.google.com
+2025-03-29 10:00:24,031 - INFO - Profile ZeroDayHunter: Pausing for 39.53 seconds...
+2025-03-29 10:01:03,561 - INFO - Profile ZeroDayHunter: Resuming...
+2025-03-29 10:01:03,611 - INFO - Profile ZeroDayHunter: Switched back to original tab.
+2025-03-29 10:01:03,613 - INFO - performing random action
+2025-03-29 10:01:03,616 - DEBUG - Scrolling page 5 times.
+2025-03-29 10:01:03,616 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:01:05,234 - DEBUG - Page scrolled.
+2025-03-29 10:01:08,236 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:01:09,612 - DEBUG - Page scrolled.
+2025-03-29 10:01:12,614 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:01:14,380 - DEBUG - Page scrolled.
+2025-03-29 10:01:17,383 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:01:18,997 - DEBUG - Page scrolled.
+2025-03-29 10:01:21,999 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:01:23,260 - DEBUG - Page scrolled.
+2025-03-29 10:01:26,261 - DEBUG - Random scrolls complete.
+2025-03-29 10:01:29,162 - DEBUG - Total comments in the thread: 7
+2025-03-29 10:02:10,569 - INFO - Post content extracted and saved to Thread-Details/Thread Content\TikTok cloaking.txt
+2025-03-29 10:02:13,370 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-29 10:02:13,418 - DEBUG - Extracted main post content: Can I get TikTok ad cloaking to bypass TikTok policy and avoid account suspend I need a cloaking to advertise betting Whatsapp group with suspend
+2025-03-29 10:02:18,435 - INFO - Successfully generated comments using Gemini API.
+2025-03-29 10:02:18,438 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-29 10:02:20,946 - INFO - Profile ZeroDayHunter: Pausing for 39.68 seconds...
+2025-03-29 10:03:00,630 - INFO - Profile ZeroDayHunter: Resuming...
+2025-03-29 10:03:00,635 - INFO - performing random action
+2025-03-29 10:03:00,638 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 10:03:00,640 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 10:03:00,683 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 10:03:00,727 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 10:03:00,735 - DEBUG - Text box scrolled into view
+2025-03-29 10:03:01,346 - DEBUG - Initializing actionchains
+2025-03-29 10:03:01,422 - DEBUG - Post reply Element location: {'x': 1231, 'y': 2879}, size: {'height': 21, 'width': 68}
+2025-03-29 10:03:01,423 - DEBUG - Target click coordinates: (1265, 2889)
+2025-03-29 10:03:11,556 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-29 10:03:11,558 - DEBUG - Moving mouse to text box element.
+2025-03-29 10:03:11,560 - DEBUG - Clicking on the text box.
+2025-03-29 10:03:11,563 - DEBUG - Sending keys with content: Honestly, trying to skirt the rules like that usually ends up costing you more in the long run, and it's probably against the terms of service anyway. Why not try building a legitimate following instead?
+
+2025-03-29 10:03:17,514 - DEBUG - Clicking on post reply button.
+2025-03-29 10:03:19,173 - DEBUG - Performed Actionchains
+2025-03-29 10:03:19,174 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-29 10:03:23,175 - INFO - Comment posted successfully.
+2025-03-29 10:03:23,181 - INFO - Task Completed!!
+2025-03-29 10:03:25,613 - INFO - Navigated back to the homepage.
+2025-03-29 10:03:28,042 - INFO - Attempting to clear memory and resources.
+2025-03-29 10:03:28,072 - INFO - Garbage collection completed.
+2025-03-29 10:03:28,072 - INFO - Waiting for 1850 seconds before next execution.

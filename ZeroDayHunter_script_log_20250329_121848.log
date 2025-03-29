@@ -1,0 +1,105 @@
+2025-03-29 12:18:48,184 - INFO - Current time: 1743230928.1846135
+2025-03-29 12:18:48,187 - INFO - Token expiration time: 1743233264.7923295
+2025-03-29 12:18:48,189 - INFO - Token expiration time: 1743233264.7923295
+2025-03-29 12:18:48,194 - INFO - Profile ZeroDayHunter: Pausing for 39.59 seconds...
+2025-03-29 12:19:27,790 - INFO - Profile ZeroDayHunter: Resuming...
+2025-03-29 12:19:27,792 - INFO - performing random action
+2025-03-29 12:19:27,795 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-29 12:19:27,803 - DEBUG - Scrolling page 2 times.
+2025-03-29 12:19:27,805 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:19:28,848 - DEBUG - Page scrolled.
+2025-03-29 12:19:30,853 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:19:32,395 - DEBUG - Page scrolled.
+2025-03-29 12:19:34,397 - DEBUG - Random scrolls complete.
+2025-03-29 12:19:34,399 - DEBUG - Scrolling page 2 times.
+2025-03-29 12:19:34,401 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:19:36,262 - DEBUG - Page scrolled.
+2025-03-29 12:19:38,264 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:19:40,241 - DEBUG - Page scrolled.
+2025-03-29 12:19:42,243 - DEBUG - Random scrolls complete.
+2025-03-29 12:19:51,713 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/linkedin.214/
+2025-03-29 12:19:55,619 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/linkedin-how-to-prevent-restricting-or-banning-accounts.1587755/unread
+2025-03-29 12:19:55,619 - INFO - performing random action
+2025-03-29 12:20:03,552 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/linkedin-how-to-prevent-restricting-or-banning-accounts.1587755/unread
+2025-03-29 12:20:03,553 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/linkedin-how-to-prevent-restricting-or-banning-accounts.1587755/unread' to visited threads file 'Thread_links.txt'.
+2025-03-29 12:20:03,585 - INFO - Extracted thread title: LinkedIn How to prevent restricting or banning accounts
+2025-03-29 12:20:03,586 - DEBUG - Scrolling page 3 times.
+2025-03-29 12:20:03,586 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:20:05,447 - DEBUG - Page scrolled.
+2025-03-29 12:20:07,449 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:20:09,146 - DEBUG - Page scrolled.
+2025-03-29 12:20:11,154 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:20:12,351 - DEBUG - Page scrolled.
+2025-03-29 12:20:14,357 - DEBUG - Random scrolls complete.
+2025-03-29 12:20:17,022 - DEBUG - Scrolling page 2 times.
+2025-03-29 12:20:17,023 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:20:18,119 - DEBUG - Page scrolled.
+2025-03-29 12:20:21,122 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:20:22,611 - DEBUG - Page scrolled.
+2025-03-29 12:20:25,613 - DEBUG - Random scrolls complete.
+2025-03-29 12:20:25,673 - DEBUG - Found 20 like buttons.
+2025-03-29 12:20:28,676 - INFO - Attempting to like 1 posts. There are 20 available.
+2025-03-29 12:20:29,232 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-29 12:20:29,272 - INFO - Like button clicked successfully using JavaScript.
+2025-03-29 12:20:29,274 - DEBUG - Liked post number 1 of 1.
+2025-03-29 12:20:33,692 - INFO - Liked 1 posts successfully.
+2025-03-29 12:20:33,696 - INFO - Liked 1 posts successfully.
+2025-03-29 12:20:36,281 - INFO - Profile ZeroDayHunter: Pausing for 47.69 seconds...
+2025-03-29 12:21:23,974 - INFO - Profile ZeroDayHunter: Resuming...
+2025-03-29 12:21:23,978 - INFO - performing random action
+2025-03-29 12:21:23,980 - DEBUG - Scrolling page 7 times.
+2025-03-29 12:21:23,982 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:21:25,429 - DEBUG - Page scrolled.
+2025-03-29 12:21:28,430 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:21:29,788 - DEBUG - Page scrolled.
+2025-03-29 12:21:32,791 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:21:34,798 - DEBUG - Page scrolled.
+2025-03-29 12:21:37,803 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:21:39,691 - DEBUG - Page scrolled.
+2025-03-29 12:21:42,694 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:21:44,297 - DEBUG - Page scrolled.
+2025-03-29 12:21:47,300 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:21:48,863 - DEBUG - Page scrolled.
+2025-03-29 12:21:51,865 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 12:21:52,967 - DEBUG - Page scrolled.
+2025-03-29 12:21:55,968 - DEBUG - Random scrolls complete.
+2025-03-29 12:21:58,854 - DEBUG - Total comments in the thread: 20
+2025-03-29 12:24:15,435 - INFO - Post content extracted and saved to Thread-Details/Thread Content\LinkedIn How to prevent restricting or banning accounts.txt
+2025-03-29 12:24:17,476 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-29 12:24:17,512 - DEBUG - Extracted main post content: Hey everyone!
+
+The last few weeks i noticed that Linkedin has become very strict against Fake accounts. Are there any best practices to prevent Linkedin from detecting?
+
+I have a few accounts for automation, but last few days linkedin bans my accounts for no reason.
+
+Beste practices questions:
+- Which type of proxy is recommended?
+- Which type of linkedin accounts should i buy?
+- I am already using a multibrowser app.
+
+Please help out a newbie!
+2025-03-29 12:24:21,288 - INFO - Successfully generated comments using Gemini API.
+2025-03-29 12:24:21,292 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-29 12:24:24,188 - INFO - performing random action
+2025-03-29 12:24:24,190 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 12:24:24,192 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 12:24:24,233 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 12:24:24,285 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 12:24:24,292 - DEBUG - Text box scrolled into view
+2025-03-29 12:24:25,201 - DEBUG - Initializing actionchains
+2025-03-29 12:24:25,221 - DEBUG - Post reply Element location: {'x': 1231, 'y': 6864}, size: {'height': 21, 'width': 68}
+2025-03-29 12:24:25,222 - DEBUG - Target click coordinates: (1265, 6874)
+2025-03-29 12:24:42,814 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-29 12:24:42,816 - DEBUG - Moving mouse to text box element.
+2025-03-29 12:24:42,818 - DEBUG - Clicking on the text box.
+2025-03-29 12:24:42,821 - DEBUG - Sending keys with content: Honestly, it's a cat-and-mouse game, isn't it? Try warming up your accounts slowly before automating; seems to help avoid immediate flags.
+
+2025-03-29 12:24:48,061 - DEBUG - Clicking on post reply button.
+2025-03-29 12:24:59,016 - DEBUG - Performed Actionchains
+2025-03-29 12:24:59,017 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-29 12:25:03,018 - INFO - Comment posted successfully.
+2025-03-29 12:25:03,020 - INFO - Task Completed!!
+2025-03-29 12:25:12,401 - INFO - Navigated back to the homepage.
+2025-03-29 12:25:14,951 - INFO - Attempting to clear memory and resources.
+2025-03-29 12:25:14,976 - INFO - Garbage collection completed.
+2025-03-29 12:25:14,976 - INFO - Waiting for 1850 seconds before next execution.

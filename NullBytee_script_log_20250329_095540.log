@@ -1,0 +1,118 @@
+2025-03-29 09:55:40,198 - INFO - Current time: 1743222340.1989121
+2025-03-29 09:55:40,199 - INFO - Token expiration time: 1743233134.824351
+2025-03-29 09:55:40,200 - INFO - Token expiration time: 1743233134.824351
+2025-03-29 09:55:40,200 - INFO - Profile NullBytee: Minimizing window...
+2025-03-29 09:55:40,205 - INFO - Profile NullBytee: Window minimized. Pausing for 18.96 seconds...
+2025-03-29 09:55:59,165 - INFO - Profile NullBytee: Resuming after minimize...
+2025-03-29 09:55:59,168 - INFO - performing random action
+2025-03-29 09:55:59,171 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-29 09:55:59,175 - DEBUG - Scrolling page 2 times.
+2025-03-29 09:55:59,177 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:56:13,521 - DEBUG - Page scrolled.
+2025-03-29 09:56:15,523 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:56:16,551 - DEBUG - Page scrolled.
+2025-03-29 09:56:18,552 - DEBUG - Random scrolls complete.
+2025-03-29 09:56:18,554 - DEBUG - Scrolling page 2 times.
+2025-03-29 09:56:18,556 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:56:20,458 - DEBUG - Page scrolled.
+2025-03-29 09:56:22,460 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:56:24,308 - DEBUG - Page scrolled.
+2025-03-29 09:56:26,310 - DEBUG - Random scrolls complete.
+2025-03-29 09:56:34,657 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/linkedin.214/
+2025-03-29 09:56:37,934 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/grow-company-linkedin-account.1573405/unread
+2025-03-29 09:56:37,935 - INFO - Profile NullBytee: Pausing for 45.86 seconds...
+2025-03-29 09:57:23,791 - INFO - Profile NullBytee: Resuming...
+2025-03-29 09:57:23,793 - INFO - performing random action
+2025-03-29 09:58:01,125 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/grow-company-linkedin-account.1573405/unread
+2025-03-29 09:58:01,128 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/grow-company-linkedin-account.1573405/unread' to visited threads file 'Thread_links.txt'.
+2025-03-29 09:58:01,165 - INFO - Extracted thread title: Grow Company LinkedIn Account
+2025-03-29 09:58:01,166 - DEBUG - Scrolling page 2 times.
+2025-03-29 09:58:01,167 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:58:02,481 - DEBUG - Page scrolled.
+2025-03-29 09:58:04,484 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:58:06,024 - DEBUG - Page scrolled.
+2025-03-29 09:58:08,026 - DEBUG - Random scrolls complete.
+2025-03-29 09:58:10,116 - DEBUG - Scrolling page 2 times.
+2025-03-29 09:58:10,117 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:58:11,362 - DEBUG - Page scrolled.
+2025-03-29 09:58:14,364 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:58:16,185 - DEBUG - Page scrolled.
+2025-03-29 09:58:19,186 - DEBUG - Random scrolls complete.
+2025-03-29 09:58:19,227 - DEBUG - Found 11 like buttons.
+2025-03-29 09:58:22,229 - INFO - Attempting to like 4 posts. There are 11 available.
+2025-03-29 09:58:22,767 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-29 09:58:22,788 - INFO - Like button clicked successfully using JavaScript.
+2025-03-29 09:58:22,789 - DEBUG - Liked post number 1 of 4.
+2025-03-29 09:58:27,959 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-29 09:58:27,980 - INFO - Like button clicked successfully using JavaScript.
+2025-03-29 09:58:27,982 - DEBUG - Liked post number 2 of 4.
+2025-03-29 09:58:33,401 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-29 09:58:33,418 - INFO - Like button clicked successfully using JavaScript.
+2025-03-29 09:58:33,418 - DEBUG - Liked post number 3 of 4.
+2025-03-29 09:58:38,760 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-29 09:58:38,779 - INFO - Like button clicked successfully using JavaScript.
+2025-03-29 09:58:38,782 - DEBUG - Liked post number 4 of 4.
+2025-03-29 09:58:42,906 - INFO - Liked 4 posts successfully.
+2025-03-29 09:58:42,908 - INFO - Liked 4 posts successfully.
+2025-03-29 09:58:45,377 - INFO - performing random action
+2025-03-29 09:58:45,379 - DEBUG - Scrolling page 6 times.
+2025-03-29 09:58:45,381 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:58:46,400 - DEBUG - Page scrolled.
+2025-03-29 09:58:49,402 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:58:50,998 - DEBUG - Page scrolled.
+2025-03-29 09:58:54,000 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:58:55,707 - DEBUG - Page scrolled.
+2025-03-29 09:58:58,708 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:59:00,572 - DEBUG - Page scrolled.
+2025-03-29 09:59:03,574 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:59:04,602 - DEBUG - Page scrolled.
+2025-03-29 09:59:07,604 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:59:08,844 - DEBUG - Page scrolled.
+2025-03-29 09:59:11,847 - DEBUG - Random scrolls complete.
+2025-03-29 09:59:14,728 - DEBUG - Total comments in the thread: 11
+2025-03-29 10:00:07,562 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Grow Company LinkedIn Account.txt
+2025-03-29 10:00:10,029 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-29 10:00:10,054 - DEBUG - Extracted main post content: Hey BHW, I'm looking to grow a company LinkedIn account to around the 10K mark. Couple of points:
+
+- Most team members are not on LinkedIn
+- Don't really want to post weird, cringe content
+- Need to make this happen within 2 months
+- Cannot risk getting banned/nerfed at all as it is a legitimate company
+
+Do you suggest:
+
+- Social panel approach & buying straight through to 10K?
+- Run follower ads (expensive but can pay) alongside this
+- Influencer partnership
+- Something else?
+
+Additionally, if anyone has experience with (safe) social panels and can speak about their experience, I would be grateful.
+
+Thanks!
+2025-03-29 10:00:15,203 - INFO - Successfully generated comments using Gemini API.
+2025-03-29 10:00:15,205 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-29 10:00:17,888 - INFO - Profile NullBytee: Pausing for 32.72 seconds...
+2025-03-29 10:00:50,606 - INFO - Profile NullBytee: Resuming...
+2025-03-29 10:00:50,608 - INFO - performing random action
+2025-03-29 10:00:50,611 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 10:00:50,612 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 10:00:50,640 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 10:00:50,675 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 10:00:50,681 - DEBUG - Text box scrolled into view
+2025-03-29 10:00:51,485 - DEBUG - Initializing actionchains
+2025-03-29 10:00:51,507 - DEBUG - Post reply Element location: {'x': 1231, 'y': 4591}, size: {'height': 21, 'width': 68}
+2025-03-29 10:00:51,508 - DEBUG - Target click coordinates: (1265, 4601)
+2025-03-29 10:01:04,243 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-29 10:01:04,245 - DEBUG - Moving mouse to text box element.
+2025-03-29 10:01:04,247 - DEBUG - Clicking on the text box.
+2025-03-29 10:01:04,250 - DEBUG - Sending keys with content: Honestly, with that timeline, paid ads are probably your best bet, just target relevant industries and job titles; organic growth is a marathon, not a sprint.
+
+2025-03-29 10:01:09,825 - DEBUG - Clicking on post reply button.
+2025-03-29 10:01:20,505 - DEBUG - Performed Actionchains
+2025-03-29 10:01:20,507 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-29 10:01:24,511 - INFO - Comment posted successfully.
+2025-03-29 10:01:24,512 - INFO - Task Completed!!
+2025-03-29 10:01:58,928 - INFO - Navigated back to the homepage.
+2025-03-29 10:02:01,295 - INFO - Attempting to clear memory and resources.
+2025-03-29 10:02:01,330 - INFO - Garbage collection completed.
+2025-03-29 10:02:01,331 - INFO - Waiting for 1850 seconds before next execution.

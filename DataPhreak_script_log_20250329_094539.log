@@ -1,0 +1,136 @@
+2025-03-29 09:45:39,251 - INFO - Current time: 1743221739.251519
+2025-03-29 09:45:39,252 - INFO - Token expiration time: 1743232532.791173
+2025-03-29 09:45:39,252 - INFO - Token expiration time: 1743232532.791173
+2025-03-29 09:45:39,252 - INFO - performing random action
+2025-03-29 09:45:39,253 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-29 09:45:39,254 - DEBUG - Scrolling page 3 times.
+2025-03-29 09:45:39,254 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:50:39,274 - WARNING - Scrolling failed: Message: timeout: Timed out receiving message from renderer: 300.000
+  (Session info: chrome=134.0.6998.44)
+Stacktrace:
+	GetHandleVerifier [0x00007FF762B00C45+27221]
+	(No symbol) [0x00007FF762A66F30]
+	(No symbol) [0x00007FF7628E5ADA]
+	(No symbol) [0x00007FF7628D599C]
+	(No symbol) [0x00007FF7628D568A]
+	(No symbol) [0x00007FF7628D320F]
+	(No symbol) [0x00007FF7628D3CDF]
+	(No symbol) [0x00007FF7628DFD5E]
+	(No symbol) [0x00007FF7628F5FE3]
+	(No symbol) [0x00007FF7628FD11A]
+	(No symbol) [0x00007FF7628D444D]
+	(No symbol) [0x00007FF7628F5D15]
+	(No symbol) [0x00007FF7629903C5]
+	(No symbol) [0x00007FF762967A73]
+	(No symbol) [0x00007FF762930750]
+	(No symbol) [0x00007FF762931A03]
+	GetHandleVerifier [0x00007FF762E66E2D+3591229]
+	GetHandleVerifier [0x00007FF762E7E45A+3687018]
+	GetHandleVerifier [0x00007FF762E73323+3641651]
+	GetHandleVerifier [0x00007FF762BCB6BA+857290]
+	(No symbol) [0x00007FF762A7230F]
+	(No symbol) [0x00007FF762A6E304]
+	(No symbol) [0x00007FF762A6E4A6]
+	(No symbol) [0x00007FF762A5D469]
+	BaseThreadInitThunk [0x00007FFA29D07374+20]
+	RtlUserThreadStart [0x00007FFA2B79CC91+33]
+
+2025-03-29 09:50:41,230 - DEBUG - Page scrolled.
+2025-03-29 09:50:43,233 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:50:44,517 - DEBUG - Page scrolled.
+2025-03-29 09:50:46,520 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:50:47,795 - DEBUG - Page scrolled.
+2025-03-29 09:50:49,798 - DEBUG - Random scrolls complete.
+2025-03-29 09:50:49,800 - DEBUG - Scrolling page 3 times.
+2025-03-29 09:50:49,802 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:50:51,375 - DEBUG - Page scrolled.
+2025-03-29 09:50:53,377 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:50:55,190 - DEBUG - Page scrolled.
+2025-03-29 09:50:57,191 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:50:58,500 - DEBUG - Page scrolled.
+2025-03-29 09:51:00,502 - DEBUG - Random scrolls complete.
+2025-03-29 09:51:08,756 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/graphic-design.169/
+2025-03-29 09:51:12,911 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/photoshop-or-canva.1597252/unread
+2025-03-29 09:51:12,912 - INFO - performing random action
+2025-03-29 09:51:23,507 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/photoshop-or-canva.1597252/unread
+2025-03-29 09:51:23,510 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/photoshop-or-canva.1597252/unread' to visited threads file 'Thread_links.txt'.
+2025-03-29 09:51:23,573 - INFO - Extracted thread title: Photoshop or Canva
+2025-03-29 09:51:23,574 - DEBUG - Scrolling page 3 times.
+2025-03-29 09:51:23,574 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:51:25,017 - DEBUG - Page scrolled.
+2025-03-29 09:51:27,019 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:51:29,033 - DEBUG - Page scrolled.
+2025-03-29 09:51:31,035 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:51:33,024 - DEBUG - Page scrolled.
+2025-03-29 09:51:35,026 - DEBUG - Random scrolls complete.
+2025-03-29 09:51:37,285 - DEBUG - Scrolling page 3 times.
+2025-03-29 09:51:37,287 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:51:39,297 - DEBUG - Page scrolled.
+2025-03-29 09:51:42,299 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:51:44,154 - DEBUG - Page scrolled.
+2025-03-29 09:51:47,157 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:51:49,083 - DEBUG - Page scrolled.
+2025-03-29 09:51:52,087 - DEBUG - Random scrolls complete.
+2025-03-29 09:51:52,140 - DEBUG - Found 20 like buttons.
+2025-03-29 09:51:55,142 - INFO - Attempting to like 3 posts. There are 20 available.
+2025-03-29 09:51:55,736 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-29 09:51:55,775 - INFO - Like button clicked successfully using JavaScript.
+2025-03-29 09:51:55,776 - DEBUG - Liked post number 1 of 3.
+2025-03-29 09:52:00,691 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-29 09:52:00,698 - INFO - Like button clicked successfully using JavaScript.
+2025-03-29 09:52:00,699 - DEBUG - Liked post number 2 of 3.
+2025-03-29 09:52:06,232 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-29 09:52:06,284 - INFO - Like button clicked successfully using JavaScript.
+2025-03-29 09:52:06,290 - DEBUG - Liked post number 3 of 3.
+2025-03-29 09:52:10,772 - INFO - Liked 3 posts successfully.
+2025-03-29 09:52:10,775 - INFO - Liked 3 posts successfully.
+2025-03-29 09:52:13,389 - INFO - Profile DataPhreak: Opening random website: https://www.adobe.com/in/products/photoshop.html
+2025-03-29 09:52:18,325 - INFO - Profile DataPhreak: Pausing for 35.68 seconds...
+2025-03-29 09:52:54,012 - INFO - Profile DataPhreak: Resuming...
+2025-03-29 09:52:54,062 - INFO - Profile DataPhreak: Switched back to original tab.
+2025-03-29 09:52:54,063 - INFO - performing random action
+2025-03-29 09:52:54,064 - DEBUG - Scrolling page 5 times.
+2025-03-29 09:52:54,064 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:52:55,464 - DEBUG - Page scrolled.
+2025-03-29 09:52:58,467 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:52:59,988 - DEBUG - Page scrolled.
+2025-03-29 09:53:02,992 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:53:04,287 - DEBUG - Page scrolled.
+2025-03-29 09:53:07,293 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:53:08,666 - DEBUG - Page scrolled.
+2025-03-29 09:53:11,668 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:53:13,217 - DEBUG - Page scrolled.
+2025-03-29 09:53:16,218 - DEBUG - Random scrolls complete.
+2025-03-29 09:53:18,732 - DEBUG - Total comments in the thread: 20
+2025-03-29 09:56:03,388 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Photoshop or Canva.txt
+2025-03-29 09:56:05,646 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-29 09:56:05,685 - DEBUG - Extracted main post content: What is better for designing
+
+Photoshop or Canva?
+
+I would like to know
+2025-03-29 09:56:10,240 - INFO - Successfully generated comments using Gemini API.
+2025-03-29 09:56:10,244 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-29 09:56:12,879 - INFO - performing random action
+2025-03-29 09:56:12,881 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 09:56:12,883 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 09:56:12,911 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 09:56:12,947 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 09:56:12,954 - DEBUG - Text box scrolled into view
+2025-03-29 09:56:13,640 - DEBUG - Initializing actionchains
+2025-03-29 09:56:13,673 - DEBUG - Post reply Element location: {'x': 1231, 'y': 6129}, size: {'height': 21, 'width': 68}
+2025-03-29 09:56:13,674 - DEBUG - Target click coordinates: (1265, 6139)
+2025-03-29 09:56:29,303 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-29 09:56:29,305 - DEBUG - Moving mouse to text box element.
+2025-03-29 09:56:29,306 - DEBUG - Clicking on the text box.
+2025-03-29 09:56:29,315 - DEBUG - Sending keys with content: Honestly, it depends on your skill level and what you're trying to create, but Canva's ease of use is a game changer if you're not a design pro.
+
+2025-03-29 09:56:34,593 - DEBUG - Clicking on post reply button.
+2025-03-29 09:56:45,575 - DEBUG - Performed Actionchains
+2025-03-29 09:56:45,577 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-29 09:56:49,580 - INFO - Comment posted successfully.
+2025-03-29 09:56:49,581 - INFO - Task Completed!!
+2025-03-29 09:56:57,260 - INFO - Navigated back to the homepage.
+2025-03-29 09:56:59,655 - INFO - Attempting to clear memory and resources.
+2025-03-29 09:56:59,684 - INFO - Garbage collection completed.
+2025-03-29 09:56:59,685 - INFO - Waiting for 1850 seconds before next execution.

@@ -1,0 +1,105 @@
+2025-03-29 09:53:07,888 - INFO - Current time: 1743222187.888963
+2025-03-29 09:53:07,889 - INFO - Token expiration time: 1743232982.3502593
+2025-03-29 09:53:07,890 - INFO - Token expiration time: 1743232982.3502593
+2025-03-29 09:53:07,890 - INFO - Profile BinaryGhost: Restoring window...
+2025-03-29 09:53:09,945 - INFO - performing random action
+2025-03-29 09:53:09,949 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-29 09:53:09,951 - DEBUG - Scrolling page 4 times.
+2025-03-29 09:53:09,952 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:53:12,326 - DEBUG - Page scrolled.
+2025-03-29 09:53:14,327 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:53:15,802 - DEBUG - Page scrolled.
+2025-03-29 09:53:17,804 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:53:19,813 - DEBUG - Page scrolled.
+2025-03-29 09:53:21,815 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:53:23,040 - DEBUG - Page scrolled.
+2025-03-29 09:53:25,041 - DEBUG - Random scrolls complete.
+2025-03-29 09:53:25,043 - DEBUG - Scrolling page 2 times.
+2025-03-29 09:53:25,046 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:53:26,603 - DEBUG - Page scrolled.
+2025-03-29 09:53:28,609 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:53:30,067 - DEBUG - Page scrolled.
+2025-03-29 09:53:32,071 - DEBUG - Random scrolls complete.
+2025-03-29 09:53:36,745 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/business-tax-advice.96/
+2025-03-29 09:53:41,027 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/wise-vs-revoult.1694716/unread
+2025-03-29 09:53:41,028 - INFO - Profile BinaryGhost: Opening default URL: https://www.google.com
+2025-03-29 09:53:47,846 - INFO - Profile BinaryGhost: Pausing for 30.91 seconds...
+2025-03-29 09:54:18,760 - INFO - Profile BinaryGhost: Resuming...
+2025-03-29 09:54:18,831 - INFO - Profile BinaryGhost: Switched back to original tab.
+2025-03-29 09:54:18,832 - INFO - performing random action
+2025-03-29 09:54:28,605 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/wise-vs-revoult.1694716/unread
+2025-03-29 09:54:28,608 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/wise-vs-revoult.1694716/unread' to visited threads file 'Thread_links.txt'.
+2025-03-29 09:54:28,689 - INFO - Extracted thread title: wise vs revoult
+2025-03-29 09:54:28,690 - DEBUG - Scrolling page 3 times.
+2025-03-29 09:54:28,691 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:54:30,117 - DEBUG - Page scrolled.
+2025-03-29 09:54:32,120 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:54:33,155 - DEBUG - Page scrolled.
+2025-03-29 09:54:35,161 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:54:36,474 - DEBUG - Page scrolled.
+2025-03-29 09:54:38,476 - DEBUG - Random scrolls complete.
+2025-03-29 09:54:40,703 - DEBUG - Scrolling page 4 times.
+2025-03-29 09:54:40,704 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:54:42,639 - DEBUG - Page scrolled.
+2025-03-29 09:54:45,640 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:54:47,582 - DEBUG - Page scrolled.
+2025-03-29 09:54:50,587 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:54:52,519 - DEBUG - Page scrolled.
+2025-03-29 09:54:55,522 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:54:56,927 - DEBUG - Page scrolled.
+2025-03-29 09:54:59,930 - DEBUG - Random scrolls complete.
+2025-03-29 09:54:59,987 - DEBUG - Found 17 like buttons.
+2025-03-29 09:55:02,989 - INFO - Attempting to like 1 posts. There are 17 available.
+2025-03-29 09:55:03,978 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-29 09:55:04,041 - INFO - Like button clicked successfully using JavaScript.
+2025-03-29 09:55:04,053 - DEBUG - Liked post number 1 of 1.
+2025-03-29 09:55:08,300 - INFO - Liked 1 posts successfully.
+2025-03-29 09:55:08,303 - INFO - Liked 1 posts successfully.
+2025-03-29 09:55:10,763 - INFO - performing random action
+2025-03-29 09:55:10,764 - DEBUG - Scrolling page 6 times.
+2025-03-29 09:55:10,764 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:55:12,525 - DEBUG - Page scrolled.
+2025-03-29 09:55:15,526 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:55:16,609 - DEBUG - Page scrolled.
+2025-03-29 09:55:19,610 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:55:21,157 - DEBUG - Page scrolled.
+2025-03-29 09:55:24,211 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:55:26,222 - DEBUG - Page scrolled.
+2025-03-29 09:55:29,224 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:55:31,083 - DEBUG - Page scrolled.
+2025-03-29 09:55:34,085 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 09:55:35,571 - DEBUG - Page scrolled.
+2025-03-29 09:55:38,574 - DEBUG - Random scrolls complete.
+2025-03-29 09:55:40,881 - DEBUG - Total comments in the thread: 17
+2025-03-29 09:57:47,287 - INFO - Post content extracted and saved to Thread-Details/Thread Content\wise vs revoult.txt
+2025-03-29 09:57:49,848 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-29 09:57:49,872 - DEBUG - Extracted main post content: they both similar but which one you prefer and why?
+2025-03-29 09:57:55,031 - INFO - Successfully generated comments using Gemini API.
+2025-03-29 09:57:55,035 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-29 09:57:57,108 - INFO - Profile BinaryGhost: Opening default URL: https://www.google.com
+2025-03-29 09:58:26,049 - INFO - Profile BinaryGhost: Pausing for 46.42 seconds...
+2025-03-29 09:59:12,472 - INFO - Profile BinaryGhost: Resuming...
+2025-03-29 09:59:12,548 - INFO - Profile BinaryGhost: Switched back to original tab.
+2025-03-29 09:59:12,553 - INFO - performing random action
+2025-03-29 09:59:12,554 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 09:59:12,554 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 09:59:12,597 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 09:59:12,645 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 09:59:12,658 - DEBUG - Text box scrolled into view
+2025-03-29 09:59:13,574 - DEBUG - Initializing actionchains
+2025-03-29 09:59:13,618 - DEBUG - Post reply Element location: {'x': 1231, 'y': 5548}, size: {'height': 21, 'width': 68}
+2025-03-29 09:59:13,618 - DEBUG - Target click coordinates: (1265, 5558)
+2025-03-29 09:59:28,438 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-29 09:59:28,438 - DEBUG - Moving mouse to text box element.
+2025-03-29 09:59:28,439 - DEBUG - Clicking on the text box.
+2025-03-29 09:59:28,440 - DEBUG - Sending keys with content: Tough call! I lean towards the one that offers the most flexibility down the road, even if it's a bit harder to learn at first.
+
+2025-03-29 09:59:33,968 - DEBUG - Clicking on post reply button.
+2025-03-29 09:59:35,239 - DEBUG - Performed Actionchains
+2025-03-29 09:59:35,240 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-29 09:59:39,241 - INFO - Comment posted successfully.
+2025-03-29 09:59:39,244 - INFO - Task Completed!!
+2025-03-29 09:59:41,546 - INFO - Navigated back to the homepage.
+2025-03-29 09:59:43,772 - INFO - Attempting to clear memory and resources.
+2025-03-29 09:59:43,800 - INFO - Garbage collection completed.
+2025-03-29 09:59:43,801 - INFO - Waiting for 1850 seconds before next execution.

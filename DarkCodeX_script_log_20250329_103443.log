@@ -1,0 +1,100 @@
+2025-03-29 10:34:43,818 - INFO - Current time: 1743224683.8187804
+2025-03-29 10:34:43,822 - INFO - Token expiration time: 1743233204.704339
+2025-03-29 10:34:43,824 - INFO - Token expiration time: 1743233204.704339
+2025-03-29 10:34:43,826 - INFO - Profile DarkCodeX: Opening default URL: https://www.google.com
+2025-03-29 10:34:51,077 - INFO - Profile DarkCodeX: Pausing for 42.77 seconds...
+2025-03-29 10:35:33,850 - INFO - Profile DarkCodeX: Resuming...
+2025-03-29 10:35:33,901 - INFO - Profile DarkCodeX: Switched back to original tab.
+2025-03-29 10:35:33,903 - INFO - performing random action
+2025-03-29 10:35:33,904 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-29 10:35:33,905 - DEBUG - Scrolling page 4 times.
+2025-03-29 10:35:33,906 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:35:35,252 - DEBUG - Page scrolled.
+2025-03-29 10:35:37,254 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:35:38,339 - DEBUG - Page scrolled.
+2025-03-29 10:35:40,341 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:35:41,760 - DEBUG - Page scrolled.
+2025-03-29 10:35:43,762 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:35:45,200 - DEBUG - Page scrolled.
+2025-03-29 10:35:47,201 - DEBUG - Random scrolls complete.
+2025-03-29 10:35:47,204 - DEBUG - Scrolling page 2 times.
+2025-03-29 10:35:47,205 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:35:48,255 - DEBUG - Page scrolled.
+2025-03-29 10:35:50,257 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:35:51,718 - DEBUG - Page scrolled.
+2025-03-29 10:35:53,719 - DEBUG - Random scrolls complete.
+2025-03-29 10:36:03,797 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/business-tax-advice.96/
+2025-03-29 10:36:07,721 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/stripe-is-starting-to-charge-a-15-00-fee-when-you-get-a-dispute.1699839/unread
+2025-03-29 10:36:07,722 - INFO - performing random action
+2025-03-29 10:36:19,853 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/stripe-is-starting-to-charge-a-15-00-fee-when-you-get-a-dispute.1699839/unread
+2025-03-29 10:36:19,857 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/stripe-is-starting-to-charge-a-15-00-fee-when-you-get-a-dispute.1699839/unread' to visited threads file 'Thread_links.txt'.
+2025-03-29 10:36:19,914 - INFO - Extracted thread title: Stripe is starting to charge a $15.00 fee when you get a dispute.
+2025-03-29 10:36:19,915 - DEBUG - Scrolling page 3 times.
+2025-03-29 10:36:19,915 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:36:21,537 - DEBUG - Page scrolled.
+2025-03-29 10:36:23,539 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:36:25,196 - DEBUG - Page scrolled.
+2025-03-29 10:36:27,198 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:36:29,170 - DEBUG - Page scrolled.
+2025-03-29 10:36:31,172 - DEBUG - Random scrolls complete.
+2025-03-29 10:36:34,055 - DEBUG - Scrolling page 1 times.
+2025-03-29 10:36:34,056 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:36:35,220 - DEBUG - Page scrolled.
+2025-03-29 10:36:38,222 - DEBUG - Random scrolls complete.
+2025-03-29 10:36:38,254 - DEBUG - Found 20 like buttons.
+2025-03-29 10:36:41,255 - INFO - Attempting to like 1 posts. There are 20 available.
+2025-03-29 10:36:42,051 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-29 10:36:42,076 - INFO - Like button clicked successfully using JavaScript.
+2025-03-29 10:36:42,076 - DEBUG - Liked post number 1 of 1.
+2025-03-29 10:36:46,858 - INFO - Liked 1 posts successfully.
+2025-03-29 10:36:46,859 - INFO - Liked 1 posts successfully.
+2025-03-29 10:36:49,174 - INFO - performing random action
+2025-03-29 10:36:49,177 - DEBUG - Scrolling page 7 times.
+2025-03-29 10:36:49,179 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:36:50,369 - DEBUG - Page scrolled.
+2025-03-29 10:36:53,372 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:36:54,974 - DEBUG - Page scrolled.
+2025-03-29 10:36:57,975 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:36:59,612 - DEBUG - Page scrolled.
+2025-03-29 10:37:02,615 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:37:04,458 - DEBUG - Page scrolled.
+2025-03-29 10:37:07,460 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:37:08,966 - DEBUG - Page scrolled.
+2025-03-29 10:37:11,968 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:37:13,024 - DEBUG - Page scrolled.
+2025-03-29 10:37:16,026 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 10:37:17,918 - DEBUG - Page scrolled.
+2025-03-29 10:37:20,920 - DEBUG - Random scrolls complete.
+2025-03-29 10:37:23,262 - DEBUG - Total comments in the thread: 20
+2025-03-29 10:37:45,967 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Stripe is starting to charge a $15.00 fee when you get a dispute..txt
+2025-03-29 10:37:48,588 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-29 10:37:48,618 - DEBUG - Extracted main post content: Stripe is starting to charge a $15.00 fee when you get a dispute. Starts from the 17 June 2025, you will get the fee back if you win the dispute though.
+2025-03-29 10:37:53,724 - INFO - Successfully generated comments using Gemini API.
+2025-03-29 10:37:53,727 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-29 10:37:56,227 - INFO - Profile DarkCodeX: Opening random website: https://letshyphen.com/
+2025-03-29 10:38:31,633 - INFO - Profile DarkCodeX: Pausing for 48.92 seconds...
+2025-03-29 10:39:20,556 - INFO - Profile DarkCodeX: Resuming...
+2025-03-29 10:39:20,583 - INFO - Profile DarkCodeX: Switched back to original tab.
+2025-03-29 10:39:20,584 - INFO - performing random action
+2025-03-29 10:39:20,585 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 10:39:20,585 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 10:39:20,655 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 10:39:20,706 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 10:39:20,716 - DEBUG - Text box scrolled into view
+2025-03-29 10:39:21,458 - DEBUG - Initializing actionchains
+2025-03-29 10:39:21,487 - DEBUG - Post reply Element location: {'x': 1231, 'y': 8121}, size: {'height': 21, 'width': 68}
+2025-03-29 10:39:21,488 - DEBUG - Target click coordinates: (1265, 8131)
+2025-03-29 10:39:41,903 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-29 10:39:41,906 - DEBUG - Moving mouse to text box element.
+2025-03-29 10:39:41,907 - DEBUG - Clicking on the text box.
+2025-03-29 10:39:41,910 - DEBUG - Sending keys with content: That's a bummer, but at least they refund it if you win. Guess it'll make people think twice before disputing!
+
+2025-03-29 10:39:47,190 - DEBUG - Clicking on post reply button.
+2025-03-29 10:39:48,338 - DEBUG - Performed Actionchains
+2025-03-29 10:39:48,339 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-29 10:39:52,341 - INFO - Comment posted successfully.
+2025-03-29 10:39:52,343 - INFO - Task Completed!!
+2025-03-29 10:40:12,573 - INFO - Navigated back to the homepage.
+2025-03-29 10:40:15,096 - INFO - Attempting to clear memory and resources.
+2025-03-29 10:40:15,128 - INFO - Garbage collection completed.
+2025-03-29 10:40:15,129 - INFO - Waiting for 1850 seconds before next execution.

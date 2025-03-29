@@ -1,0 +1,104 @@
+2025-03-29 11:40:18,002 - INFO - Current time: 1743228618.0027537
+2025-03-29 11:40:18,004 - INFO - Token expiration time: 1743232982.3502593
+2025-03-29 11:40:18,004 - INFO - Token expiration time: 1743232982.3502593
+2025-03-29 11:40:18,005 - INFO - Profile BinaryGhost: Opening default URL: https://www.google.com
+2025-03-29 11:40:26,633 - INFO - Profile BinaryGhost: Pausing for 49.35 seconds...
+2025-03-29 11:41:15,986 - INFO - Profile BinaryGhost: Resuming...
+2025-03-29 11:41:16,007 - INFO - Profile BinaryGhost: Switched back to original tab.
+2025-03-29 11:41:16,008 - INFO - performing random action
+2025-03-29 11:41:16,008 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-29 11:41:16,009 - DEBUG - Scrolling page 2 times.
+2025-03-29 11:41:16,010 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:41:17,556 - DEBUG - Page scrolled.
+2025-03-29 11:41:19,559 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:41:21,415 - DEBUG - Page scrolled.
+2025-03-29 11:41:23,417 - DEBUG - Random scrolls complete.
+2025-03-29 11:41:23,419 - DEBUG - Scrolling page 2 times.
+2025-03-29 11:41:23,420 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:41:25,423 - DEBUG - Page scrolled.
+2025-03-29 11:41:27,425 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:41:29,169 - DEBUG - Page scrolled.
+2025-03-29 11:41:31,172 - DEBUG - Random scrolls complete.
+2025-03-29 11:41:37,693 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/video-production.170/
+2025-03-29 11:41:41,371 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/ai-to-create-cgi-video-ads.1610956/unread
+2025-03-29 11:41:41,372 - INFO - Profile BinaryGhost: Pausing for 41.41 seconds...
+2025-03-29 11:42:22,783 - INFO - Profile BinaryGhost: Resuming...
+2025-03-29 11:42:22,786 - INFO - performing random action
+2025-03-29 11:42:29,771 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/ai-to-create-cgi-video-ads.1610956/unread
+2025-03-29 11:42:29,773 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/ai-to-create-cgi-video-ads.1610956/unread' to visited threads file 'Thread_links.txt'.
+2025-03-29 11:42:29,806 - INFO - Extracted thread title: AI to create CGI video Ads
+2025-03-29 11:42:29,807 - DEBUG - Scrolling page 3 times.
+2025-03-29 11:42:29,808 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:42:31,676 - DEBUG - Page scrolled.
+2025-03-29 11:42:33,678 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:42:35,654 - DEBUG - Page scrolled.
+2025-03-29 11:42:37,656 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:42:39,495 - DEBUG - Page scrolled.
+2025-03-29 11:42:41,497 - DEBUG - Random scrolls complete.
+2025-03-29 11:42:43,964 - DEBUG - Scrolling page 4 times.
+2025-03-29 11:42:43,966 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:42:45,702 - DEBUG - Page scrolled.
+2025-03-29 11:42:48,704 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:42:50,581 - DEBUG - Page scrolled.
+2025-03-29 11:42:53,583 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:42:55,240 - DEBUG - Page scrolled.
+2025-03-29 11:42:58,242 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:42:59,299 - DEBUG - Page scrolled.
+2025-03-29 11:43:02,302 - DEBUG - Random scrolls complete.
+2025-03-29 11:43:02,338 - DEBUG - Found 3 like buttons.
+2025-03-29 11:43:05,339 - INFO - Attempting to like 3 posts. There are 3 available.
+2025-03-29 11:43:06,100 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-29 11:43:06,122 - INFO - Like button clicked successfully using JavaScript.
+2025-03-29 11:43:06,122 - DEBUG - Liked post number 1 of 3.
+2025-03-29 11:43:10,744 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-29 11:43:10,763 - INFO - Like button clicked successfully using JavaScript.
+2025-03-29 11:43:10,764 - DEBUG - Liked post number 2 of 3.
+2025-03-29 11:43:16,258 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-29 11:43:16,279 - INFO - Like button clicked successfully using JavaScript.
+2025-03-29 11:43:16,279 - DEBUG - Liked post number 3 of 3.
+2025-03-29 11:43:21,245 - INFO - Liked 3 posts successfully.
+2025-03-29 11:43:21,247 - INFO - Liked 3 posts successfully.
+2025-03-29 11:43:24,124 - INFO - Profile BinaryGhost: Opening default URL: https://www.google.com
+2025-03-29 11:43:28,550 - INFO - Profile BinaryGhost: Pausing for 38.86 seconds...
+2025-03-29 11:44:07,408 - INFO - Profile BinaryGhost: Resuming...
+2025-03-29 11:44:07,431 - INFO - Profile BinaryGhost: Switched back to original tab.
+2025-03-29 11:44:07,433 - INFO - performing random action
+2025-03-29 11:44:07,433 - DEBUG - Scrolling page 4 times.
+2025-03-29 11:44:07,434 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:44:08,804 - DEBUG - Page scrolled.
+2025-03-29 11:44:11,807 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:44:13,299 - DEBUG - Page scrolled.
+2025-03-29 11:44:16,300 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:44:17,436 - DEBUG - Page scrolled.
+2025-03-29 11:44:20,438 - DEBUG - Scrolling page by 500 pixels.
+2025-03-29 11:44:21,504 - DEBUG - Page scrolled.
+2025-03-29 11:44:24,506 - DEBUG - Random scrolls complete.
+2025-03-29 11:44:26,861 - DEBUG - Total comments in the thread: 3
+2025-03-29 11:44:27,095 - INFO - Post content extracted and saved to Thread-Details/Thread Content\AI to create CGI video Ads.txt
+2025-03-29 11:44:29,142 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-29 11:44:29,196 - DEBUG - Extracted main post content: Does any one know AI that can create CGI ads viral video with same quality as that of one made by blender ?
+2025-03-29 11:44:34,092 - INFO - Successfully generated comments using Gemini API.
+2025-03-29 11:44:34,093 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-29 11:44:36,167 - INFO - performing random action
+2025-03-29 11:44:36,170 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 11:44:36,171 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 11:44:36,184 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 11:44:36,234 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-29 11:44:36,240 - DEBUG - Text box scrolled into view
+2025-03-29 11:44:36,897 - DEBUG - Initializing actionchains
+2025-03-29 11:44:36,917 - DEBUG - Post reply Element location: {'x': 1231, 'y': 1790}, size: {'height': 21, 'width': 68}
+2025-03-29 11:44:36,917 - DEBUG - Target click coordinates: (1265, 1800)
+2025-03-29 11:44:43,962 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-29 11:44:43,964 - DEBUG - Moving mouse to text box element.
+2025-03-29 11:44:43,965 - DEBUG - Clicking on the text box.
+2025-03-29 11:44:43,968 - DEBUG - Sending keys with content: Honestly, I haven't seen an AI *quite* there yet, but RunwayML is getting close; have you checked that out?
+
+2025-03-29 11:44:49,762 - DEBUG - Clicking on post reply button.
+2025-03-29 11:45:00,630 - DEBUG - Performed Actionchains
+2025-03-29 11:45:00,630 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-29 11:45:04,632 - INFO - Comment posted successfully.
+2025-03-29 11:45:04,634 - INFO - Task Completed!!
+2025-03-29 11:45:11,123 - INFO - Navigated back to the homepage.
+2025-03-29 11:45:13,317 - INFO - Attempting to clear memory and resources.
+2025-03-29 11:45:13,348 - INFO - Garbage collection completed.
+2025-03-29 11:45:13,349 - INFO - Waiting for 1850 seconds before next execution.
